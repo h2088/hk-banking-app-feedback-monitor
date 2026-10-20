@@ -1,0 +1,11 @@
+{
+  "report": "report_customer_feedback.html",
+  "report_sha256": "61946ec92de378a13e9cfec9deb672c5f2cb5cf589e7ac19b99249c61aea021d",
+  "rows": 311,
+  "input_sha256": "ed6b8c5f19ea872d4f846082aa4dfe4af603b319c9bcdc2547db9354e610feec",
+  "manual_review_sha256": "97d0e48aa96d34c0f80d8e337c491676bf8fb5b0123bd45a594354889928637d",
+  "analysis_summary_sha256": "d61089c1c19d7f6c0a44706642f12d9a9f5e1fc862ca65b2bc5e481844082e4d",
+  "config_sha256": "8ba27b3cb0610315a0ce5c646a713d809996bb36223bd4529a0c85467c73160d",
+  "external_assets": false,
+  "platform_split": false
+}

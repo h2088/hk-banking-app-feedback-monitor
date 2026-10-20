@@ -1,0 +1,192 @@
+{
+  "checkpoint": "F",
+  "checked_at_utc": "2026-10-19T13:34:21.992492+00:00",
+  "report_sha256": "9a4667c8f230ee097b54b2fd2edd076d51f7e28d775d560d03ec4c5999ce2f1c",
+  "scope": "English customer reviews; SC Mobile vs HSBC; overall app-level",
+  "network_requests": 0,
+  "checks": [
+    {
+      "name": "final source export hashes",
+      "passed": true,
+      "detail": {
+        "files_verified": 2
+      }
+    },
+    {
+      "name": "merged artifact hashes",
+      "passed": true,
+      "detail": {
+        "files_verified": 9
+      }
+    },
+    {
+      "name": "QA artifact hashes",
+      "passed": true,
+      "detail": {
+        "files_verified": 7
+      }
+    },
+    {
+      "name": "analysis artifact hashes",
+      "passed": true,
+      "detail": {
+        "files_verified": 12
+      }
+    },
+    {
+      "name": "build and test evidence matches delivered HTML",
+      "passed": true,
+      "detail": {
+        "static_tests": 12,
+        "browser_assertions": 1398,
+        "browser_rerun_in_F": false,
+        "reason": "Unchanged tested HTML hash"
+      }
+    },
+    {
+      "name": "CSV JSON and final coverage facts",
+      "passed": true,
+      "detail": {
+        "csv_json_rows_matched": 311,
+        "facts": {
+          "english_rows": 311,
+          "all_language_rows": 5278,
+          "english_latest_hk": "2026-10-16",
+          "all_language_latest_hk": "2026-10-17",
+          "start_inclusive_hk": "2026-04-19T00:00:00+08:00",
+          "end_exclusive_hk": "2026-10-20T00:00:00+08:00",
+          "apps": {
+            "sc_mobile": {
+              "reviews": 98,
+              "mean_rating": 2.2551,
+              "low_star_count": 65,
+              "low_star_percent": 66.33
+            },
+            "hsbc_hk": {
+              "reviews": 213,
+              "mean_rating": 3.2817,
+              "low_star_count": 86,
+              "low_star_percent": 40.38
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "row provenance and saved raw evidence",
+      "passed": true,
+      "detail": {
+        "rows_traced_to_source_export": 311,
+        "unique_raw_responses": 11,
+        "note": "Raw response hashes recorded now; not an independent live-source verification"
+      }
+    },
+    {
+      "name": "delivery document relative links",
+      "passed": true,
+      "detail": {
+        "documents": 8,
+        "local_links_checked": 67,
+        "method": "Static path resolution; not a relocated-folder browser test"
+      }
+    },
+    {
+      "name": "all theme values in narrative match analysis",
+      "passed": true,
+      "detail": {
+        "theme_rows_checked": 11
+      }
+    }
+  ],
+  "verified_hashes": {
+    "data/google_play_2026-10-19/run_03_full_history/all_languages_fetched.json": "fdeaca551760df2935977e4f372b32d027e0abb879b6df98d34e5c0b673cb45e",
+    "data/apple_2026-10-19/run_03/all_languages_fetched.json": "249e45d02c3c1f2a47deec50e9ab3b382f1ce77859e3a46b4c4bcf3d62d9d781",
+    "data/merged_2026-10-19/master_all_reviews.csv": "b4b5f0232b0d1a1f9d67bee92379e1638e91402ad441fa58947b1af638b309d1",
+    "data/merged_2026-10-19/master_all_reviews.json": "a04bdd34eaceddb4f66b5f087689122c5f5a08015cdd0b23cff6a9adbbf4f1d7",
+    "data/merged_2026-10-19/master_english_all.csv": "af36baf069420abd6835ff51927a6419520c67d783b6064e9bc0384903113f9a",
+    "data/merged_2026-10-19/master_english_all.json": "faf2cfe380200c8725598de9f779c68cbb3501a154a5ad1ccb33b3c0e683eecc",
+    "data/merged_2026-10-19/master_english_six_months.csv": "55615aa3df2f07f7109c48a6462c83f0cc7ea7d60c99228e4a1dc347058be400",
+    "data/merged_2026-10-19/master_english_six_months.json": "d6410a3e12bbd2dbcfd9bd7ef193212ab7aa1dee6ff2c669245f5ef249debeb3",
+    "data/merged_2026-10-19/master_six_months_all.csv": "995fb012a2d77d66284dad2bf905039039a5b03e030596946ab34d715aa6c9ea",
+    "data/merged_2026-10-19/master_six_months_all.json": "7d10984193f058796e59dde625c9e06e37ae22828a47e6f8237363791deadef6",
+    "data/merged_2026-10-19/reviews_master.xlsx": "d92b2aeafa484151b6765ff62881198f4eac3d1139a9d667cd2546ee39204bbe",
+    "data/checkpoint_C_qa_2026-10-19/coverage_by_app_platform.csv": "c39beda117ce475b6888bce58c131e1e3a727d3e19baf7413d562c3fa209e2e5",
+    "data/checkpoint_C_qa_2026-10-19/coverage_by_month.csv": "81ec26215fdd4f5532331115f69d834ce39119c0032ae862dfbf0c76438d3338",
+    "data/checkpoint_C_qa_2026-10-19/coverage_by_rating.csv": "5b581ecab63cc5ca52b07cf7d990bbfe240058c20aeed612d5fcef41c090ac11",
+    "data/checkpoint_C_qa_2026-10-19/coverage_long_platform_month_language_rating.csv": "a7402fb7f2d4c9e13d56a85471ae61867d0447de888da474677bfe0efabbeb11",
+    "data/checkpoint_C_qa_2026-10-19/english_six_months_qa.csv": "acf8877e0c04ddb31f7519638effb6176656296abb3c3729a8d287a8dc6efce3",
+    "data/checkpoint_C_qa_2026-10-19/english_six_months_qa.json": "eea43396bbbd1bd19010f626c0a687098f30cfc470f5adf47b0a99ef83e4dbfb",
+    "data/checkpoint_C_qa_2026-10-19/README.md": "76e31c5ca435e3b2e92e7ac07a04a1922ea34c4f2945855e517d5a5de8d59fef",
+    "data/checkpoint_D_analysis_2026-10-19/comment_labels.csv": "cb2a010d77df3caf1993ba940eeaa9aba79084e594a3563ac99b51f609ef170d",
+    "data/checkpoint_D_analysis_2026-10-19/comment_labels.json": "74d8fbca133f791acf78bde05956703970f29ec0e33ac80893455c1d28af835e",
+    "data/checkpoint_D_analysis_2026-10-19/monthly_overall_feedback.csv": "b388314a1b00c21b9702fcaa7b89545bf34d584b4447abef92654a8f67e0633f",
+    "data/checkpoint_D_analysis_2026-10-19/overall_benchmark.csv": "d4e1311ba7f74f11287917eb5b18de843c7a5bc4a231fbda5c18c95064cf9667",
+    "data/checkpoint_D_analysis_2026-10-19/overall_benchmark.json": "8cae4ed91b5ca2e5de9d5511a47948304cbf8838f13c61d6aa9c030d8ed444fc",
+    "data/checkpoint_D_analysis_2026-10-19/README.md": "e93f8c5d5d9e21c6ddedcd2eea96d22099ea2c5ec82309a69c8a2d73995857f4",
+    "data/checkpoint_D_analysis_2026-10-19/representative_quotes.csv": "25b87794758519ff0a72f2b9b3d84d4d0dc94f45929c4d1a68c1e1b997e59def",
+    "data/checkpoint_D_analysis_2026-10-19/themes_by_app.csv": "4e1c38c3aa5be0b46f2c205a8c49e90a3bbd2bf723eb7fa6ea5415b4501c8d6e",
+    "data/checkpoint_D_analysis_2026-10-19/themes_overall.csv": "5d4b1b8e5e6f7ab0f8cb91bf97ea17867b89077043cde1bcdfed64fef9dfb071",
+    "data/checkpoint_D_analysis_2026-10-19/top_themes_by_app.csv": "31f645cdc9c44657373710ca371776f3af264570e83d4447d3ed46000707937f",
+    "data/checkpoint_D_analysis_2026-10-19/validation_sample.csv": "4b9a22d8856d05cdf94f016280dd9b228a219411faa8a8d977d1db9749702753",
+    "data/checkpoint_D_analysis_2026-10-19/validation_sample_summary.json": "02fe0fa76d041d540ca1454c07b845ce89bdd04cd38532a4fa0380e8568df4dd"
+  },
+  "facts": {
+    "english_rows": 311,
+    "all_language_rows": 5278,
+    "english_latest_hk": "2026-10-16",
+    "all_language_latest_hk": "2026-10-17",
+    "start_inclusive_hk": "2026-04-19T00:00:00+08:00",
+    "end_exclusive_hk": "2026-10-20T00:00:00+08:00",
+    "apps": {
+      "sc_mobile": {
+        "reviews": 98,
+        "mean_rating": 2.2551,
+        "low_star_count": 65,
+        "low_star_percent": 66.33
+      },
+      "hsbc_hk": {
+        "reviews": 213,
+        "mean_rating": 3.2817,
+        "low_star_count": 86,
+        "low_star_percent": 40.38
+      }
+    }
+  },
+  "raw_evidence_sha256_at_review": {
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_01_variant1.body": "e7a5dba86574b282dd2865718c90990f74bc7a06ede46a0596754591b66d6216",
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_02_variant1.body": "a04ca2fe0ce2a2ec69ba48f3b3b745028893e97505be388f8c92bedf42a9af46",
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_03_repair083308528767_3.body": "93377f6010f7f089a4b4743adb56564e95dc1ed89ba117855fa51e6dd9a145ce",
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_04_repair083308528767_7.body": "66b1c6b1ac348fd1db9ebbe5d44c999a3c923b4de019dd841419966530556276",
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_05_repair083308528767_3.body": "13f9031003442123bed734915218aa931469ca1a84ecd398a670c94fc9e7a2a3",
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_06_variant2.body": "707437a2de469ce3c3caab4b2c3d4df4cb7f64c81a4ee97c05eb0528c71024c0",
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_01_variant1.body": "3b33263021ff036bebab51c3c736757843e8529ed5f2b5d33e0c3ac516c6d764",
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_02_variant3.body": "4eb885491bc0b85f68a7c2e99833da190b736fd0a622458ca9dd46a863080a90",
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_03_variant1.body": "604314e441d1efba81dc93375f90833b070051751f8123c0545e12046dc984ff",
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0001.body": "088b256873e8e5e07d915e72f51acec1106c64ef9921386018edfdb81d20c611",
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0001.body": "2bc90c99eba795c6d37bf2073093d8c5bcb3b182043890fc2a706793c57bfa56"
+  },
+  "checks_run": 9,
+  "failed": [],
+  "successful": true,
+  "limits": [
+    "No recrawl or live source-page validation",
+    "No new classifier accuracy evaluation",
+    "Browser result reused by identical report hash; Edge desktop only",
+    "Relative-link checks are static, not a full folder-relocation runtime test"
+  ],
+  "delivery_file_sha256_at_review": {
+    "plan.md": "293a74738e09d38506175f6f6044dbc5054f8ea595f6cfa9c07e0f6545ec35bf",
+    "checkpoint_A_source_feasibility.md": "a26384b491a6370e119f2d37cb414f43f126178ae9b1a8baf81bd7916aa6baa9",
+    "checkpoint_B_data_collection.md": "c581f9d7563433e6660064f4c805257863b73b465eff7343dce3d040659dceb1",
+    "checkpoint_C_data_qa.md": "6e77013db8d7b61c5d4118efa0a35763113e6bf1d91ce48006b4a97b0f5df2d5",
+    "checkpoint_D_customer_feedback_analysis.md": "2e6a8cdd8f31a829074fbc382cd234eb4cbd257a263d6741a5f3d4e454e16550",
+    "checkpoint_E_build_test.md": "080fccc57d4d1b3f9d06070606b72bba788c730b822fd49d3735b7f320ee0a11",
+    "checkpoint_F_final_review.md": "f54774625f69a0421f48ca1e394d385ee8f903f93a66ebffc626049828aa8d3e",
+    "handover.md": "1bc4b169d54fe114f46f410a043878c5131a1586453a8fe55062d6abc9191077",
+    "report_customer_feedback_2026-10-19.html": "9a4667c8f230ee097b54b2fd2edd076d51f7e28d775d560d03ec4c5999ce2f1c",
+    "scripts/final_review_feedback.py": "6b0c0c732331c47e08e1e7647fe786631cb0cffa9a684883fa15c66dbcedb12f",
+    "data/checkpoint_D_analysis_2026-10-19/report_build_manifest.json": "132fa11fc5ae9a9c60f5ea2d831996f4ef762fd71bc31225517ba78816cb53bb",
+    "data/checkpoint_D_analysis_2026-10-19/report_static_test_results.json": "2cab497e383d88a6f782c0da8699d6a5cd6d8ab754bd4aa9a30bb94ec578bb42",
+    "data/checkpoint_D_analysis_2026-10-19/report_browser_test_results.json": "3dcafc8f04d90d831e83f71e61ee13eb5b77b85934fd644b1495aff9ab8abf11"
+  }
+}

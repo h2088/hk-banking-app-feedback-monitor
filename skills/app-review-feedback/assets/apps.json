@@ -1,0 +1,24 @@
+[
+  {
+    "key": "sc_mobile",
+    "name": "SC Mobile Hong Kong",
+    "bank": "Standard Chartered",
+    "role": "primary",
+    "google_id": "com.scb.breezebanking.hk",
+    "google_language": "en-US",
+    "apple_id": "445795688",
+    "apple_slug": "sc-mobile-hong-kong",
+    "apple_language": "en-GB"
+  },
+  {
+    "key": "hsbc_hk",
+    "name": "HSBC HK Mobile Banking",
+    "bank": "HSBC",
+    "role": "benchmark",
+    "google_id": "hk.com.hsbc.hsbchkmobilebanking",
+    "google_language": "en",
+    "apple_id": "1164066737",
+    "apple_slug": "hsbc-hk-mobile-banking",
+    "apple_language": "en-US"
+  }
+]

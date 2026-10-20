@@ -1,0 +1,30 @@
+[
+  {
+    "group": "sc_mobile",
+    "review_count": 98,
+    "mean_rating": 2.2551,
+    "negative_count_rating_1_2": 65,
+    "negative_rate_rating_1_2": 0.663265,
+    "positive_count_rating_4_5": 29,
+    "positive_rate_rating_4_5": 0.295918,
+    "one_star_count": 58,
+    "one_star_rate": 0.591837,
+    "text_negative_rule_count": 58,
+    "text_negative_rule_rate": 0.591837,
+    "short_text_count": 17
+  },
+  {
+    "group": "hsbc_hk",
+    "review_count": 213,
+    "mean_rating": 3.2817,
+    "negative_count_rating_1_2": 86,
+    "negative_rate_rating_1_2": 0.403756,
+    "positive_count_rating_4_5": 117,
+    "positive_rate_rating_4_5": 0.549296,
+    "one_star_count": 77,
+    "one_star_rate": 0.361502,
+    "text_negative_rule_count": 66,
+    "text_negative_rule_rate": 0.309859,
+    "short_text_count": 66
+  }
+]

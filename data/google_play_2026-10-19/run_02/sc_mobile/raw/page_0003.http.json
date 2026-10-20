@@ -1,0 +1,41 @@
+{
+  "requested_url": "https://play.google.com/_/PlayStoreUi/data/batchexecute?hl=en-US&gl=hk",
+  "method": "POST",
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"
+  },
+  "request_body": "f.req=%5B%5B%5B%22oCPfdb%22%2C%22%5Bnull%2C%5B2%2C2%2C%5B200%2Cnull%2C%5C%22CtMBIsoBAV8d1P3DJplW5mkgA7I9OZqBRlAkeNDjLjIIZbLBUh25h3tEK7jUgF8q6TqkbxTNAoHs8xCOUSAYtdJrmAREOd_5Nt0rK_oPLdPzYUsSJgg0ErJkqTeCYdKPi4qTZYCjXPXCLTkuObfYjsOrKEtZMGB5KtdcQetX0bnuSidBHdN3rGuVrS0SVvFjSFBPPe7NxfWPFsOUzsDRSPzBMgJLZErKYHWBgaWfI8XV4wgMXD5GqYHsydqzzChAR_-2YTOCGlJQWUKCcg3G9iioltfWBg%5C%22%5D%2Cnull%2C%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%5D%5D%2C%5B%5C%22com.scb.breezebanking.hk%5C%22%2C7%5D%5D%22%2Cnull%2C%22generic%22%5D%5D%5D%0A",
+  "started_at_utc": "2026-10-19T07:47:56.325323+00:00",
+  "attempt": 1,
+  "status": 200,
+  "final_url": "https://play.google.com/_/PlayStoreUi/data/batchexecute?hl=en-US&gl=hk",
+  "response_headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+    "Pragma": "no-cache",
+    "Expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+    "Date": "Mon, 19 Oct 2026 07:48:00 GMT",
+    "Content-Disposition": "attachment; filename=\"response.bin\"; filename*=UTF-8''response.bin",
+    "X-Content-Type-Options": "nosniff",
+    "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Content-Security-Policy": "require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "Permissions-Policy": "ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*",
+    "Accept-CH": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+    "Cross-Origin-Resource-Policy": "same-site",
+    "Server": "ESF",
+    "X-XSS-Protection": "0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Set-Cookie": "NID=CuQBCAESlgEBOxGDSEL3V342PggiZ6M5GwxSkO28yLpnEnGL2gIofR0v83C99NQs5Z3AMaoWMowjgy8n0IjyKR4PweL8wmd2iG9gLgnz-UAkcB6biy3moHSim5afdyuL2S5KPMhGzUhN_E0CvlgpPsKy-7CpUSqW9bxmGoBl9aFU5mnVPsprXGS5odPR-jW_qsMx0_DpwHUlkRXItVIoATJFAdKsB88fuN3Xd_oTQKOZPq47h9Aw7vE4c3sAcIToeZUC4l-wlTc3Xf2jM3FrYppIIcHkNmqEh4W1xh1gR04w7bzBy8QC; expires=Tue, 20-Apr-2027 07:48:00 GMT; path=/; domain=.google.com; HttpOnly",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "Accept-Ranges": "none",
+    "Vary": "Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  },
+  "bytes": 217103,
+  "sha256": "68e35977e0e1cb2f4190baec866a591996c9c64844066a12cb99f40e854a052c"
+}

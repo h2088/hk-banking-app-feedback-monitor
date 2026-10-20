@@ -1,0 +1,78 @@
+{
+  "status": "reviewed",
+  "reviewer": "Codex agent，本批重新逐条阅读 10 条样本；非独立人工标注集",
+  "reviewed_at": "2026-10-19",
+  "sample_sha256": "0e3cc9b6ca07c95f6c9c8d88263a190f424f4cbc480fbc9a40e70d85197d98a0",
+  "judgements": [
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:5f83fbbc-a93d-4d43-93df-941558309c64",
+      "fingerprint": "39eeac7c1957265eb94c436ca7ae2ac2d80486945a20f7d3ecb4a6e28b7f8c1b",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "正文明确说更新后意外强制关闭、无法操作并要求修复；1 星负面与稳定性主题合理。更新与故障的因果没有单独验证。"
+    },
+    {
+      "record_key": "apple:445795688:14657144927",
+      "fingerprint": "0f4c07de04a247a2590a79cba7b5bdf95448b3407eb282f852b748fc43ab8b84",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "标题说无法加载，正文具体指转账页面无法加载，2 星负面及稳定性、转账支付两个主题合理；关于阻止转出资金的说法是评论者猜测，不能写成事实。"
+    },
+    {
+      "record_key": "apple:445795688:14625921365",
+      "fingerprint": "47f1090cd5de0e1c2d82d1ad54560b7ef3a2db93a798235f62c87a33e8846063",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "3 星映射为中性，但标题和正文批评 iPhone 问卷显示越界及关闭按钮难找，文字偏负面；易用性主题符合，保留星级与文字差异。"
+    },
+    {
+      "record_key": "apple:445795688:14645236876",
+      "fingerprint": "4431ce52f4a7fe3c66da8af1b632dd87e604f14073606c67e0cbf411d2d9e230",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "标题 easy to use、正文 user-friendly 与 4 星正面、易用性主题一致；内容很短，不推断具体功能体验。"
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:2742140c-bb8e-4eef-a4dd-1af6544ed6a1",
+      "fingerprint": "72e1cf83e06f9189ffa47d16a0b9b930b7826f3eb5012a31fabdbe507b1e9da4",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "正文 easy to use thanks，与 5 星正面及易用性匹配；短评不支持进一步的具体问题分类。"
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:277e0a3b-bb79-4c38-81df-a23252b56ff5",
+      "fingerprint": "3e4a317da25ca692579773566c518b1e2a5fd998a1f1afec3a986ca9926a00df",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "poor verification process 与 1 星负面及认证主题匹配；文字未说明是哪一步认证，不能断定 OTP 或生物识别。"
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:7d2a0e75-4a63-4d53-aebe-b993fa8ac61b",
+      "fingerprint": "f33762e8922f93278f27c5fa6ee5c30fe8e75ec8a26bd495dc6355876385e18b",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "complicated app、annoying 支持 2 星负面及易用性。fx ads 被宽泛规则匹配费用／汇率，但实际抱怨 FX 广告，不是已经确认的费用或汇率问题；保留规则结果并记录误命中边界。"
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:09c9c1ad-9052-43be-9194-f8cfaa522ace",
+      "fingerprint": "252a27dec49513f3022472ca392ec2f544f0ca665b90c31d3932f726399f9a12",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "3 星及关于欢迎页显示姓名的安全建议，安全／隐私主题合理。评论是风险担忧和改进建议，不能写成已经发生诈骗或隐私泄露。"
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:fc616416-2dc7-443a-bb70-546be042c22b",
+      "fingerprint": "2835e00a83b03a33060a422d39f43d52b5b31225dc8f2a1ca47b23ac31e9e231",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "4 星映射正面，但正文 cannot do scree shot is very frustrating 明显表达不满；保留这种不一致。截图能力归功能建议合理，不能凭文字判断技术原因。"
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:6ac3aa37-f227-4bb0-afea-669f596562d8",
+      "fingerprint": "e2821026adf4a23be67d16669971bad4546c025c21a642ba392c214aa9ae848e",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "5 星及 best 支持正面，但 services、systems、app 是泛化赞扬，缺少具体问题证据；不强制分配主题合理。未分类不等于没有反馈。"
+    }
+  ]
+}

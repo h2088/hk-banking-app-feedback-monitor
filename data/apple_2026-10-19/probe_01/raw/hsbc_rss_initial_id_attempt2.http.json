@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://itunes.apple.com/hk/rss/customerreviews/page=1/id=1164066737/sortBy=mostRecent/json?l=en",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9"
+  },
+  "request_body": null,
+  "started_at_utc": "2026-10-19T08:18:41.163537+00:00",
+  "attempt": 2,
+  "error": "URLError: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+}

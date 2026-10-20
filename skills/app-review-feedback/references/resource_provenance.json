@@ -1,0 +1,61 @@
+{
+  "origin": "SC Mobile / HSBC project, 2026-10-19",
+  "extractions": [
+    {
+      "source": "analyze_feedback_overall.py",
+      "source_sha256": "6698285cc9996e27b140d85e5dcff3e921058d9b024f14f2483ae91a95d19fcf",
+      "output": "theme_rules.py",
+      "selected_symbols": [
+        "NEGATIVE",
+        "NEGATIVE_RE",
+        "POSITIVE",
+        "POSITIVE_RE",
+        "THEMES",
+        "THEME_RE",
+        "classify",
+        "explicit_sentiment",
+        "grouped",
+        "metrics",
+        "normalized",
+        "ratio",
+        "text_sentiment",
+        "theme_hits",
+        "theme_metrics",
+        "word_count"
+      ]
+    },
+    {
+      "source": "collect_apple.py",
+      "source_sha256": "74d3bdf51f68500bcf2e7bbd7dbbdc541f4aa5d690eeda505aae24d47e4d885e",
+      "output": "apple_parser.py",
+      "selected_symbols": [
+        "entries_from_feed",
+        "entry_label",
+        "parse_feed"
+      ]
+    },
+    {
+      "source": "collect_google_play.py",
+      "source_sha256": "59990b067db283122cd91dae2ed04f93b339b6cfaf6f32c736cc95465a9d3026",
+      "output": "source_utils.py",
+      "selected_symbols": [
+        "language",
+        "nested",
+        "parse_rpc"
+      ]
+    },
+    {
+      "source": "merge_reviews.py",
+      "source_sha256": "09209cd450f6b0d8860a4cf9c4e80138aeff727295bf8f09f09279f8b0f11f29",
+      "output": "xlsx_core.py",
+      "selected_symbols": [
+        "column_name",
+        "require",
+        "scalar",
+        "tag",
+        "worksheet"
+      ]
+    }
+  ],
+  "note": "Selected rules/parsers only; no historical reviews or manual labels included."
+}

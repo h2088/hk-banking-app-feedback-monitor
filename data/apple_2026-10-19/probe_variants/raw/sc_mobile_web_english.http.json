@@ -1,0 +1,42 @@
+{
+  "requested_url": "https://apps.apple.com/hk/app/sc-mobile-hong-kong/id445795688?l=en-GB",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9"
+  },
+  "request_body": null,
+  "started_at_utc": "2026-10-19T08:23:51.382739+00:00",
+  "attempt": 1,
+  "status": 200,
+  "final_url": "https://apps.apple.com/cn/iphone/today",
+  "response_headers": {
+    "Content-Type": "text/html",
+    "Content-Length": "2179843",
+    "Connection": "close",
+    "Alt-Svc": "h3=\":443\";ma=2592000,h3-29=\":443\";ma=2592000",
+    "X-Dynamic-Status": "MISS from KS-CLOUD-KM-CT-42-10",
+    "Server": "nginx",
+    "Date": "Mon, 19 Oct 2026 08:23:53 GMT",
+    "cache-control": "public, max-age=900",
+    "content-security-policy": "upgrade-insecure-requests; default-src 'none'; manifest-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; font-src 'self' https://*.apple.com; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com; connect-src 'self' https://*.apple.com https://*.mzstatic.com; media-src 'self' https://*.apple.com blob:; child-src 'self' https://*.apple.com; frame-src 'self' https://*.apple.com itms-appss: macappstore:; worker-src blob:; frame-ancestors 'none'; block-all-mixed-content; report-uri /api/csp-report",
+    "etag": "\"7mZzhgsmiD8U27pbrDagbuCcBiw3lRHZOHjBTR+Xn6w=\"",
+    "link": "<https://is1-ssl.mzstatic.com>; rel=preconnect",
+    "vary": "accept-encoding",
+    "x-apple-jingle-correlation-key": "SZJRVSGPKZBERPRA3R7YZTSXB4",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-responding-instance": "amp-web-app-store-server:amp-web-app-store-server-main-759b885b44-b6mc7:4200:2640.6.0-external",
+    "x-xss-protection": "1; mode=block",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "x-daiquiri-instance": "daiquiri:10001:daiquiri-all-shared-ext-6f446b6b75-dw62w:7987:26HOTFIX41:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-ty2-amp-daiquiri-ingress-prod",
+    "x-daiquiri-debug-worker-pid": "233640",
+    "X-KSC-Request-ID": "6049b8a6ab61b7e0728e2604bd613e28",
+    "X-Cache": "MISS KS-CLOUD",
+    "CDN-Server": "ksftf",
+    "X-Cdn-Request-ID": "6049b8a6ab61b7e0728e2604bd613e28",
+    "x-link-via": "kmct42:443"
+  },
+  "bytes": 2179843,
+  "sha256": "c61e4922e9bc0b582310e215cc564e87e838d34a60153cdd8eebd2a627d4a998"
+}

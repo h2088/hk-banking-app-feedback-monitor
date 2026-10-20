@@ -1,0 +1,156 @@
+[
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:5f83fbbc-a93d-4d43-93df-941558309c64",
+    "app": "SC Mobile Hong Kong",
+    "app_key": "sc_mobile",
+    "review_id": "5f83fbbc-a93d-4d43-93df-941558309c64",
+    "review_time_hk": "2026-10-16T09:25:03+08:00",
+    "rating": 1,
+    "text": "the app force closed unexpectedly after the update, can't even manage anything. please fix ASAP",
+    "title": null,
+    "source_url": "https://play.google.com/store/apps/details?id=com.scb.breezebanking.hk&hl=en-US&gl=HK&reviewId=5f83fbbc-a93d-4d43-93df-941558309c64"
+  },
+  {
+    "record_key": "apple:1164066737:14640444470",
+    "app": "HSBC HK Mobile Banking",
+    "app_key": "hsbc_hk",
+    "review_id": "14640444470",
+    "review_time_hk": "2026-10-08T10:46:51+08:00",
+    "rating": 1,
+    "text": "It always says “there is an error” without specifying what the error is. Very annoying",
+    "title": "Counterintuitive",
+    "source_url": "https://apps.apple.com/hk/app/hsbc-hk-mobile-banking/id1164066737?l=en-GB&see-all=reviews&platform=iphone"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:386912f6-16ac-450e-bea1-2f5b625a7be7",
+    "app": "SC Mobile Hong Kong",
+    "app_key": "sc_mobile",
+    "review_id": "386912f6-16ac-450e-bea1-2f5b625a7be7",
+    "review_time_hk": "2026-09-22T11:34:52+08:00",
+    "rating": 1,
+    "text": "crash immediately when login, I am guessing the code are doing some weird OS check before starting. Maybe it is because i am using a custom ROM and then the code are unable to identify the OS. You should try to have a default that could work without checking the OS",
+    "title": null,
+    "source_url": "https://play.google.com/store/apps/details?id=com.scb.breezebanking.hk&hl=en-US&gl=HK&reviewId=386912f6-16ac-450e-bea1-2f5b625a7be7"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:277e0a3b-bb79-4c38-81df-a23252b56ff5",
+    "app": "HSBC HK Mobile Banking",
+    "app_key": "hsbc_hk",
+    "review_id": "277e0a3b-bb79-4c38-81df-a23252b56ff5",
+    "review_time_hk": "2026-10-15T02:39:51+08:00",
+    "rating": 1,
+    "text": "poor verification process",
+    "title": null,
+    "source_url": "https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking&hl=en&gl=HK&reviewId=277e0a3b-bb79-4c38-81df-a23252b56ff5"
+  },
+  {
+    "record_key": "apple:445795688:14615873095",
+    "app": "SC Mobile Hong Kong",
+    "app_key": "sc_mobile",
+    "review_id": "14615873095",
+    "review_time_hk": "2026-10-02T02:03:38+08:00",
+    "rating": 1,
+    "text": "In these recent App updates, you keep changing the layout. It makes it hard to locate. Why makes it not easy for user to use? And the fonts because very small. The app is unable to enlarge. OMG ! Why make it difficult????\n\n\nFeel like crazy. This is unable to find and unable to read. Is this updated not going for user to use??? If I want an urgent suspense of my credit card due to suspected Scam Now get no way to read and no where to find. This is really a very poor App  update  and poor design ever seen from any of Bank App",
+    "title": "Ms Chau",
+    "source_url": "https://apps.apple.com/hk/app/sc-mobile-hong-kong/id445795688?l=en-GB&see-all=reviews&platform=iphone"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:3bfa169e-c20c-4a48-b781-a7c059f78968",
+    "app": "HSBC HK Mobile Banking",
+    "app_key": "hsbc_hk",
+    "review_id": "3bfa169e-c20c-4a48-b781-a7c059f78968",
+    "review_time_hk": "2026-09-28T16:37:25+08:00",
+    "rating": 1,
+    "text": "it s so confusing and buggy when u want to set up a new global payee and transfer money.",
+    "title": null,
+    "source_url": "https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking&hl=en&gl=HK&reviewId=3bfa169e-c20c-4a48-b781-a7c059f78968"
+  },
+  {
+    "record_key": "apple:445795688:14615385452",
+    "app": "SC Mobile Hong Kong",
+    "app_key": "sc_mobile",
+    "review_id": "14615385452",
+    "review_time_hk": "2026-10-01T23:33:41+08:00",
+    "rating": 1,
+    "text": "I registered the app, but when I open the app, it just hang up. White screen, can’t help",
+    "title": "Cannot use, disappointed",
+    "source_url": "https://apps.apple.com/hk/app/sc-mobile-hong-kong/id445795688?l=en-GB&see-all=reviews&platform=iphone"
+  },
+  {
+    "record_key": "apple:1164066737:14613228862",
+    "app": "HSBC HK Mobile Banking",
+    "app_key": "hsbc_hk",
+    "review_id": "14613228862",
+    "review_time_hk": "2026-10-01T10:20:38+08:00",
+    "rating": 1,
+    "text": "In App chat is useless, phone press 1, 2, 3, 4…speak the reason… 1, 2.. speak the reason again…endlessly",
+    "title": "App is working well. But the  hard to reach out customer service",
+    "source_url": "https://apps.apple.com/hk/app/hsbc-hk-mobile-banking/id1164066737?l=en-GB&see-all=reviews&platform=iphone"
+  },
+  {
+    "record_key": "apple:1164066737:14547387354",
+    "app": "HSBC HK Mobile Banking",
+    "app_key": "hsbc_hk",
+    "review_id": "14547387354",
+    "review_time_hk": "2026-09-14T10:37:56+08:00",
+    "rating": 1,
+    "text": "online account opening is an absolute joke. The ID scanner is completely broken—it fails to focus and constantly claims the image is unclear, no matter the lighting or angle. total waste of time",
+    "title": "unusable id scanner",
+    "source_url": "https://apps.apple.com/hk/app/hsbc-hk-mobile-banking/id1164066737?l=en-GB&see-all=reviews&platform=iphone"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:d3527734-b381-492f-87fe-9973d1ecf1e8",
+    "app": "SC Mobile Hong Kong",
+    "app_key": "sc_mobile",
+    "review_id": "d3527734-b381-492f-87fe-9973d1ecf1e8",
+    "review_time_hk": "2026-08-05T02:09:40+08:00",
+    "rating": 1,
+    "text": "Marathon saving account has no info about when start , when end, interest rate for different period, why not follow your son (Mox bank app has detailed info for their flex boost saving account) Account title still cannot show all characters. Integrated deposits acc.... Integrated despairs acc.... there is no means to differentiate btw saving account and current account. App UI still buggy, when Marathon account balance is 0, it shows \"Add Money\" button,",
+    "title": null,
+    "source_url": "https://play.google.com/store/apps/details?id=com.scb.breezebanking.hk&hl=en-US&gl=HK&reviewId=d3527734-b381-492f-87fe-9973d1ecf1e8"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:2b26037f-f377-46e9-bedc-7d8ee2a00246",
+    "app": "HSBC HK Mobile Banking",
+    "app_key": "hsbc_hk",
+    "review_id": "2b26037f-f377-46e9-bedc-7d8ee2a00246",
+    "review_time_hk": "2026-06-28T12:49:30+08:00",
+    "rating": 1,
+    "text": "mobile cash withdrawal should not show account balance in any case",
+    "title": null,
+    "source_url": "https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking&hl=en&gl=HK&reviewId=2b26037f-f377-46e9-bedc-7d8ee2a00246"
+  },
+  {
+    "record_key": "apple:445795688:14570577907",
+    "app": "SC Mobile Hong Kong",
+    "app_key": "sc_mobile",
+    "review_id": "14570577907",
+    "review_time_hk": "2026-09-20T10:12:32+08:00",
+    "rating": 2,
+    "text": "I changed my app’s language from Chi to Eng. A while later i want to change it back to Chi but it doesn’t work. Plz see if there is bug\n\niPhone 15 Pro x iOS 27",
+    "title": "Cannot Change Back to Chinese",
+    "source_url": "https://apps.apple.com/hk/app/sc-mobile-hong-kong/id445795688?l=en-GB&see-all=reviews&platform=iphone"
+  },
+  {
+    "record_key": "apple:1164066737:14108505488",
+    "app": "HSBC HK Mobile Banking",
+    "app_key": "hsbc_hk",
+    "review_id": "14108505488",
+    "review_time_hk": "2026-05-26T23:22:40+08:00",
+    "rating": 1,
+    "text": "Every time open the app, the same advertisement display again and again, forever loop",
+    "title": "Forever ads",
+    "source_url": "https://apps.apple.com/hk/app/hsbc-hk-mobile-banking/id1164066737?l=en-GB&see-all=reviews&platform=iphone"
+  },
+  {
+    "record_key": "apple:1164066737:14243637313",
+    "app": "HSBC HK Mobile Banking",
+    "app_key": "hsbc_hk",
+    "review_id": "14243637313",
+    "review_time_hk": "2026-06-30T12:35:10+08:00",
+    "rating": 1,
+    "text": "Unable to view transactions on mobile App or website. If you made a transfer but forgot to take a screenshot or share the image, you could never recover the details. I am switching to Citibank for all my money transfers from now on.",
+    "title": "Unable to view transactions.",
+    "source_url": "https://apps.apple.com/hk/app/hsbc-hk-mobile-banking/id1164066737?l=en-GB&see-all=reviews&platform=iphone"
+  }
+]

@@ -1,0 +1,23 @@
+﻿group,theme,theme_label,review_count,theme_mentions,theme_mention_rate,theme_negative_count,theme_negative_rate,theme_mean_rating,theme_short_text_count
+hsbc_hk,app_stability_performance,App stability / performance,213,20,0.093897,19,0.95,1.3,1
+hsbc_hk,login_authentication_access,Login / authentication / access,213,19,0.089202,15,0.789474,1.8947,1
+hsbc_hk,transfers_payments_cards,Transfers / payments / cards,213,35,0.164319,20,0.571429,2.7143,2
+hsbc_hk,usability_navigation_design,Usability / navigation / design,213,37,0.173709,12,0.324324,3.6486,6
+hsbc_hk,customer_support_service,Customer support / service,213,21,0.098592,11,0.52381,2.8571,3
+hsbc_hk,account_registration,Account / registration,213,10,0.046948,6,0.6,2.1,0
+hsbc_hk,balance_statements_history,Balance / statements / history,213,2,0.00939,2,1.0,1.0,0
+hsbc_hk,security_fraud_trust,Security / fraud / trust,213,6,0.028169,0,0.0,4.6667,1
+hsbc_hk,language_localization,Language / localization,213,0,0.0,0,,,0
+hsbc_hk,fees_rates,Fees / rates,213,2,0.00939,2,1.0,1.5,0
+hsbc_hk,feature_request,Feature request / suggestion,213,9,0.042254,5,0.555556,2.6667,0
+sc_mobile,app_stability_performance,App stability / performance,98,28,0.285714,26,0.928571,1.3571,2
+sc_mobile,login_authentication_access,Login / authentication / access,98,27,0.27551,24,0.888889,1.4444,0
+sc_mobile,transfers_payments_cards,Transfers / payments / cards,98,31,0.316327,21,0.677419,2.1613,1
+sc_mobile,usability_navigation_design,Usability / navigation / design,98,19,0.193878,9,0.473684,2.7895,1
+sc_mobile,customer_support_service,Customer support / service,98,14,0.142857,8,0.571429,2.5,2
+sc_mobile,account_registration,Account / registration,98,10,0.102041,7,0.7,2.1,1
+sc_mobile,balance_statements_history,Balance / statements / history,98,3,0.030612,2,0.666667,2.0,0
+sc_mobile,security_fraud_trust,Security / fraud / trust,98,3,0.030612,3,1.0,1.0,0
+sc_mobile,language_localization,Language / localization,98,3,0.030612,2,0.666667,2.6667,0
+sc_mobile,fees_rates,Fees / rates,98,2,0.020408,2,1.0,1.5,0
+sc_mobile,feature_request,Feature request / suggestion,98,8,0.081633,7,0.875,1.5,0

@@ -1,0 +1,5 @@
+{"feed":{"author":{"name":{"label":"iTunes Store"}, "uri":{"label":"http://www.apple.com/itunes/"}}, "updated":{"label":"2026-10-19T01:27:44-07:00"}, "rights":{"label":"Copyright 2008 Apple Inc."}, "title":{"label":"iTunes Store：用户評論"}, "icon":{"label":"http://itunes.apple.com/favicon.ico"}, "link":[
+{"attributes":{"rel":"alternate", "type":"text/html", "href":"https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=hk&id=172314"}}, 
+{"attributes":{"rel":"self", "href":"https://itunes.apple.com/hk/rss/customerreviews/page=2/id=445795688/sortBy=mostRecent/json"}}, 
+{"attributes":{"rel":"first", "href":""}}, {"attributes":{"rel":"last", "href":""}}, 
+{"attributes":{"rel":"previous", "href":""}}, {"attributes":{"rel":"next", "href":""}}], "id":{"label":"https://itunes.apple.com/hk/rss/customerreviews/page=2/id=445795688/sortBy=mostRecent/json"}}}

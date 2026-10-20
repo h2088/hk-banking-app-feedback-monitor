@@ -1,0 +1,8 @@
+{
+  "sample_rows": 10,
+  "selection": "one newest-first review for each available app_key x rating stratum; platform intentionally not used as a reporting split",
+  "manual_annotation_status": "reviewed",
+  "manual_review_file": "checkpoint_D_customer_feedback_analysis.md",
+  "manual_review_result": "10/10 explicit star-rating labels and 10/10 broad theme assignments were plausible on this spot-check; two text/rating disagreements were retained as evidence that text polarity is supplemental.",
+  "purpose": "Check that star-rating sentiment and keyword themes are plausible before publishing findings; short generic comments should not be over-interpreted."
+}

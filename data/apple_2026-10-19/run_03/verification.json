@@ -1,0 +1,10 @@
+{
+  "record_count": 1000,
+  "records_traced_to_original_http": 1000,
+  "raw_bodies_verified": 102,
+  "errors": [],
+  "unique_app_review_ids": true,
+  "newest_first": true,
+  "invalid_ratings": 0,
+  "english_export_respects_cutoff": true
+}

@@ -1,0 +1,13 @@
+{
+  "requested_url": "https://play.google.com/_/PlayStoreUi/data/batchexecute?hl=en&gl=hk",
+  "method": "POST",
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"
+  },
+  "request_body": "f.req=%5B%5B%5B%22oCPfdb%22%2C%22%5Bnull%2C%5B2%2C2%2C%5B200%2Cnull%2C%5C%22CtkBItABAV8d1P2ulq7leA-S6YLUw80_bLTAfWUzAmu4j3kVCyb02PSsGMrMsBskeK9a0TOWKdwrg7InVJPsZ7vbkzDdu3lp4kUD9etm-2AEgMyr2cw61KzAdNO5PLdy9Ym-F6PoX35oiyUdb9E74MWbAp3u-KNIFCEGR0taR0XgxuqZAozlW7XORtkmE5dGItSaFk0148qReTl0Yuar6xjIs5VgWIAejeKMEiV8D4-xLIxtzXowcDuJi5IGD4N6xKMYuz1rggyg8m4PT7sucv6VdvKbMSi2ltfWBg%5C%22%5D%2Cnull%2C%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%5D%5D%2C%5B%5C%22hk.com.hsbc.hsbchkmobilebanking%5C%22%2C7%5D%5D%22%2Cnull%2C%22generic%22%5D%5D%5D%0A",
+  "started_at_utc": "2026-10-19T07:48:11.896636+00:00",
+  "attempt": 1,
+  "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>"
+}

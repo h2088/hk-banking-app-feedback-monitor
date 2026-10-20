@@ -1,0 +1,182 @@
+[
+  {
+    "review_id": "6afe152f-7cc5-4b44-9de8-45e7bb29b181",
+    "app": "SC Mobile Hong Kong",
+    "text": "easy as pie !",
+    "previous_language": "und",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English idiom; too short for automatic detection."
+  },
+  {
+    "review_id": "8c8cb6ef-7b68-4dcb-b5db-e82ba3d7eef1",
+    "app": "SC Mobile Hong Kong",
+    "text": "good service!",
+    "previous_language": "hr",
+    "previous_status": "non_english",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English phrase misclassified as Croatian."
+  },
+  {
+    "review_id": "d564c9c3-d9b6-4c0b-8397-98ed206bb022",
+    "app": "SC Mobile Hong Kong",
+    "text": "error code #1001, can't log in",
+    "previous_language": "es",
+    "previous_status": "non_english",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English login-error complaint misclassified as Spanish."
+  },
+  {
+    "review_id": "57e63e10-c42c-4a8c-a2d4-7adb98257119",
+    "app": "SC Mobile Hong Kong",
+    "text": "buggy app",
+    "previous_language": "und",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: short English phrase."
+  },
+  {
+    "review_id": "5005d954-208d-4d65-ad9f-6374dd326c01",
+    "app": "SC Mobile Hong Kong",
+    "text": "more convenient",
+    "previous_language": "fr",
+    "previous_status": "non_english",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English comparative phrase misclassified as French."
+  },
+  {
+    "review_id": "016e7175-e4d6-4063-9de5-b5691c4667f1",
+    "app": "SC Mobile Hong Kong",
+    "text": "v good",
+    "previous_language": "und",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: abbreviated English very good."
+  },
+  {
+    "review_id": "277e0a3b-bb79-4c38-81df-a23252b56ff5",
+    "app": "HSBC HK Mobile Banking",
+    "text": "poor verification process",
+    "previous_language": "it",
+    "previous_status": "non_english",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English phrase misclassified as Italian."
+  },
+  {
+    "review_id": "272083bf-20ab-4b91-b6a4-2da1d5a9012b",
+    "app": "HSBC HK Mobile Banking",
+    "text": "thank you hsbc",
+    "previous_language": "en",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English thank-you phrase with bank name."
+  },
+  {
+    "review_id": "7bfe734b-de7c-4d93-b5e0-436a41e5a3f9",
+    "app": "HSBC HK Mobile Banking",
+    "text": "good service",
+    "previous_language": "hr",
+    "previous_status": "non_english",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English phrase misclassified as Croatian."
+  },
+  {
+    "review_id": "4e66d265-6f90-4eea-9a93-61b892dc4f5f",
+    "app": "HSBC HK Mobile Banking",
+    "text": "HSBC never disappoints. Solid banking app.",
+    "previous_language": "af",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English sentences; automatic language confidence insufficient."
+  },
+  {
+    "review_id": "6909057f-7318-4c74-b2dd-9de0c603dd0f",
+    "app": "HSBC HK Mobile Banking",
+    "text": "speedy!",
+    "previous_language": "und",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English adjective."
+  },
+  {
+    "review_id": "88398715-89a1-43e1-8794-346e05de285f",
+    "app": "HSBC HK Mobile Banking",
+    "text": "very convenience🙏",
+    "previous_language": "en",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English wording with grammatical error and emoji."
+  },
+  {
+    "review_id": "30d43802-af51-4c35-b714-52cb57ed842d",
+    "app": "HSBC HK Mobile Banking",
+    "text": "faboulus",
+    "previous_language": "und",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: apparent English misspelling of fabulous; original spelling preserved."
+  },
+  {
+    "review_id": "2f375c82-39f6-489c-ab95-ea318cb7528c",
+    "app": "HSBC HK Mobile Banking",
+    "text": "so good",
+    "previous_language": "und",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: short English phrase."
+  },
+  {
+    "review_id": "d5191095-01f2-4442-aa89-9c7c1ae21eb2",
+    "app": "HSBC HK Mobile Banking",
+    "text": "👏👏👏 very satisfied",
+    "previous_language": "af",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English phrase with emojis; automatically uncertain."
+  },
+  {
+    "review_id": "9f14a126-a27d-4ef4-9f8c-c4f52fa6cc6b",
+    "app": "HSBC HK Mobile Banking",
+    "text": "cannot update",
+    "previous_language": "it",
+    "previous_status": "non_english",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English phrase misclassified as Italian."
+  },
+  {
+    "review_id": "21c85707-4de5-4bcf-b319-40ffe43b79b7",
+    "app": "HSBC HK Mobile Banking",
+    "text": "Garbage among garbage",
+    "previous_language": "id",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English phrase; automatic language confidence insufficient."
+  },
+  {
+    "review_id": "4af04f84-906e-4bfa-87eb-6c8b51bb5e25",
+    "app": "HSBC HK Mobile Banking",
+    "text": "best banking app in hk",
+    "previous_language": "af",
+    "previous_status": "uncertain",
+    "new_language": "en",
+    "new_status": "english",
+    "reason": "Manual review: English phrase with Hong Kong abbreviation."
+  }
+]

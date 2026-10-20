@@ -1,0 +1,33 @@
+{
+  "skill": "app-review-feedback",
+  "package": "app-review-feedback.zip",
+  "files": 24,
+  "file_sha256": {
+    "agents/openai.yaml": "807bca9f1ace6676b10e324256359c20db98bbd5e886dd39c00a7027a0095af9",
+    "assets/apps.json": "c134a7661cac6d3f96862c41003275a4ffe62ea34f29fec6125d775704166a26",
+    "assets/report.css": "2593105d935516b4d853c61509b5df45090044bdb9102b97004257b1853f483b",
+    "assets/report.js": "bec3f5c45221084d6d941dbf6074664bca43e8b73bb7079e2539da2983797088",
+    "assets/requirements-collection.txt": "e18463a7bd6b60e59d8486c3c9b3f736af826d212c6fe17ab3b928be383f0d75",
+    "references/execution.md": "c844512a7543052206177cd39dd8e7cded1749ae1794ab6d235e4d47176a51e9",
+    "references/methods.md": "b5671c191bbe3d3b38b84c115ae9b7796811537e98b735ee8ed1174a5f398e87",
+    "references/resource_provenance.json": "46e9e1b8ebe7ca1b450ccba423eb3d52b8e1b9af10042d2d61a5f2701153d113",
+    "references/validation.md": "30a0b239067081c2aa1a7c108d42c3ad4abe26378f8c8281f57ad9f010be12d9",
+    "references/workflow.md": "6d16b116ca0114fc45c64379c72fda0f17f53d3308e9397bd34e64b627e7ee38",
+    "scripts/apple_parser.py": "34c43a9a6d53673648e642f5c733c375bcf47d44eb6e0ce8996c6891a2be6277",
+    "scripts/browser_check.py": "519bb6fc456d7aaa2ce656fef384a9ff04057dcad0146caf99e59f4f6043bf3a",
+    "scripts/build_report.py": "781e95d3b763d31b63571535e3492442a1ca49eb0d1d0d2c7bbdc2e334e0f528",
+    "scripts/collect_reviews.py": "990ae1ee5c0507aeb9f8b91e4b2f54f468302c954680ac7d4727de002faa1ca4",
+    "scripts/extract_project_resources.py": "8f558522e8449920806d0323ec5ffb91fc0113ed060c77fcc2b71361829557ff",
+    "scripts/feedback_io.py": "3135218b38abb6c92c281d9a5c06c25de608d53952f82b91e7513d990095d38e",
+    "scripts/package_skill.py": "1ac8b9a4ade639e48fe9d501cf018fa86e3a4a954fb45cb013be7ea9890f8bfa",
+    "scripts/run_feedback.py": "2f69fb9ba9355e38cc520403694ccbbaa7d743e4e0f3d849b1bb4f9598ce7e72",
+    "scripts/source_utils.py": "ee3e0435ee49471f233acbc920d221c96614a153411b60447900ff929f6cee66",
+    "scripts/test_workflow.py": "eb065e506e8023f426d30dac327efa1321d80d3e2198b4c5484a87c10292e196",
+    "scripts/theme_rules.py": "2518be03fc6f4bdcdeb961e97f5ffe6248a25030299a4198b37982e579cae8bc",
+    "scripts/verify_report.py": "46cccf639289fb4347850a24a8d9131c2d9bf62ea26dd25bbef3f31bc2cb3afb",
+    "scripts/xlsx_core.py": "6e327efd90f55930c23a5e6213c39775dacda13aabf24f303f32713e865b0c83",
+    "SKILL.md": "19dc665a6ac183ea1b0a68374eff5bf56366bcdec1dbc58776969b194cda2c39"
+  },
+  "package_sha256": "51316b7de9625de4a1a454352615e470083cbadcd5baa653381c66fc218cf800",
+  "excludes_customer_data_and_caches": true
+}

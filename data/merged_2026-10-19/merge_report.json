@@ -1,0 +1,120 @@
+{
+  "merged_at_utc": "2026-10-19T08:51:33.399433+00:00",
+  "window_start_inclusive_hk": "2026-04-19T00:00:00+08:00",
+  "window_end_exclusive_hk": "2026-10-20T00:00:00+08:00",
+  "sort": "review_timestamp_seconds descending; record_key ascending for ties",
+  "unique_key": "platform key + app_id + review_id",
+  "field_count": 45,
+  "input_files": [
+    {
+      "platform": "Google Play",
+      "file": "data/google_play_2026-10-19/run_03_full_history/all_languages_fetched.json",
+      "sha256": "fdeaca551760df2935977e4f372b32d027e0abb879b6df98d34e5c0b673cb45e",
+      "rows": 4278
+    },
+    {
+      "platform": "Apple App Store",
+      "file": "data/apple_2026-10-19/run_03/all_languages_fetched.json",
+      "sha256": "249e45d02c3c1f2a47deec50e9ab3b382f1ce77859e3a46b4c4bcf3d62d9d781",
+      "rows": 1000
+    }
+  ],
+  "statistics": [
+    {
+      "platform": "Google Play",
+      "app": "SC Mobile Hong Kong",
+      "app_key": "sc_mobile",
+      "all_fetched": 1051,
+      "english_all": 882,
+      "six_months_all": 53,
+      "english_six_months": 48
+    },
+    {
+      "platform": "Google Play",
+      "app": "HSBC HK Mobile Banking",
+      "app_key": "hsbc_hk",
+      "all_fetched": 3227,
+      "english_all": 2720,
+      "six_months_all": 99,
+      "english_six_months": 92
+    },
+    {
+      "platform": "Apple App Store",
+      "app": "SC Mobile Hong Kong",
+      "app_key": "sc_mobile",
+      "all_fetched": 500,
+      "english_all": 261,
+      "six_months_all": 108,
+      "english_six_months": 50
+    },
+    {
+      "platform": "Apple App Store",
+      "app": "HSBC HK Mobile Banking",
+      "app_key": "hsbc_hk",
+      "all_fetched": 500,
+      "english_all": 208,
+      "six_months_all": 268,
+      "english_six_months": 121
+    }
+  ],
+  "exports": {
+    "master_all_reviews": {
+      "rows": 5278,
+      "sorted_newest_first": true,
+      "csv_json_round_trip": true,
+      "xlsx_typed_cell_round_trip": true
+    },
+    "master_english_all": {
+      "rows": 4071,
+      "sorted_newest_first": true,
+      "csv_json_round_trip": true,
+      "xlsx_typed_cell_round_trip": true
+    },
+    "master_six_months_all": {
+      "rows": 528,
+      "sorted_newest_first": true,
+      "csv_json_round_trip": true,
+      "xlsx_typed_cell_round_trip": true
+    },
+    "master_english_six_months": {
+      "rows": 311,
+      "sorted_newest_first": true,
+      "csv_json_round_trip": true,
+      "xlsx_typed_cell_round_trip": true
+    }
+  },
+  "language_status_all": {
+    "non_english": 662,
+    "english": 4071,
+    "mixed": 194,
+    "uncertain": 351
+  },
+  "latest_review_hk": "2026-10-17T14:33:05+08:00",
+  "earliest_review_hk": "2013-09-06T20:50:05+08:00",
+  "duplicate_keys": 0,
+  "dropped_rows": 0,
+  "source_fields_preserved": true,
+  "source_language_labels_and_manual_corrections_preserved": true,
+  "english_subsets_match_both_final_source_exports": true,
+  "all_evidence_paths_exist": true,
+  "input_hashes_unchanged_after_merge": true,
+  "xlsx_no_formulas": true,
+  "coverage_caveats": [
+    "Apple 香港公开 RSS 每应用 500 条，不是完整历史",
+    "Google 是本次地区/语言/排序接口返回范围，不保证全部商店展示",
+    "评论日期可能反映编辑时间；评论数不是客户数",
+    "英文标签沿用最终结果，历史自动识别可能有误",
+    "CSV 原样保存用户文本；在电子表格中应按文本导入，推荐直接使用已设文本类型的 XLSX"
+  ],
+  "artifact_hashes_sha256": {
+    "master_all_reviews.csv": "b4b5f0232b0d1a1f9d67bee92379e1638e91402ad441fa58947b1af638b309d1",
+    "master_all_reviews.json": "a04bdd34eaceddb4f66b5f087689122c5f5a08015cdd0b23cff6a9adbbf4f1d7",
+    "master_english_all.csv": "af36baf069420abd6835ff51927a6419520c67d783b6064e9bc0384903113f9a",
+    "master_english_all.json": "faf2cfe380200c8725598de9f779c68cbb3501a154a5ad1ccb33b3c0e683eecc",
+    "master_english_six_months.csv": "55615aa3df2f07f7109c48a6462c83f0cc7ea7d60c99228e4a1dc347058be400",
+    "master_english_six_months.json": "d6410a3e12bbd2dbcfd9bd7ef193212ab7aa1dee6ff2c669245f5ef249debeb3",
+    "master_six_months_all.csv": "995fb012a2d77d66284dad2bf905039039a5b03e030596946ab34d715aa6c9ea",
+    "master_six_months_all.json": "7d10984193f058796e59dde625c9e06e37ae22828a47e6f8237363791deadef6",
+    "reviews_master.xlsx": "d92b2aeafa484151b6765ff62881198f4eac3d1139a9d667cd2546ee39204bbe"
+  }
+}

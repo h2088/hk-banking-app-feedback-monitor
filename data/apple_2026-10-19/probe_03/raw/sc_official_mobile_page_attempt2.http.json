@@ -1,0 +1,33 @@
+{
+  "requested_url": "https://www.sc.com/hk/bank-with-us/sc-mobile/",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9"
+  },
+  "request_body": null,
+  "started_at_utc": "2026-10-19T08:21:59.607812+00:00",
+  "attempt": 2,
+  "status": 200,
+  "final_url": "https://www.sc.com/hk/bank-with-us/app-sc-mobile/",
+  "response_headers": {
+    "Etag": "\"d558b6ef477ee70132fd91774c48c554\"",
+    "Last-Modified": "Fri, 02 Oct 2026 08:21:53 GMT",
+    "Content-Type": "text/html",
+    "Cache-Control": "max-age=300, public",
+    "Expires": "Mon, 19 Oct 2026 08:27:02 GMT",
+    "Date": "Mon, 19 Oct 2026 08:22:02 GMT",
+    "Set-Cookie": "incap_ses_228_3179607=G0EleLQVyxk5myW/iQUqAyvT1WoAAAAA7va61bKkZRj3NWWnr9+zVA==; path=/; Domain=.sc.com; Secure; SameSite=None",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "X-CDN": "Imperva",
+    "Content-Security-Policy": "frame-ancestors 'self' *.sc.com *.standardchartered.com *.standardchartered.co.in *.standardchartered.co.th *.standardchartered.com.hk *.standardchartered.com.my *.standardchartered.com.sg *.standardchartered.co.id *.standardchartered.com.tw standchartbank.experiencecloud.adobe.com experience.adobe.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' sc.com *.sc.com *.standardchartered.com www.google.com www.googletagmanager.com www.google-analytics.com maps.googleapis.com assets.adobedtm.com fast.wistia.com https://*.zscloud.net *.demdex.net *.omtrdc.net *.tt.omtrdc.net maps.google.com connect.facebook.net optimize.blis.asia snap.licdn.com secure.adnxs.com www.gstatic.com  *.g.doubleclick.net *.adsrvr.org s.yimg.com *.fls.doubleclick.net bat.bing.com sp.analytics.yahoo.com www.googleadservices.com secure.quantserve.com pixel.quantserve.com *.quantcount.com jscdn.appier.net tpc.googlesyndication.com *.c.appier.net *.cloudfront.net *.zenclerk.com cdn.id5-sync.com  tags.crwdcntrl.net www.google.com.hk googleadservices.com fls.doubleclick.net *.dartsearch.net *.g.doubleclick.net quantserve.com quantcount.com *.vpadn.com go.affec.tv data: *.taboola.com *.onetrust.com googletagmanager.com *.googletagmanager.com tagmanager.google.com ssl.google-analytics.com *.teads.tv *.contentsquare.net *.contentsquare.com acdn.adnxs.com px.ads.linkedin.com object-src *.sc.com *.standardchartered.com sc.com cdnapisec.kaltura.com",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Content-Type-Options": "nosniff",
+    "X-Permitted-Cross-Domain-Policies": "master-only",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Transfer-Encoding": "chunked",
+    "X-Iinfo": "13-88051877-88044088 2VNN RT(1792398122308 450) q(0 0 0 0) r(5 5) U18"
+  },
+  "bytes": 392911,
+  "sha256": "459115df60a61d350ab98b7b71375aa202963af92e9fa2d29c5a312ec81f023a"
+}

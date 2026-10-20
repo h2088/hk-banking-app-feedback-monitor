@@ -1,0 +1,33 @@
+{
+  "report": "report_customer_feedback_2026-10-19.html",
+  "report_sha256": "9a4667c8f230ee097b54b2fd2edd076d51f7e28d775d560d03ec4c5999ce2f1c",
+  "input": "data/merged_2026-10-19/master_english_six_months.json",
+  "input_sha256": "d6410a3e12bbd2dbcfd9bd7ef193212ab7aa1dee6ff2c669245f5ef249debeb3",
+  "rows_embedded": 311,
+  "external_network_assets": false,
+  "platform_split_in_metrics": false,
+  "pagination": {
+    "page_size": 60,
+    "all_rows_browsable": true
+  },
+  "display_names_embedded": false,
+  "latest_review_date_hk": "2026-10-16",
+  "short_body_count": 105,
+  "short_analysis_count": 83,
+  "analysis_artifact_sha256": {
+    "comment_labels.json": "74d8fbca133f791acf78bde05956703970f29ec0e33ac80893455c1d28af835e",
+    "overall_benchmark.csv": "d4e1311ba7f74f11287917eb5b18de843c7a5bc4a231fbda5c18c95064cf9667",
+    "monthly_overall_feedback.csv": "b388314a1b00c21b9702fcaa7b89545bf34d584b4447abef92654a8f67e0633f",
+    "themes_by_app.csv": "4e1c38c3aa5be0b46f2c205a8c49e90a3bbd2bf723eb7fa6ea5415b4501c8d6e",
+    "representative_quotes.csv": "25b87794758519ff0a72f2b9b3d84d4d0dc94f45929c4d1a68c1e1b997e59def"
+  },
+  "sections": [
+    "summary",
+    "benchmark",
+    "trend",
+    "themes",
+    "quotes",
+    "comments",
+    "method"
+  ]
+}

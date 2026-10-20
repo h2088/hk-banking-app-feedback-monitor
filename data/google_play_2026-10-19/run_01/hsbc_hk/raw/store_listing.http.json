@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking&hl=en&gl=HK",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9"
+  },
+  "request_body": null,
+  "started_at_utc": "2026-10-19T07:35:58.114179+00:00",
+  "attempt": 1,
+  "error": "URLError: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+}

@@ -1,0 +1,26 @@
+{
+  "source_sha256": "977a0de218bd0eaabcfac38e928f8a6043d82fe3d15a7b5eab829d0d75b8d5a5",
+  "config_sha256": "8ba27b3cb0610315a0ce5c646a713d809996bb36223bd4529a0c85467c73160d",
+  "counts": {
+    "master_all_reviews": 5278,
+    "master_english_all": 4071,
+    "master_six_months_all": 528,
+    "master_english_six_months": 311
+  },
+  "window_start": "2026-04-19T00:00:00+08:00",
+  "window_end_exclusive": "2026-10-20T00:00:00+08:00",
+  "latest_all_languages": "2026-10-17T14:33:05+08:00",
+  "latest_english_window": "2026-10-16T09:25:03+08:00",
+  "artifact_sha256": {
+    "manual_language_review.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "master_all_reviews.csv": "f6b0d09a136c5bc5f0a02e7aff047d9c49a0253e76dffbfeaaafe3d73e5410aa",
+    "master_all_reviews.json": "977a0de218bd0eaabcfac38e928f8a6043d82fe3d15a7b5eab829d0d75b8d5a5",
+    "master_english_all.csv": "ec696b4b8d03cd2d440eddb79e4fc1d0a720010eea4fada97e3254866af19031",
+    "master_english_all.json": "e5fa23f1baabc0febeaa24677c59579f625cc71c5fbf707053aca34a62ef99a7",
+    "master_english_six_months.csv": "850a810d1fb44cb98ccd2a923835d3f166b09d3ec47d853093464e0a8832631f",
+    "master_english_six_months.json": "ed6b8c5f19ea872d4f846082aa4dfe4af603b319c9bcdc2547db9354e610feec",
+    "master_six_months_all.csv": "b21a701f29ba7b09a61b86dcbac783ee005dcc5e35b959bc5fec67ddd4e53dd4",
+    "master_six_months_all.json": "309b2a16c238333de2a85c419ca0d63be79c593180bb22e66afaea7cd7e4d6d1",
+    "reviews_master.xlsx": "17a6bfbce16e190d37dd52816c84208087a458dc81394020052b9c387eb73050"
+  }
+}

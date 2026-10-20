@@ -1,0 +1,12 @@
+﻿group,theme,theme_label,review_count,theme_mentions,theme_mention_rate,theme_negative_count,theme_negative_rate,theme_mean_rating,theme_short_text_count
+overall,app_stability_performance,App stability / performance,311,48,0.154341,45,0.9375,1.3333,3
+overall,login_authentication_access,Login / authentication / access,311,46,0.14791,39,0.847826,1.6304,1
+overall,transfers_payments_cards,Transfers / payments / cards,311,66,0.212219,41,0.621212,2.4545,3
+overall,usability_navigation_design,Usability / navigation / design,311,56,0.180064,21,0.375,3.3571,7
+overall,customer_support_service,Customer support / service,311,35,0.11254,19,0.542857,2.7143,5
+overall,account_registration,Account / registration,311,20,0.064309,13,0.65,2.1,1
+overall,balance_statements_history,Balance / statements / history,311,5,0.016077,4,0.8,1.6,0
+overall,security_fraud_trust,Security / fraud / trust,311,9,0.028939,3,0.333333,3.4444,1
+overall,language_localization,Language / localization,311,3,0.009646,2,0.666667,2.6667,0
+overall,fees_rates,Fees / rates,311,4,0.012862,4,1.0,1.5,0
+overall,feature_request,Feature request / suggestion,311,17,0.054662,12,0.705882,2.1176,0

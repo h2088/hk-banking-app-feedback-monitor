@@ -1,0 +1,407 @@
+{
+  "source": "Apple App Store public RSS",
+  "storefront": "hk",
+  "since_hk": "2026-04-19",
+  "as_of_hk": "2026-10-19",
+  "statistics": [
+    {
+      "app": "SC Mobile Hong Kong",
+      "app_id": "445795688",
+      "fetched_unique": 500,
+      "all_languages_in_window": 108,
+      "english_in_window": 50,
+      "english_fetched_as_of": 261,
+      "all_languages_latest_hk": "2026-10-15T22:48:31+08:00",
+      "all_languages_earliest_hk": "2023-09-12T12:58:37+08:00",
+      "english_latest_hk": "2026-10-12T17:46:39+08:00",
+      "english_earliest_hk": "2026-04-22T16:37:54+08:00",
+      "english_by_month": {
+        "2026-04": 2,
+        "2026-05": 5,
+        "2026-06": 10,
+        "2026-07": 9,
+        "2026-08": 14,
+        "2026-09": 5,
+        "2026-10": 5
+      },
+      "language_status_in_window": {
+        "mixed": 20,
+        "non_english": 38,
+        "english": 50
+      },
+      "oldest_fetched_precedes_window": true
+    },
+    {
+      "app": "HSBC HK Mobile Banking",
+      "app_id": "1164066737",
+      "fetched_unique": 500,
+      "all_languages_in_window": 268,
+      "english_in_window": 121,
+      "english_fetched_as_of": 208,
+      "all_languages_latest_hk": "2026-10-17T14:33:05+08:00",
+      "all_languages_earliest_hk": "2026-03-14T20:07:02+08:00",
+      "english_latest_hk": "2026-10-10T08:21:26+08:00",
+      "english_earliest_hk": "2026-04-21T13:27:45+08:00",
+      "english_by_month": {
+        "2026-04": 9,
+        "2026-05": 17,
+        "2026-06": 28,
+        "2026-07": 16,
+        "2026-08": 28,
+        "2026-09": 16,
+        "2026-10": 7
+      },
+      "language_status_in_window": {
+        "non_english": 130,
+        "english": 121,
+        "mixed": 16,
+        "uncertain": 1
+      },
+      "oldest_fetched_precedes_window": true
+    }
+  ],
+  "crawls": [
+    {
+      "app": "SC Mobile Hong Kong",
+      "app_id": "445795688",
+      "storefront": "hk",
+      "sort": "mostRecent",
+      "request_profile": "browser",
+      "language_filter": "post_collection_title_and_body",
+      "request_language": "en-GB",
+      "started_at_utc": "2026-10-19T08:29:31.067087+00:00",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-08-12T15:14:34+08:00",
+          "latest_hk": "2026-10-15T22:48:31+08:00",
+          "in_six_month_window": 50,
+          "english_in_window_preliminary": 18,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=2/id=445795688/sortby=mostrecent/xml?l=en-GB&urlDesc=/customerreviews/page=1/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 2,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-05-04T15:14:27+08:00",
+          "latest_hk": "2026-08-11T21:44:56+08:00",
+          "in_six_month_window": 50,
+          "english_in_window_preliminary": 26,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=3/id=445795688/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=2/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 3,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-01-28T00:10:03+08:00",
+          "latest_hk": "2026-04-29T23:26:12+08:00",
+          "in_six_month_window": 8,
+          "english_in_window_preliminary": 1,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=4/id=445795688/sortby=mostrecent/xml?l=en-GB&urlDesc=/customerreviews/page=3/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 4,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2025-10-25T17:56:08+08:00",
+          "latest_hk": "2026-01-27T07:53:14+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=5/id=445795688/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=4/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 5,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2025-07-22T19:08:51+08:00",
+          "latest_hk": "2025-10-22T01:34:06+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=6/id=445795688/sortby=mostrecent/xml?l=en-GB&urlDesc=/customerreviews/page=5/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 6,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2025-02-27T09:28:41+08:00",
+          "latest_hk": "2025-07-18T17:56:16+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=7/id=445795688/sortby=mostrecent/xml?l=en-US&urlDesc=/customerreviews/page=6/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 7,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2024-09-10T21:31:32+08:00",
+          "latest_hk": "2025-02-26T13:49:06+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=8/id=445795688/sortby=mostrecent/xml?l=en-GB&urlDesc=/customerreviews/page=7/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 8,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2024-05-13T10:19:45+08:00",
+          "latest_hk": "2024-09-08T17:56:42+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=9/id=445795688/sortby=mostrecent/xml?urlDesc=/customerreviews/page=8/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 9,
+          "returned": 0,
+          "new_unique": 0,
+          "earliest_hk": null,
+          "latest_hk": null,
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": null,
+          "feed_next_url": ""
+        },
+        {
+          "page": 10,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2023-09-12T12:58:37+08:00",
+          "latest_hk": "2023-12-11T11:01:25+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=10/id=445795688/sortby=mostrecent/xml?l=en-GB&limit=50&urlDesc=/customerreviews/page=10/id=445795688/sortBy=mostRecent/json"
+        },
+        {
+          "page": 9,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2023-12-12T10:15:38+08:00",
+          "latest_hk": "2024-05-06T23:11:53+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=10/id=445795688/sortby=mostrecent/xml?l=zh-Hant&urlDesc=/customerreviews/page=9/id=445795688/sortBy=mostRecent/json"
+        }
+      ],
+      "errors": [],
+      "stop_reason": "repair_pass_finished",
+      "duplicate_occurrences": 0,
+      "unique_fetched": 500,
+      "since_hk": "2026-04-19",
+      "as_of_hk": "2026-10-19",
+      "unresolved_empty_pages": [],
+      "finished_at_utc": "2026-10-19T08:32:10.353075+00:00",
+      "repair_started_at_utc": "2026-10-19T08:32:01.448676+00:00"
+    },
+    {
+      "app": "HSBC HK Mobile Banking",
+      "app_id": "1164066737",
+      "storefront": "hk",
+      "sort": "mostRecent",
+      "request_profile": "browser",
+      "language_filter": "post_collection_title_and_body",
+      "request_language": "en-US",
+      "started_at_utc": "2026-10-19T08:29:41.281203+00:00",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-09-09T17:29:26+08:00",
+          "latest_hk": "2026-10-17T14:33:05+08:00",
+          "in_six_month_window": 50,
+          "english_in_window_preliminary": 16,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=2/id=1164066737/sortby=mostrecent/xml?l=en-US&urlDesc=/customerreviews/page=1/id=1164066737/sortBy=mostRecent/json"
+        },
+        {
+          "page": 2,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-08-20T13:16:01+08:00",
+          "latest_hk": "2026-09-09T10:19:50+08:00",
+          "in_six_month_window": 50,
+          "english_in_window_preliminary": 24,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=3/id=1164066737/sortby=mostrecent/xml?l=en-US&urlDesc=/customerreviews/page=2/id=1164066737/sortBy=mostRecent/json"
+        },
+        {
+          "page": 3,
+          "returned": 0,
+          "new_unique": 0,
+          "earliest_hk": null,
+          "latest_hk": null,
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": null,
+          "feed_next_url": ""
+        },
+        {
+          "page": 4,
+          "returned": 0,
+          "new_unique": 0,
+          "earliest_hk": null,
+          "latest_hk": null,
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": null,
+          "feed_next_url": ""
+        },
+        {
+          "page": 5,
+          "returned": 0,
+          "new_unique": 0,
+          "earliest_hk": null,
+          "latest_hk": null,
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": null,
+          "feed_next_url": ""
+        },
+        {
+          "page": 6,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-04-10T18:12:56+08:00",
+          "latest_hk": "2026-04-29T10:00:15+08:00",
+          "in_six_month_window": 18,
+          "english_in_window_preliminary": 6,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=7/id=1164066737/sortby=mostrecent/xml?l=en-GB&urlDesc=/customerreviews/page=6/id=1164066737/sortBy=mostRecent/json"
+        },
+        {
+          "page": 7,
+          "returned": 0,
+          "new_unique": 0,
+          "earliest_hk": null,
+          "latest_hk": null,
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": null,
+          "feed_next_url": ""
+        },
+        {
+          "page": 8,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-03-30T10:04:09+08:00",
+          "latest_hk": "2026-04-03T10:02:31+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=9/id=1164066737/sortby=mostrecent/xml?l=en-US&urlDesc=/customerreviews/page=8/id=1164066737/sortBy=mostRecent/json"
+        },
+        {
+          "page": 9,
+          "returned": 0,
+          "new_unique": 0,
+          "earliest_hk": null,
+          "latest_hk": null,
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": null,
+          "feed_next_url": ""
+        },
+        {
+          "page": 10,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-03-14T20:07:02+08:00",
+          "latest_hk": "2026-03-23T20:35:52+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=10/id=1164066737/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=10/id=1164066737/sortBy=mostRecent/json"
+        },
+        {
+          "page": 3,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-06-27T21:57:52+08:00",
+          "latest_hk": "2026-08-18T14:11:41+08:00",
+          "in_six_month_window": 50,
+          "english_in_window_preliminary": 23,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=4/id=1164066737/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=3/id=1164066737/sortBy=mostRecent/xml"
+        },
+        {
+          "page": 4,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-06-02T09:35:44+08:00",
+          "latest_hk": "2026-06-26T23:31:27+08:00",
+          "in_six_month_window": 50,
+          "english_in_window_preliminary": 23,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=5/id=1164066737/sortby=mostrecent/xml?l=zh-HK&urlDesc=/customerreviews/page=4/id=1164066737/sortBy=mostRecent/json"
+        },
+        {
+          "page": 5,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-04-29T22:01:18+08:00",
+          "latest_hk": "2026-06-01T22:52:15+08:00",
+          "in_six_month_window": 50,
+          "english_in_window_preliminary": 19,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=6/id=1164066737/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=5/id=1164066737/sortBy=mostRecent/xml"
+        },
+        {
+          "page": 7,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-04-03T12:20:34+08:00",
+          "latest_hk": "2026-04-10T14:36:59+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=8/id=1164066737/sortby=mostrecent/xml?l=en-GB&urlDesc=/customerreviews/page=7/id=1164066737/sortBy=mostRecent/json"
+        },
+        {
+          "page": 9,
+          "returned": 50,
+          "new_unique": 50,
+          "earliest_hk": "2026-03-23T23:58:11+08:00",
+          "latest_hk": "2026-03-30T08:58:38+08:00",
+          "in_six_month_window": 0,
+          "english_in_window_preliminary": 0,
+          "advertised_last_page": 10,
+          "feed_next_url": "https://itunes.apple.com/hk/rss/customerreviews/page=10/id=1164066737/sortby=mostrecent/xml?urlDesc=/customerreviews/page=9/id=1164066737/sortBy=mostRecent/xml"
+        }
+      ],
+      "errors": [],
+      "stop_reason": "repair_pass_finished",
+      "duplicate_occurrences": 0,
+      "unique_fetched": 500,
+      "since_hk": "2026-04-19",
+      "as_of_hk": "2026-10-19",
+      "unresolved_empty_pages": [],
+      "finished_at_utc": "2026-10-19T08:33:57.658250+00:00",
+      "repair_started_at_utc": "2026-10-19T08:33:08.528748+00:00",
+      "historical_resolved_errors": [
+        "AttributeError: 'list' object has no attribute 'get'"
+      ]
+    }
+  ],
+  "manual_language_corrections": 15,
+  "verification": {
+    "record_count": 1000,
+    "records_traced_to_original_http": 1000,
+    "raw_bodies_verified": 102,
+    "errors": [],
+    "unique_app_review_ids": true,
+    "newest_first": true,
+    "invalid_ratings": 0,
+    "english_export_respects_cutoff": true
+  }
+}

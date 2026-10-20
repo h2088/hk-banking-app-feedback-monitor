@@ -1,0 +1,32 @@
+[
+  {
+    "key": "apple_lookup_initial_ids",
+    "url": "https://itunes.apple.com/lookup?id=445795688,1164066737&country=hk",
+    "error": "RuntimeError: Request failed: https://itunes.apple.com/lookup?id=445795688,1164066737&country=hk: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+  },
+  {
+    "key": "apple_search_sc",
+    "url": "https://itunes.apple.com/search?term=SC%20Mobile%20Hong%20Kong&country=hk&entity=software&limit=10",
+    "error": "RuntimeError: Request failed: https://itunes.apple.com/search?term=SC%20Mobile%20Hong%20Kong&country=hk&entity=software&limit=10: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+  },
+  {
+    "key": "apple_search_hsbc",
+    "url": "https://itunes.apple.com/search?term=HSBC%20HK%20Mobile%20Banking&country=hk&entity=software&limit=10",
+    "error": "RuntimeError: Request failed: https://itunes.apple.com/search?term=HSBC%20HK%20Mobile%20Banking&country=hk&entity=software&limit=10: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+  },
+  {
+    "key": "sc_official_mobile_page",
+    "url": "https://www.sc.com/hk/bank-with-us/sc-mobile/",
+    "error": "RuntimeError: Request failed: https://www.sc.com/hk/bank-with-us/sc-mobile/: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+  },
+  {
+    "key": "sc_rss_initial_id",
+    "url": "https://itunes.apple.com/hk/rss/customerreviews/page=1/id=445795688/sortBy=mostRecent/json?l=en",
+    "error": "RuntimeError: Request failed: https://itunes.apple.com/hk/rss/customerreviews/page=1/id=445795688/sortBy=mostRecent/json?l=en: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+  },
+  {
+    "key": "hsbc_rss_initial_id",
+    "url": "https://itunes.apple.com/hk/rss/customerreviews/page=1/id=1164066737/sortBy=mostRecent/json?l=en",
+    "error": "RuntimeError: Request failed: https://itunes.apple.com/hk/rss/customerreviews/page=1/id=1164066737/sortBy=mostRecent/json?l=en: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+  }
+]

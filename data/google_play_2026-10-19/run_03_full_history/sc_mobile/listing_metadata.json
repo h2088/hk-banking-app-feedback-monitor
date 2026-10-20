@@ -1,0 +1,34 @@
+{
+  "source_url": "https://play.google.com/store/apps/details?id=com.scb.breezebanking.hk&hl=en-US&gl=HK",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "SC Mobile Hong Kong",
+      "url": "https://play.google.com/store/apps/details/SC_Mobile_Hong_Kong?id=com.scb.breezebanking.hk&hl=en_US",
+      "description": "SC Mobile is a convenient application to access your accounts anytime.",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "FINANCE",
+      "image": "https://play-lh.googleusercontent.com/BYv3D-qUlXUNCCjcZzgVX0cWq9IhE6_f3GXoXSLbg2_0Js7xccRXG_D021x3RO5d_Wb3NG0W9JXYpvMM2kLU",
+      "contentRating": "Rated for 3+",
+      "author": {
+        "@type": "Person",
+        "name": "Standard Chartered Bank PLC",
+        "url": "https://www.sc.com/hk/"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.476825714111328",
+        "ratingCount": "47178"
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "HKD",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+    }
+  ]
+}

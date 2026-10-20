@@ -1,0 +1,167 @@
+[
+  {
+    "review_id": "14525319418",
+    "app": "SC Mobile Hong Kong",
+    "previous_status": "non_english",
+    "app_id": "445795688",
+    "expected_title": "Easy",
+    "expected_text": "Easy to make",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: short English phrase misclassified as Tagalog."
+  },
+  {
+    "review_id": "14445603648",
+    "app": "SC Mobile Hong Kong",
+    "previous_status": "uncertain",
+    "app_id": "445795688",
+    "expected_title": "Transfer",
+    "expected_text": "Handy",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English title and adjective; short-text uncertainty."
+  },
+  {
+    "review_id": "14274033821",
+    "app": "SC Mobile Hong Kong",
+    "previous_status": "uncertain",
+    "app_id": "445795688",
+    "expected_title": "cant login app",
+    "expected_text": "cant login app",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English login complaint with original spelling preserved."
+  },
+  {
+    "review_id": "14026712655",
+    "app": "SC Mobile Hong Kong",
+    "previous_status": "uncertain",
+    "app_id": "445795688",
+    "expected_title": "Convenient",
+    "expected_text": "Reliable",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English adjectives; automatic confidence insufficient."
+  },
+  {
+    "review_id": "13995027752",
+    "app": "SC Mobile Hong Kong",
+    "previous_status": "uncertain",
+    "app_id": "445795688",
+    "expected_title": "Can’t login after update",
+    "expected_text": "Can’t login after update",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English login complaint; automatic confidence insufficient."
+  },
+  {
+    "review_id": "14574607880",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "uncertain",
+    "app_id": "1164066737",
+    "expected_title": "Thank you",
+    "expected_text": "User friendly design",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English phrases; automatically uncertain."
+  },
+  {
+    "review_id": "14520535440",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "non_english",
+    "app_id": "1164066737",
+    "expected_title": "Internet banking",
+    "expected_text": "User friendly and helpful",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English phrases misclassified as Danish."
+  },
+  {
+    "review_id": "14481964690",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "uncertain",
+    "app_id": "1164066737",
+    "expected_title": "Reliable",
+    "expected_text": "Consistent",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English adjectives; short-text uncertainty."
+  },
+  {
+    "review_id": "14366290542",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "uncertain",
+    "app_id": "1164066737",
+    "expected_title": "comment",
+    "expected_text": "quick and effectively",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English wording; original grammar preserved."
+  },
+  {
+    "review_id": "14322758395",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "uncertain",
+    "app_id": "1164066737",
+    "expected_title": "Angry",
+    "expected_text": "Can’t update and can't go to login page",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English update and login complaint."
+  },
+  {
+    "review_id": "14316900336",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "non_english",
+    "app_id": "1164066737",
+    "expected_title": "Fund Transfer Review",
+    "expected_text": "Very Good And Convenient",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English phrases misclassified as German."
+  },
+  {
+    "review_id": "14288356969",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "uncertain",
+    "app_id": "1164066737",
+    "expected_title": "Lag",
+    "expected_text": "Lag",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English computing term describing delay; short-text uncertainty."
+  },
+  {
+    "review_id": "14251817128",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "non_english",
+    "app_id": "1164066737",
+    "expected_title": "HSBC HK Mobile Banking",
+    "expected_text": "Very user friendly",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English app name and phrase misclassified as Danish."
+  },
+  {
+    "review_id": "14153819527",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "uncertain",
+    "app_id": "1164066737",
+    "expected_title": "Ms",
+    "expected_text": "Better provide an option ‘update later’",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English update suggestion; automatically uncertain."
+  },
+  {
+    "review_id": "14106867597",
+    "app": "HSBC HK Mobile Banking",
+    "previous_status": "uncertain",
+    "app_id": "1164066737",
+    "expected_title": "Good",
+    "expected_text": "Ok",
+    "language": "en",
+    "status": "english",
+    "reason": "Manual review: English title supports classification of the otherwise ambiguous short body."
+  }
+]

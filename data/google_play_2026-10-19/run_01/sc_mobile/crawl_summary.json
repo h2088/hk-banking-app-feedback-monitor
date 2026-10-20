@@ -1,0 +1,20 @@
+{
+  "app": "SC Mobile Hong Kong",
+  "app_id": "com.scb.breezebanking.hk",
+  "request_language": "en-US",
+  "request_country": "HK",
+  "sort": "NEWEST (RPC sort=2)",
+  "start_inclusive_hk": "2026-04-19T00:00:00+08:00",
+  "end_exclusive_hk": "2026-10-20T00:00:00+08:00",
+  "started_at_utc": "2026-10-19T07:35:58.009755+00:00",
+  "pages": [],
+  "errors": [
+    "Listing snapshot: Request failed: https://play.google.com/store/apps/details?id=com.scb.breezebanking.hk&hl=en-US&gl=HK: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>",
+    "RuntimeError: Request failed: https://play.google.com/_/PlayStoreUi/data/batchexecute?hl=en-US&gl=hk: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+  ],
+  "stop_reason": "request_or_parse_failure",
+  "scope": "six_month_window_with_page_overflow",
+  "unique_fetched": 0,
+  "duplicate_occurrences": 0,
+  "finished_at_utc": "2026-10-19T07:36:28.032023+00:00"
+}

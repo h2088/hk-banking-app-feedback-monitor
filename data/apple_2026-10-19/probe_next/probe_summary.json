@@ -1,0 +1,19 @@
+[
+  {
+    "key": "hsbc_page3_exact_next",
+    "url": "https://itunes.apple.com/hk/rss/customerreviews/page=3/id=1164066737/sortby=mostrecent/xml?l=en-US&urlDesc=/customerreviews/page=2/id=1164066737/sortBy=mostRecent/json",
+    "status": 200,
+    "raw_file": "data/apple_2026-10-19/probe_next/raw/hsbc_page3_exact_next.body",
+    "bytes": 1040,
+    "final_url": "https://itunes.apple.com/hk/rss/customerreviews/page=3/id=1164066737/sortby=mostrecent/xml?l=en-US&urlDesc=/customerreviews/page=2/id=1164066737/sortBy=mostRecent/json",
+    "title": "iTunes Store: Customer Reviews",
+    "apple_links": [
+      "http://itunes.apple.com/favicon.ico",
+      "http://itunes.apple.com/rss",
+      "https://itunes.apple.com/hk/rss/customerreviews/page=3/id=1164066737/sortby=mostrecent/xml?l=en-US&urlDesc=/customerreviews/page=2/id=1164066737/sortBy=mostRecent/json"
+    ],
+    "app_ids_in_page": [],
+    "xml_entry_count": 0,
+    "review_snippet_count": 4
+  }
+]

@@ -1,0 +1,176 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+  <HEAD>
+    <meta name="robots" content="noindex,nofollow">
+    <TITLE>連線至 iTunes Store</TITLE>
+    <meta name="description" content="連線至 iTunes Store"></meta>
+    <meta name="keywords" content="iTunes Store"></meta>
+
+    <script type="text/javascript" charset="utf-8" src="/htmlResources/f5a3/web-storefront-base.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/f5a3/web-storefront-preview.js"></script>
+
+    <link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/f5a3/web-storefront-base.css" />
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/f5a3/web-storefront-preview.css" />
+
+    <script type="text/javascript">itms.PageData.itunesDownloadUrl='https://www.apple.com/itunes/download/';</script>
+    
+
+    <STYLE type="text/css">
+
+        body {
+        text-align: center;
+        height: 100%;
+        }
+
+        body.rtl {
+            direction: rtl !important;
+            text-align: right !important;
+        }
+
+        html , body {
+        background:white !important;
+        }
+
+        img {
+        border-width: 0px; /* need this for firefox */
+        }
+
+        div.loadingbox {
+        width: 800px;
+        margin: 0 auto;
+        padding: 0px;
+        text-align: left;
+        border:0;
+
+        position: absolute;
+        top: 50%;
+        margin-top: -135px;
+        width: 100%;
+        }
+
+        table.info {
+        width: 270px;
+        }
+
+        div.cover {
+        width: 100px;
+        text-align: right;
+        }
+
+        div.loadingbox div.cover img {
+        margin-top: 40px;
+        }
+
+        div.loadingbox p {
+        color: #999;
+        font: 14px;
+        font-family: "Myriad Set Pro", "Helvetica Neue", "sans-serif";
+        margin: 0;
+        padding: 1px 10px 0px 10px;
+        }
+
+        div.loadingbox p.title {
+        color: #333;
+        font-size: 54px;
+        line-height:58px;
+        font-weight:100;
+        padding: 0px 20px 3px 20px;
+        text-align: center;
+        }
+
+        div.loadingbox p.subtitle {
+        color: #666;
+        font-size: 15px;
+        padding: 0px 20px;
+        }
+
+        div.loadingbox p.heading {
+        color: #666;
+        font-size: 15px;
+        padding-top: 15px;
+        padding-bottom: 5px;
+        font-weight: bold;
+        }
+
+        div.loadingbox p.footer {
+        color: #666;
+        font-size: 12px;
+        text-align: center;
+        padding: 20px 20px 0px 20px;
+        width: 400px;
+        margin: 0 auto;
+        }
+
+        img.corner {
+        width: 13px;
+        height: 13px;
+        border: none;
+        display: block !important;
+        position: relative;
+        left: -6px;
+        }
+
+        div.clear {
+        clear: both;
+        }
+
+        p.dark {
+        color: #333;
+        }
+
+        a {
+        text-decoration: none;
+        border-width: 0px;
+        }
+
+        span#test {
+        content: "foo";
+        display: inline-block;
+        width: 100px;
+        }
+
+        span#loading-dots {
+        position: absolute;
+        }
+
+        div#loadingbox-wrapper {
+        position: relative;
+        height: 100%;
+        }
+    </STYLE>
+
+      <link  charset="utf-8" rel="stylesheet" href="https://s.mzstatic.com/fonts/fonts.css" />
+  </HEAD>
+
+  <body onload="return its.detect.openItunes('https://itunes.apple.com/hk/customer-reviews/id445795688?displayable-kind=11&amp;ign-mscache=1');">
+
+  
+  <object classID="CLSID:D719897A-B07A-4C0C-AEA9-9B663A28DFCB" width="1" height="1" id="iTunesDetectorIE" ></object>
+   <div id="loadingbox-wrapper">
+   <div class="loadingbox">
+      <p class="title">連線至 iTunes Store<span id="loading-dots">..</span></p>
+
+       <div class="clear"></div>
+
+         
+         <div id="itunes-client-required" style="display:block;">
+          <center><br>
+           <p style="color: red;">
+            我們在你的電腦上找不到 iTunes。
+           </p><br>
+            <a onclick="its.detect.userOverrideSetItunesInstalled(); its.detect.openItunes(); return true;" href="#">
+             <input type="submit" value="我有 iTunes" />
+            </a>
+           <a href="https://www.apple.com/itunes/download/?itunesInstalled=unknown"><input type="submit" value="下載 iTunes" /></a>
+          </center>
+          <script type="text/javascript">
+            document.getElementById('itunes-client-required').style.display='none';
+          </script>
+         </div>
+         
+
+      <p class="footer">如果未有 iTunes，<a href="https://www.apple.com/itunes/download/">可免費下載</a>。如果你有 iTunes 而其沒有自動開啟，請嘗試透過 Dock 或 Windows 工作列開啟。</p>
+   </div></div>
+  </body>
+</HTML>

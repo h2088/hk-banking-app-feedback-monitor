@@ -1,0 +1,36 @@
+{
+  "successful": true,
+  "checks_run": 7,
+  "report_sha256": "61946ec92de378a13e9cfec9deb672c5f2cb5cf589e7ac19b99249c61aea021d",
+  "checks": [
+    {
+      "name": "immutable input artifacts and raw hashes",
+      "passed": true
+    },
+    {
+      "name": "original comments labels dates and privacy",
+      "passed": true
+    },
+    {
+      "name": "CSV and typed workbook integrity",
+      "passed": true
+    },
+    {
+      "name": "independent benchmark arithmetic",
+      "passed": true
+    },
+    {
+      "name": "every theme and denominator",
+      "passed": true
+    },
+    {
+      "name": "monthly volume and app low-star rates",
+      "passed": true
+    },
+    {
+      "name": "offline structure links and declared scope",
+      "passed": true
+    }
+  ],
+  "network_requests": 0
+}

@@ -1,0 +1,13 @@
+{
+  "rows": 311,
+  "analysis_eligible": 311,
+  "short_body_count": 105,
+  "repeated_text_groups": 5,
+  "repeated_text_rows": 20,
+  "input_sha256": "ed6b8c5f19ea872d4f846082aa4dfe4af603b319c9bcdc2547db9354e610feec",
+  "artifact_sha256": {
+    "coverage_by_source_app_month_rating.csv": "51772d540c48b2920f332cd810c868bf8b6a951e7252336c687708fbf056fa21",
+    "rows.csv": "a272948a59419eb36aa778d9fd2a63844994d9e2b5bc701d60356d98813fb76c",
+    "rows.json": "ba3375064bd02f0bbb3a5a13672456d60445f9a6f588c15cad1bf65fab2fd719"
+  }
+}

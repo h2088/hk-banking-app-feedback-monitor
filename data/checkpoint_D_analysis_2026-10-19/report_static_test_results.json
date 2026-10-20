@@ -1,0 +1,9 @@
+{
+  "report_sha256": "9a4667c8f230ee097b54b2fd2edd076d51f7e28d775d560d03ec4c5999ce2f1c",
+  "tests_run": 12,
+  "failures": 0,
+  "errors": 0,
+  "successful": true,
+  "network_requests": 0,
+  "browser_test": "separate: test_feedback_report_browser.py"
+}

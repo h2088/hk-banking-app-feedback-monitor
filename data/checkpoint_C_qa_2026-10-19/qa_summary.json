@@ -1,0 +1,943 @@
+{
+  "checkpoint": "C",
+  "checked_at_utc": "2026-10-19T10:42:20.934988+00:00",
+  "analysis_input": "data/merged_2026-10-19/master_english_six_months.json",
+  "analysis_input_sha256": "d6410a3e12bbd2dbcfd9bd7ef193212ab7aa1dee6ff2c669245f5ef249debeb3",
+  "all_merged_input": "data/merged_2026-10-19/master_all_reviews.json",
+  "all_merged_input_sha256": "a04bdd34eaceddb4f66b5f087689122c5f5a08015cdd0b23cff6a9adbbf4f1d7",
+  "rows_checked": 311,
+  "rows_analysis_eligible": 311,
+  "rows_not_analysis_eligible": 0,
+  "date_window": {
+    "start_inclusive_hk": "2026-04-19T00:00:00+08:00",
+    "end_exclusive_hk": "2026-10-20T00:00:00+08:00",
+    "outside_window": 0
+  },
+  "missing_required_fields": {
+    "platform": 0,
+    "app": 0,
+    "app_key": 0,
+    "app_id": 0,
+    "review_id": 0,
+    "review_time_hk": 0,
+    "rating": 0,
+    "text": 0,
+    "language_status": 0,
+    "source_url": 0,
+    "collected_at_utc": 0,
+    "raw_response_workspace_path": 0
+  },
+  "invalid_ratings": 0,
+  "non_english_rows": 0,
+  "invalid_app_identity": 0,
+  "duplicate_record_keys_analysis_sample": 0,
+  "duplicate_record_keys_all_merged": 0,
+  "normalized_text_duplicate_groups_analysis_sample": 5,
+  "normalized_text_duplicate_rows_analysis_sample": 20,
+  "normalized_text_duplicate_groups_all_merged": 105,
+  "normalized_text_duplicate_rows_all_merged": 572,
+  "short_text_for_theme_review_rows": 105,
+  "short_text_rule": "English word count <= 4; retained for volume/rating analysis, flagged for cautious theme interpretation",
+  "evidence_files_missing": 0,
+  "sorted_newest_first": true,
+  "coverage": {
+    "by_platform_app": [
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "review_count": 121,
+        "rating_mean": 3.1736,
+        "date_min_hk": "2026-04-21T13:27:45+08:00",
+        "date_max_hk": "2026-10-10T08:21:26+08:00",
+        "short_text_count": 42
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "review_count": 50,
+        "rating_mean": 2.32,
+        "date_min_hk": "2026-04-22T16:37:54+08:00",
+        "date_max_hk": "2026-10-12T17:46:39+08:00",
+        "short_text_count": 10
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "review_count": 92,
+        "rating_mean": 3.4239,
+        "date_min_hk": "2026-04-22T13:00:09+08:00",
+        "date_max_hk": "2026-10-15T02:39:51+08:00",
+        "short_text_count": 40
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "review_count": 48,
+        "rating_mean": 2.1875,
+        "date_min_hk": "2026-04-20T11:00:21+08:00",
+        "date_max_hk": "2026-10-16T09:25:03+08:00",
+        "short_text_count": 13
+      }
+    ],
+    "by_month": [
+      {
+        "month_hk": "2026-04",
+        "review_count": 18,
+        "rating_mean": 1.9444,
+        "date_min_hk": "2026-04-20T11:00:21+08:00",
+        "date_max_hk": "2026-04-30T18:25:43+08:00",
+        "short_text_count": 2
+      },
+      {
+        "month_hk": "2026-05",
+        "review_count": 50,
+        "rating_mean": 3.18,
+        "date_min_hk": "2026-05-01T11:20:00+08:00",
+        "date_max_hk": "2026-05-31T17:01:28+08:00",
+        "short_text_count": 20
+      },
+      {
+        "month_hk": "2026-06",
+        "review_count": 66,
+        "rating_mean": 2.5606,
+        "date_min_hk": "2026-06-01T14:17:14+08:00",
+        "date_max_hk": "2026-06-30T12:35:10+08:00",
+        "short_text_count": 20
+      },
+      {
+        "month_hk": "2026-07",
+        "review_count": 42,
+        "rating_mean": 3.3333,
+        "date_min_hk": "2026-07-01T12:30:37+08:00",
+        "date_max_hk": "2026-07-31T17:01:25+08:00",
+        "short_text_count": 17
+      },
+      {
+        "month_hk": "2026-08",
+        "review_count": 63,
+        "rating_mean": 3.0476,
+        "date_min_hk": "2026-08-01T21:15:45+08:00",
+        "date_max_hk": "2026-08-31T16:33:47+08:00",
+        "short_text_count": 18
+      },
+      {
+        "month_hk": "2026-09",
+        "review_count": 46,
+        "rating_mean": 3.0435,
+        "date_min_hk": "2026-09-01T20:46:30+08:00",
+        "date_max_hk": "2026-09-28T19:57:12+08:00",
+        "short_text_count": 18
+      },
+      {
+        "month_hk": "2026-10",
+        "review_count": 26,
+        "rating_mean": 3.2692,
+        "date_min_hk": "2026-10-01T10:20:38+08:00",
+        "date_max_hk": "2026-10-16T09:25:03+08:00",
+        "short_text_count": 10
+      }
+    ],
+    "by_rating": [
+      {
+        "rating": 1,
+        "review_count": 135,
+        "rating_mean": 1.0,
+        "date_min_hk": "2026-04-20T11:00:21+08:00",
+        "date_max_hk": "2026-10-16T09:25:03+08:00",
+        "short_text_count": 18
+      },
+      {
+        "rating": 2,
+        "review_count": 16,
+        "rating_mean": 2.0,
+        "date_min_hk": "2026-05-04T16:11:37+08:00",
+        "date_max_hk": "2026-10-12T17:46:39+08:00",
+        "short_text_count": 1
+      },
+      {
+        "rating": 3,
+        "review_count": 14,
+        "rating_mean": 3.0,
+        "date_min_hk": "2026-04-24T23:40:21+08:00",
+        "date_max_hk": "2026-10-14T17:02:18+08:00",
+        "short_text_count": 0
+      },
+      {
+        "rating": 4,
+        "review_count": 19,
+        "rating_mean": 4.0,
+        "date_min_hk": "2026-04-22T16:37:54+08:00",
+        "date_max_hk": "2026-10-09T18:02:38+08:00",
+        "short_text_count": 5
+      },
+      {
+        "rating": 5,
+        "review_count": 127,
+        "rating_mean": 5.0,
+        "date_min_hk": "2026-04-29T22:01:18+08:00",
+        "date_max_hk": "2026-10-10T22:58:06+08:00",
+        "short_text_count": 81
+      }
+    ],
+    "by_platform_app_month_language_rating": [
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-04",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 4
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-04",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 3
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-04",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 7
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 7
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 14
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 4
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 7
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 13
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 11
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 15
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 6
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 9
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 5
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-04",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-04",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 3
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 10
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 4
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 6
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 3
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 4
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 2
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 1
+      },
+      {
+        "platform": "Apple App Store",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-04",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 4
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 7
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 2
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 11
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 7
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 12
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 3
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 7
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 2
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 2
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 8
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 7
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 4
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 3,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 2
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "hsbc_hk",
+        "app": "HSBC HK Mobile Banking",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 6
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-04",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 3
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 4
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-05",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 3
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 4
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 4,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-06",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 2
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 5
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-07",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 1
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-08",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 9
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 4
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 2,
+        "review_count": 2
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-09",
+        "language_status": "english",
+        "rating": 5,
+        "review_count": 7
+      },
+      {
+        "platform": "Google Play",
+        "app_key": "sc_mobile",
+        "app": "SC Mobile Hong Kong",
+        "month_hk": "2026-10",
+        "language_status": "english",
+        "rating": 1,
+        "review_count": 3
+      }
+    ]
+  },
+  "interpretation": [
+    "No record-key duplicates were found; no rows were dropped.",
+    "Identical normalized text is a QA flag, not a deletion rule. The current English sample has 5 groups / 20 rows, mostly generic short reviews; different source IDs are retained.",
+    "All 311 rows pass data-quality eligibility. This does not mean every row contains enough information for a specific theme; short texts are flagged separately.",
+    "The 311 rows are suitable for descriptive counts, ratings, and source/app comparison. Sentiment/theme labels still require Checkpoint D methods and manual validation."
+  ],
+  "next_checkpoint": "D — analysis: descriptive trends, documented sentiment/theme method, manually checked validation sample, and competitor comparison.",
+  "artifact_sha256": {
+    "coverage_by_app_platform.csv": "c39beda117ce475b6888bce58c131e1e3a727d3e19baf7413d562c3fa209e2e5",
+    "coverage_by_month.csv": "81ec26215fdd4f5532331115f69d834ce39119c0032ae862dfbf0c76438d3338",
+    "coverage_by_rating.csv": "5b581ecab63cc5ca52b07cf7d990bbfe240058c20aeed612d5fcef41c090ac11",
+    "coverage_long_platform_month_language_rating.csv": "a7402fb7f2d4c9e13d56a85471ae61867d0447de888da474677bfe0efabbeb11",
+    "english_six_months_qa.csv": "acf8877e0c04ddb31f7519638effb6176656296abb3c3729a8d287a8dc6efce3",
+    "english_six_months_qa.json": "eea43396bbbd1bd19010f626c0a687098f30cfc470f5adf47b0a99ef83e4dbfb",
+    "README.md": "76e31c5ca435e3b2e92e7ac07a04a1922ea34c4f2945855e517d5a5de8d59fef"
+  }
+}

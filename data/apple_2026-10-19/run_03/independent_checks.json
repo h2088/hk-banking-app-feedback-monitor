@@ -1,0 +1,45 @@
+{
+  "all_records": 1000,
+  "english_fetched": 469,
+  "english_six_months": 171,
+  "newest_first": true,
+  "unique_app_review_ids": true,
+  "html_javascript_syntax": "passed",
+  "embedded_data_matches_export": true,
+  "page_checks": [
+    {
+      "app": "SC Mobile Hong Kong",
+      "successful_pages": 10,
+      "returned_per_page": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "unresolved_empty_pages": 0
+    },
+    {
+      "app": "HSBC HK Mobile Banking",
+      "successful_pages": 10,
+      "returned_per_page": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "unresolved_empty_pages": 0
+    }
+  ]
+}

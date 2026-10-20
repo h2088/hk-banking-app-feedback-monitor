@@ -1,0 +1,29 @@
+{
+  "app": "SC Mobile Hong Kong",
+  "app_id": "445795688",
+  "storefront": "hk",
+  "sort": "mostRecent",
+  "request_profile": "browser",
+  "language_filter": "post_collection_title_and_body",
+  "started_at_utc": "2026-10-19T08:26:56.986140+00:00",
+  "pages": [
+    {
+      "page": 1,
+      "returned": 0,
+      "new_unique": 0,
+      "earliest_hk": null,
+      "latest_hk": null,
+      "in_six_month_window": 0,
+      "english_in_window_preliminary": 0,
+      "advertised_last_page": null,
+      "feed_next_url": ""
+    }
+  ],
+  "errors": [],
+  "stop_reason": "empty_feed_after_recheck_not_proof_of_no_reviews",
+  "duplicate_occurrences": 0,
+  "unique_fetched": 0,
+  "since_hk": "2026-04-19",
+  "as_of_hk": "2026-10-19",
+  "finished_at_utc": "2026-10-19T08:26:58.281281+00:00"
+}

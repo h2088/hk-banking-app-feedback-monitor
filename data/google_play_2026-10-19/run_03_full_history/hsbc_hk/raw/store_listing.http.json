@@ -1,0 +1,41 @@
+{
+  "requested_url": "https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking&hl=en&gl=HK",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9"
+  },
+  "request_body": null,
+  "started_at_utc": "2026-10-19T07:49:42.610215+00:00",
+  "attempt": 1,
+  "status": 200,
+  "final_url": "https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking&hl=en&gl=HK",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "x-ua-compatible": "IE=edge",
+    "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+    "Pragma": "no-cache",
+    "Expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+    "Date": "Mon, 19 Oct 2026 07:49:44 GMT",
+    "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Content-Security-Policy": "require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport",
+    "Permissions-Policy": "ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*",
+    "Accept-CH": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+    "Cross-Origin-Resource-Policy": "same-site",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "reporting-endpoints": "default=\"/_/PlayStoreUi/web-reports?context=eJzjWsOoxSXFEKwhxdB68xzrZCAuWXSetQmIu4B4BhAbKlxitQfiIokrrA1A_KnqBqtA9Q3WVcfus24A4lmMD1gXALG_6kPWUCBOb3zImgXE6QsesuYC8c5VD1n3ALH-roespkD8ae9D1m9AXHPmIWsTEP--_JCV-cpDVi8gDgDi2S8ess4D4m_FvmwsJUD81p_NNCSQzRmIhbg5Zky_fo1N4MTzeeFK8kn5hfEFOYmVpZnFqUVlqUXxRgZGZoYGhiZ6BhbxBYYAdGdd0A\"",
+    "Server": "ESF",
+    "X-XSS-Protection": "0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Set-Cookie": "NID=CuQBCAESlgEBOxGDSMZ3n97oarW6noO6DOyo0VkCJA0v5dyYztit1vSon0IooiLRBpcGebXrmdB6TN8rFOmMKMVPQr0F8MWT4Zex3HAGV_JLmAos072QnBvsGUu8wnUFlfg4Ec1cw5nDBchk5VLCa4tKk4LhPJbU4S8hRnj5hVuqDADX_DcQoJChkm_HQ7dTydN1RPmrKdSHjZrL4K4oATJFAdKsB8-WkkDtSA92pKUZYrzALGAkIbxM1NL-q0yzjqPg_Ul3nwE7nRmocrAMdHl4bgW6QJOCeyi2H_sLmo-DfRqqVogH; expires=Tue, 20-Apr-2027 07:49:44 GMT; path=/; domain=.google.com; HttpOnly",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "Accept-Ranges": "none",
+    "Vary": "Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  },
+  "bytes": 1323195,
+  "sha256": "a9b5b404d1099861d0787015cbfa94e401546c152fec67091466ddf4e7d9a009"
+}

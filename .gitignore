@@ -1,0 +1,13 @@
+# Local runtimes and transient caches
+.venv/
+.cache/
+**/.cache/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local editor / operating-system state
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

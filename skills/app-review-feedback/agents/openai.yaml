@@ -1,0 +1,4 @@
+interface:
+  display_name: "应用评论监测与竞品对比"
+  short_description: "采集英文应用评论，完成质量检查、竞品对比、离线报告与可追溯交付"
+  default_prompt: "使用 $app-review-feedback，按 A–F 工作流完成应用商店英文评论监测与竞品对比，先读取配置并识别已有批次。"

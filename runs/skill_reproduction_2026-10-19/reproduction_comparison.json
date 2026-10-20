@@ -1,0 +1,1034 @@
+{
+  "checked_at_utc": "2026-10-19T15:09:28.062566+00:00",
+  "successful": true,
+  "mode": "same-input offline snapshot replay, no live collection",
+  "skill_path": "C:\\Users\\1\\.codex\\skills\\app-review-feedback",
+  "batch_path": "D:\\7-Short project\\runs\\skill_reproduction_2026-10-19",
+  "checks_run": 20,
+  "checks": [
+    {
+      "name": "fixed_scope",
+      "passed": true,
+      "mode": "offline_snapshot_replay",
+      "config": {
+        "schema_version": 1,
+        "since": "2026-04-19",
+        "as_of": "2026-10-19",
+        "country": "HK",
+        "timezone": "Asia/Hong_Kong",
+        "language": "english",
+        "platform_split": false,
+        "all_history": false,
+        "google_max_pages": 100,
+        "apple_max_pages": 10,
+        "pause_seconds": 0.9,
+        "apps": [
+          {
+            "key": "sc_mobile",
+            "name": "SC Mobile Hong Kong",
+            "bank": "Standard Chartered",
+            "role": "primary",
+            "google_id": "com.scb.breezebanking.hk",
+            "google_language": "en-US",
+            "apple_id": "445795688",
+            "apple_slug": "sc-mobile-hong-kong",
+            "apple_language": "en-GB"
+          },
+          {
+            "key": "hsbc_hk",
+            "name": "HSBC HK Mobile Banking",
+            "bank": "HSBC",
+            "role": "benchmark",
+            "google_id": "hk.com.hsbc.hsbchkmobilebanking",
+            "google_language": "en",
+            "apple_id": "1164066737",
+            "apple_slug": "hsbc-hk-mobile-banking",
+            "apple_language": "en-US"
+          }
+        ],
+        "language_overrides": []
+      }
+    },
+    {
+      "name": "merged:master_all_reviews",
+      "passed": true,
+      "subset": "master_all_reviews",
+      "original_rows": 5278,
+      "replay_rows": 5278,
+      "unique_original_ids": 5278,
+      "unique_replay_ids": 5278,
+      "same_record_set": true,
+      "same_order": true,
+      "original_fields_compared": 237510,
+      "field_mismatches": [],
+      "original_sha256": "a04bdd34eaceddb4f66b5f087689122c5f5a08015cdd0b23cff6a9adbbf4f1d7",
+      "replay_sha256": "977a0de218bd0eaabcfac38e928f8a6043d82fe3d15a7b5eab829d0d75b8d5a5"
+    },
+    {
+      "name": "merged:master_english_all",
+      "passed": true,
+      "subset": "master_english_all",
+      "original_rows": 4071,
+      "replay_rows": 4071,
+      "unique_original_ids": 4071,
+      "unique_replay_ids": 4071,
+      "same_record_set": true,
+      "same_order": true,
+      "original_fields_compared": 183195,
+      "field_mismatches": [],
+      "original_sha256": "faf2cfe380200c8725598de9f779c68cbb3501a154a5ad1ccb33b3c0e683eecc",
+      "replay_sha256": "e5fa23f1baabc0febeaa24677c59579f625cc71c5fbf707053aca34a62ef99a7"
+    },
+    {
+      "name": "merged:master_six_months_all",
+      "passed": true,
+      "subset": "master_six_months_all",
+      "original_rows": 528,
+      "replay_rows": 528,
+      "unique_original_ids": 528,
+      "unique_replay_ids": 528,
+      "same_record_set": true,
+      "same_order": true,
+      "original_fields_compared": 23760,
+      "field_mismatches": [],
+      "original_sha256": "7d10984193f058796e59dde625c9e06e37ae22828a47e6f8237363791deadef6",
+      "replay_sha256": "309b2a16c238333de2a85c419ca0d63be79c593180bb22e66afaea7cd7e4d6d1"
+    },
+    {
+      "name": "merged:master_english_six_months",
+      "passed": true,
+      "subset": "master_english_six_months",
+      "original_rows": 311,
+      "replay_rows": 311,
+      "unique_original_ids": 311,
+      "unique_replay_ids": 311,
+      "same_record_set": true,
+      "same_order": true,
+      "original_fields_compared": 13995,
+      "field_mismatches": [],
+      "original_sha256": "d6410a3e12bbd2dbcfd9bd7ef193212ab7aa1dee6ff2c669245f5ef249debeb3",
+      "replay_sha256": "ed6b8c5f19ea872d4f846082aa4dfe4af603b319c9bcdc2547db9354e610feec"
+    },
+    {
+      "name": "raw_evidence_content",
+      "passed": true,
+      "original_paths_checked": 66,
+      "unique_replay_files": 66,
+      "files": [
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_01_variant1.body",
+          "replay": "data/raw/imported/e7a5dba86574b282dd2865718c90990f74bc7a06ede46a0596754591b66d6216.body",
+          "original_sha256": "e7a5dba86574b282dd2865718c90990f74bc7a06ede46a0596754591b66d6216",
+          "replay_sha256": "e7a5dba86574b282dd2865718c90990f74bc7a06ede46a0596754591b66d6216",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_02_variant1.body",
+          "replay": "data/raw/imported/a04ca2fe0ce2a2ec69ba48f3b3b745028893e97505be388f8c92bedf42a9af46.body",
+          "original_sha256": "a04ca2fe0ce2a2ec69ba48f3b3b745028893e97505be388f8c92bedf42a9af46",
+          "replay_sha256": "a04ca2fe0ce2a2ec69ba48f3b3b745028893e97505be388f8c92bedf42a9af46",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_03_repair083308528767_3.body",
+          "replay": "data/raw/imported/93377f6010f7f089a4b4743adb56564e95dc1ed89ba117855fa51e6dd9a145ce.body",
+          "original_sha256": "93377f6010f7f089a4b4743adb56564e95dc1ed89ba117855fa51e6dd9a145ce",
+          "replay_sha256": "93377f6010f7f089a4b4743adb56564e95dc1ed89ba117855fa51e6dd9a145ce",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_04_repair083308528767_7.body",
+          "replay": "data/raw/imported/66b1c6b1ac348fd1db9ebbe5d44c999a3c923b4de019dd841419966530556276.body",
+          "original_sha256": "66b1c6b1ac348fd1db9ebbe5d44c999a3c923b4de019dd841419966530556276",
+          "replay_sha256": "66b1c6b1ac348fd1db9ebbe5d44c999a3c923b4de019dd841419966530556276",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_05_repair083308528767_3.body",
+          "replay": "data/raw/imported/13f9031003442123bed734915218aa931469ca1a84ecd398a670c94fc9e7a2a3.body",
+          "original_sha256": "13f9031003442123bed734915218aa931469ca1a84ecd398a670c94fc9e7a2a3",
+          "replay_sha256": "13f9031003442123bed734915218aa931469ca1a84ecd398a670c94fc9e7a2a3",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_06_variant2.body",
+          "replay": "data/raw/imported/707437a2de469ce3c3caab4b2c3d4df4cb7f64c81a4ee97c05eb0528c71024c0.body",
+          "original_sha256": "707437a2de469ce3c3caab4b2c3d4df4cb7f64c81a4ee97c05eb0528c71024c0",
+          "replay_sha256": "707437a2de469ce3c3caab4b2c3d4df4cb7f64c81a4ee97c05eb0528c71024c0",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_07_repair083308528767_8.body",
+          "replay": "data/raw/imported/280a5082812972f8be0af997df510cbd886fac7f09b66c75d2554fe843805f55.body",
+          "original_sha256": "280a5082812972f8be0af997df510cbd886fac7f09b66c75d2554fe843805f55",
+          "replay_sha256": "280a5082812972f8be0af997df510cbd886fac7f09b66c75d2554fe843805f55",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_08_variant1.body",
+          "replay": "data/raw/imported/3c315641c643d68656c709f03483e74d67b92e3a5e673e06e77ca34e363a28fc.body",
+          "original_sha256": "3c315641c643d68656c709f03483e74d67b92e3a5e673e06e77ca34e363a28fc",
+          "replay_sha256": "3c315641c643d68656c709f03483e74d67b92e3a5e673e06e77ca34e363a28fc",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_09_repair083308528767_4.body",
+          "replay": "data/raw/imported/bc2963a676e9c46277b2faa9de14f496a64757dfea025197e161cd4488268e0d.body",
+          "original_sha256": "bc2963a676e9c46277b2faa9de14f496a64757dfea025197e161cd4488268e0d",
+          "replay_sha256": "bc2963a676e9c46277b2faa9de14f496a64757dfea025197e161cd4488268e0d",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_10_variant3.body",
+          "replay": "data/raw/imported/751d7dd69635ed0ac37e6069dac5c0d190556adda9ce9f1dd51f8710886af166.body",
+          "original_sha256": "751d7dd69635ed0ac37e6069dac5c0d190556adda9ce9f1dd51f8710886af166",
+          "replay_sha256": "751d7dd69635ed0ac37e6069dac5c0d190556adda9ce9f1dd51f8710886af166",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_01_variant1.body",
+          "replay": "data/raw/imported/3b33263021ff036bebab51c3c736757843e8529ed5f2b5d33e0c3ac516c6d764.body",
+          "original_sha256": "3b33263021ff036bebab51c3c736757843e8529ed5f2b5d33e0c3ac516c6d764",
+          "replay_sha256": "3b33263021ff036bebab51c3c736757843e8529ed5f2b5d33e0c3ac516c6d764",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_02_variant3.body",
+          "replay": "data/raw/imported/4eb885491bc0b85f68a7c2e99833da190b736fd0a622458ca9dd46a863080a90.body",
+          "original_sha256": "4eb885491bc0b85f68a7c2e99833da190b736fd0a622458ca9dd46a863080a90",
+          "replay_sha256": "4eb885491bc0b85f68a7c2e99833da190b736fd0a622458ca9dd46a863080a90",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_03_variant1.body",
+          "replay": "data/raw/imported/604314e441d1efba81dc93375f90833b070051751f8123c0545e12046dc984ff.body",
+          "original_sha256": "604314e441d1efba81dc93375f90833b070051751f8123c0545e12046dc984ff",
+          "replay_sha256": "604314e441d1efba81dc93375f90833b070051751f8123c0545e12046dc984ff",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_04_variant3.body",
+          "replay": "data/raw/imported/16bc0398694f7cb9f2c6531112be5e333a7329c4faf5c7d44b41354009d40a2c.body",
+          "original_sha256": "16bc0398694f7cb9f2c6531112be5e333a7329c4faf5c7d44b41354009d40a2c",
+          "replay_sha256": "16bc0398694f7cb9f2c6531112be5e333a7329c4faf5c7d44b41354009d40a2c",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_05_variant1.body",
+          "replay": "data/raw/imported/63379c5e41030c001f7a23c4328b8a9759f7c78315ec18edbaa2ae4e0f33b252.body",
+          "original_sha256": "63379c5e41030c001f7a23c4328b8a9759f7c78315ec18edbaa2ae4e0f33b252",
+          "replay_sha256": "63379c5e41030c001f7a23c4328b8a9759f7c78315ec18edbaa2ae4e0f33b252",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_06_variant2.body",
+          "replay": "data/raw/imported/0573a7c6afde7e5e43840e85e080f35cae83f4e5ac28a53357d85f5e8e4420cb.body",
+          "original_sha256": "0573a7c6afde7e5e43840e85e080f35cae83f4e5ac28a53357d85f5e8e4420cb",
+          "replay_sha256": "0573a7c6afde7e5e43840e85e080f35cae83f4e5ac28a53357d85f5e8e4420cb",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_07_variant1.body",
+          "replay": "data/raw/imported/2cc897c92cc532c4527c1fb77ff6f245b90debd1e38c42fda9df13d8f66b29e3.body",
+          "original_sha256": "2cc897c92cc532c4527c1fb77ff6f245b90debd1e38c42fda9df13d8f66b29e3",
+          "replay_sha256": "2cc897c92cc532c4527c1fb77ff6f245b90debd1e38c42fda9df13d8f66b29e3",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_08_variant4.body",
+          "replay": "data/raw/imported/e6d7550de0e9fdfefc439b81ec3d1a507070c68e3589eac0e6e39b656029aeef.body",
+          "original_sha256": "e6d7550de0e9fdfefc439b81ec3d1a507070c68e3589eac0e6e39b656029aeef",
+          "replay_sha256": "e6d7550de0e9fdfefc439b81ec3d1a507070c68e3589eac0e6e39b656029aeef",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_09_repair5.body",
+          "replay": "data/raw/imported/bd22d0b7c3ecd2ef310e040dc27368e23b7e02c252cfc374c4eab383fa3c88f2.body",
+          "original_sha256": "bd22d0b7c3ecd2ef310e040dc27368e23b7e02c252cfc374c4eab383fa3c88f2",
+          "replay_sha256": "bd22d0b7c3ecd2ef310e040dc27368e23b7e02c252cfc374c4eab383fa3c88f2",
+          "matched": true
+        },
+        {
+          "original": "data/apple_2026-10-19/run_03/sc_mobile/raw/page_10_variant6.body",
+          "replay": "data/raw/imported/e295c5e75e4109a113650dafa37e832616bdec262705fb5788b058196f011303.body",
+          "original_sha256": "e295c5e75e4109a113650dafa37e832616bdec262705fb5788b058196f011303",
+          "replay_sha256": "e295c5e75e4109a113650dafa37e832616bdec262705fb5788b058196f011303",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0001.body",
+          "replay": "data/raw/imported/088b256873e8e5e07d915e72f51acec1106c64ef9921386018edfdb81d20c611.body",
+          "original_sha256": "088b256873e8e5e07d915e72f51acec1106c64ef9921386018edfdb81d20c611",
+          "replay_sha256": "088b256873e8e5e07d915e72f51acec1106c64ef9921386018edfdb81d20c611",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0001.decoded.json",
+          "replay": "data/raw/imported/2e34e5b5b1261857550a7282d51cc13f02695fe6a88b70901f882a8c1365bc67.json",
+          "original_sha256": "2e34e5b5b1261857550a7282d51cc13f02695fe6a88b70901f882a8c1365bc67",
+          "replay_sha256": "2e34e5b5b1261857550a7282d51cc13f02695fe6a88b70901f882a8c1365bc67",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0002.body",
+          "replay": "data/raw/imported/99205c880f29e6e2a228228bfa7bd347d720c48784da9ab889a7a876de3f470c.body",
+          "original_sha256": "99205c880f29e6e2a228228bfa7bd347d720c48784da9ab889a7a876de3f470c",
+          "replay_sha256": "99205c880f29e6e2a228228bfa7bd347d720c48784da9ab889a7a876de3f470c",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0002.decoded.json",
+          "replay": "data/raw/imported/1517f147b3df187eb41d92ab190f843d985c7162018fd49bd51b3c7e71f2c786.json",
+          "original_sha256": "1517f147b3df187eb41d92ab190f843d985c7162018fd49bd51b3c7e71f2c786",
+          "replay_sha256": "1517f147b3df187eb41d92ab190f843d985c7162018fd49bd51b3c7e71f2c786",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0003.body",
+          "replay": "data/raw/imported/47ac514ec7a4e32642360ab3687911043c059f2633da359c04e691ee7ff814e8.body",
+          "original_sha256": "47ac514ec7a4e32642360ab3687911043c059f2633da359c04e691ee7ff814e8",
+          "replay_sha256": "47ac514ec7a4e32642360ab3687911043c059f2633da359c04e691ee7ff814e8",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0003.decoded.json",
+          "replay": "data/raw/imported/43f77c2d1774851931622e23ab5220787fc68dd24881cafd6b48a2d23b0d779b.json",
+          "original_sha256": "43f77c2d1774851931622e23ab5220787fc68dd24881cafd6b48a2d23b0d779b",
+          "replay_sha256": "43f77c2d1774851931622e23ab5220787fc68dd24881cafd6b48a2d23b0d779b",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0004.body",
+          "replay": "data/raw/imported/a217d45fd51d2f2e0fa47fed0f1f9273bc57217fccbe9db6952af97845ef9f26.body",
+          "original_sha256": "a217d45fd51d2f2e0fa47fed0f1f9273bc57217fccbe9db6952af97845ef9f26",
+          "replay_sha256": "a217d45fd51d2f2e0fa47fed0f1f9273bc57217fccbe9db6952af97845ef9f26",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0004.decoded.json",
+          "replay": "data/raw/imported/d73cb18e793ea392553dbad84762af1fdd05a297a1b02f830d4ab108358e7b68.json",
+          "original_sha256": "d73cb18e793ea392553dbad84762af1fdd05a297a1b02f830d4ab108358e7b68",
+          "replay_sha256": "d73cb18e793ea392553dbad84762af1fdd05a297a1b02f830d4ab108358e7b68",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0005.body",
+          "replay": "data/raw/imported/150b3862c49ae74bc88aab848c52139d191a1d798f1933d1491bf0d52244b5ce.body",
+          "original_sha256": "150b3862c49ae74bc88aab848c52139d191a1d798f1933d1491bf0d52244b5ce",
+          "replay_sha256": "150b3862c49ae74bc88aab848c52139d191a1d798f1933d1491bf0d52244b5ce",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0005.decoded.json",
+          "replay": "data/raw/imported/7a51f0d6c9f31e07eef2925a1289b66df78774a36f557acc26f0f94f9e9e35e9.json",
+          "original_sha256": "7a51f0d6c9f31e07eef2925a1289b66df78774a36f557acc26f0f94f9e9e35e9",
+          "replay_sha256": "7a51f0d6c9f31e07eef2925a1289b66df78774a36f557acc26f0f94f9e9e35e9",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0006.body",
+          "replay": "data/raw/imported/76a23e5fd0dcc0da3d6d04e0aa91eed4990f68773e342170002809e89e47404a.body",
+          "original_sha256": "76a23e5fd0dcc0da3d6d04e0aa91eed4990f68773e342170002809e89e47404a",
+          "replay_sha256": "76a23e5fd0dcc0da3d6d04e0aa91eed4990f68773e342170002809e89e47404a",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0006.decoded.json",
+          "replay": "data/raw/imported/06b90ba2b57092f5c5ff5fbea88ee9785a4fba2e9d85297efb61f5b5f90f0cea.json",
+          "original_sha256": "06b90ba2b57092f5c5ff5fbea88ee9785a4fba2e9d85297efb61f5b5f90f0cea",
+          "replay_sha256": "06b90ba2b57092f5c5ff5fbea88ee9785a4fba2e9d85297efb61f5b5f90f0cea",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0007.body",
+          "replay": "data/raw/imported/9f0ff4ca3652983b30aeb79c71990cfc30fe586b6240c020812d4d60fde6fcd0.body",
+          "original_sha256": "9f0ff4ca3652983b30aeb79c71990cfc30fe586b6240c020812d4d60fde6fcd0",
+          "replay_sha256": "9f0ff4ca3652983b30aeb79c71990cfc30fe586b6240c020812d4d60fde6fcd0",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0007.decoded.json",
+          "replay": "data/raw/imported/bbb802a2569cfe2a061b6d75bd8b17bee04668ff7f9fa0e5ebc156fc4d9a715f.json",
+          "original_sha256": "bbb802a2569cfe2a061b6d75bd8b17bee04668ff7f9fa0e5ebc156fc4d9a715f",
+          "replay_sha256": "bbb802a2569cfe2a061b6d75bd8b17bee04668ff7f9fa0e5ebc156fc4d9a715f",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0008.body",
+          "replay": "data/raw/imported/0ee205b8dfe6993d02e72c14f9a4a0aaac1bac2d0b969d6b56b1948072f7488c.body",
+          "original_sha256": "0ee205b8dfe6993d02e72c14f9a4a0aaac1bac2d0b969d6b56b1948072f7488c",
+          "replay_sha256": "0ee205b8dfe6993d02e72c14f9a4a0aaac1bac2d0b969d6b56b1948072f7488c",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0008.decoded.json",
+          "replay": "data/raw/imported/4ae47e2ad655870fc4f126a113d13c1a217180788a730c3aaf29bd61373fd324.json",
+          "original_sha256": "4ae47e2ad655870fc4f126a113d13c1a217180788a730c3aaf29bd61373fd324",
+          "replay_sha256": "4ae47e2ad655870fc4f126a113d13c1a217180788a730c3aaf29bd61373fd324",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0009.body",
+          "replay": "data/raw/imported/cbe73f9f58cc14015ca1dade07a0da1351a1002078ad0fd61048bd64972aec32.body",
+          "original_sha256": "cbe73f9f58cc14015ca1dade07a0da1351a1002078ad0fd61048bd64972aec32",
+          "replay_sha256": "cbe73f9f58cc14015ca1dade07a0da1351a1002078ad0fd61048bd64972aec32",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0009.decoded.json",
+          "replay": "data/raw/imported/65f27213a5a8a3add6ce526bf2906a03d1d6ab42ca115d72f4e9b5f7ceff2b72.json",
+          "original_sha256": "65f27213a5a8a3add6ce526bf2906a03d1d6ab42ca115d72f4e9b5f7ceff2b72",
+          "replay_sha256": "65f27213a5a8a3add6ce526bf2906a03d1d6ab42ca115d72f4e9b5f7ceff2b72",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0010.body",
+          "replay": "data/raw/imported/69b018ad24edd1b7329d9d4208b63fb2a7fda9515968f519d43c87395a82cf6b.body",
+          "original_sha256": "69b018ad24edd1b7329d9d4208b63fb2a7fda9515968f519d43c87395a82cf6b",
+          "replay_sha256": "69b018ad24edd1b7329d9d4208b63fb2a7fda9515968f519d43c87395a82cf6b",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0010.decoded.json",
+          "replay": "data/raw/imported/82063e5345872527e24739ab6054c41c00ff13bc3c8a5a3c7b1d0c2bf67de33d.json",
+          "original_sha256": "82063e5345872527e24739ab6054c41c00ff13bc3c8a5a3c7b1d0c2bf67de33d",
+          "replay_sha256": "82063e5345872527e24739ab6054c41c00ff13bc3c8a5a3c7b1d0c2bf67de33d",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0011.body",
+          "replay": "data/raw/imported/b86446bc205961463fe70423a06e9b1ed3151a678b6418996de72e02ba3f83d2.body",
+          "original_sha256": "b86446bc205961463fe70423a06e9b1ed3151a678b6418996de72e02ba3f83d2",
+          "replay_sha256": "b86446bc205961463fe70423a06e9b1ed3151a678b6418996de72e02ba3f83d2",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0011.decoded.json",
+          "replay": "data/raw/imported/af2fb83e4d030ee62344954696ecdd99c468fb2c58feefc1ab0d1885e1a7286f.json",
+          "original_sha256": "af2fb83e4d030ee62344954696ecdd99c468fb2c58feefc1ab0d1885e1a7286f",
+          "replay_sha256": "af2fb83e4d030ee62344954696ecdd99c468fb2c58feefc1ab0d1885e1a7286f",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0012.body",
+          "replay": "data/raw/imported/bd85b67a3daeb258c121278ff55ac2833ee666772cb704b836bf88f396c1e7af.body",
+          "original_sha256": "bd85b67a3daeb258c121278ff55ac2833ee666772cb704b836bf88f396c1e7af",
+          "replay_sha256": "bd85b67a3daeb258c121278ff55ac2833ee666772cb704b836bf88f396c1e7af",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0012.decoded.json",
+          "replay": "data/raw/imported/f73638f7ba42efaadefca72a716edb794a4a0ef55dcdd5239f9b366c9ae98110.json",
+          "original_sha256": "f73638f7ba42efaadefca72a716edb794a4a0ef55dcdd5239f9b366c9ae98110",
+          "replay_sha256": "f73638f7ba42efaadefca72a716edb794a4a0ef55dcdd5239f9b366c9ae98110",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0013.body",
+          "replay": "data/raw/imported/d286630c9e64f9f565fcd55ad9d890e17008a2ae65e59c55ed9d297eb220bbc6.body",
+          "original_sha256": "d286630c9e64f9f565fcd55ad9d890e17008a2ae65e59c55ed9d297eb220bbc6",
+          "replay_sha256": "d286630c9e64f9f565fcd55ad9d890e17008a2ae65e59c55ed9d297eb220bbc6",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0013.decoded.json",
+          "replay": "data/raw/imported/8d518be9b92b9fbb8d91d59ab5a2eaab5a196aa025105a282c0de68a4fee04f2.json",
+          "original_sha256": "8d518be9b92b9fbb8d91d59ab5a2eaab5a196aa025105a282c0de68a4fee04f2",
+          "replay_sha256": "8d518be9b92b9fbb8d91d59ab5a2eaab5a196aa025105a282c0de68a4fee04f2",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0014.body",
+          "replay": "data/raw/imported/cbb04f94534c5d178bd5ad984884d89514315d43030af72a5ed0a88afb89bd8f.body",
+          "original_sha256": "cbb04f94534c5d178bd5ad984884d89514315d43030af72a5ed0a88afb89bd8f",
+          "replay_sha256": "cbb04f94534c5d178bd5ad984884d89514315d43030af72a5ed0a88afb89bd8f",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0014.decoded.json",
+          "replay": "data/raw/imported/70f795022c188f44f37834332d453ac294af06ded64fb41fd0994429aecd68ab.json",
+          "original_sha256": "70f795022c188f44f37834332d453ac294af06ded64fb41fd0994429aecd68ab",
+          "replay_sha256": "70f795022c188f44f37834332d453ac294af06ded64fb41fd0994429aecd68ab",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0015.body",
+          "replay": "data/raw/imported/69bd44027a0d5038038fa1d562c798171776257b3309059c7763bfb574551e05.body",
+          "original_sha256": "69bd44027a0d5038038fa1d562c798171776257b3309059c7763bfb574551e05",
+          "replay_sha256": "69bd44027a0d5038038fa1d562c798171776257b3309059c7763bfb574551e05",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0015.decoded.json",
+          "replay": "data/raw/imported/eb76e426a209fad87c9538c107ca01d5877c15a7a777b3a2b38b1e3b323cd6df.json",
+          "original_sha256": "eb76e426a209fad87c9538c107ca01d5877c15a7a777b3a2b38b1e3b323cd6df",
+          "replay_sha256": "eb76e426a209fad87c9538c107ca01d5877c15a7a777b3a2b38b1e3b323cd6df",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0016.body",
+          "replay": "data/raw/imported/19185a0c58e1e1b9b719cb19bcbe060ee6a7deaa90d9aa58dede90343d4ec613.body",
+          "original_sha256": "19185a0c58e1e1b9b719cb19bcbe060ee6a7deaa90d9aa58dede90343d4ec613",
+          "replay_sha256": "19185a0c58e1e1b9b719cb19bcbe060ee6a7deaa90d9aa58dede90343d4ec613",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0016.decoded.json",
+          "replay": "data/raw/imported/a1e925bec95a2ae8c5e23eda3c0a1d628cc4cc958594190af6360f471d3532e1.json",
+          "original_sha256": "a1e925bec95a2ae8c5e23eda3c0a1d628cc4cc958594190af6360f471d3532e1",
+          "replay_sha256": "a1e925bec95a2ae8c5e23eda3c0a1d628cc4cc958594190af6360f471d3532e1",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0017.body",
+          "replay": "data/raw/imported/13ae4e320153997dc0f33ee2d47af6344f56320c25674c78a5b707ffcb909b12.body",
+          "original_sha256": "13ae4e320153997dc0f33ee2d47af6344f56320c25674c78a5b707ffcb909b12",
+          "replay_sha256": "13ae4e320153997dc0f33ee2d47af6344f56320c25674c78a5b707ffcb909b12",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0017.decoded.json",
+          "replay": "data/raw/imported/dbcc2e63ac6816f6b73fc8df03d762a513455a829afb4354fcf855bf5326bce2.json",
+          "original_sha256": "dbcc2e63ac6816f6b73fc8df03d762a513455a829afb4354fcf855bf5326bce2",
+          "replay_sha256": "dbcc2e63ac6816f6b73fc8df03d762a513455a829afb4354fcf855bf5326bce2",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0001.body",
+          "replay": "data/raw/imported/2bc90c99eba795c6d37bf2073093d8c5bcb3b182043890fc2a706793c57bfa56.body",
+          "original_sha256": "2bc90c99eba795c6d37bf2073093d8c5bcb3b182043890fc2a706793c57bfa56",
+          "replay_sha256": "2bc90c99eba795c6d37bf2073093d8c5bcb3b182043890fc2a706793c57bfa56",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0001.decoded.json",
+          "replay": "data/raw/imported/992a08cde90b65cd504134cfc98316911717e5fba2e73c971e627814f30ca435.json",
+          "original_sha256": "992a08cde90b65cd504134cfc98316911717e5fba2e73c971e627814f30ca435",
+          "replay_sha256": "992a08cde90b65cd504134cfc98316911717e5fba2e73c971e627814f30ca435",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0002.body",
+          "replay": "data/raw/imported/f48038bf45aa936dac1108775ebe6a18f2de7b9a4cc550460237f91b52ae5d95.body",
+          "original_sha256": "f48038bf45aa936dac1108775ebe6a18f2de7b9a4cc550460237f91b52ae5d95",
+          "replay_sha256": "f48038bf45aa936dac1108775ebe6a18f2de7b9a4cc550460237f91b52ae5d95",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0002.decoded.json",
+          "replay": "data/raw/imported/56e78b88cd136373c1af4103e021d426ae9284aacbe35481d8eb323068f27e31.json",
+          "original_sha256": "56e78b88cd136373c1af4103e021d426ae9284aacbe35481d8eb323068f27e31",
+          "replay_sha256": "56e78b88cd136373c1af4103e021d426ae9284aacbe35481d8eb323068f27e31",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0003.body",
+          "replay": "data/raw/imported/12851d7704393ae0dfa8a26f6fb7219b81aa16e1ec64e341408c26af409ebcdb.body",
+          "original_sha256": "12851d7704393ae0dfa8a26f6fb7219b81aa16e1ec64e341408c26af409ebcdb",
+          "replay_sha256": "12851d7704393ae0dfa8a26f6fb7219b81aa16e1ec64e341408c26af409ebcdb",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0003.decoded.json",
+          "replay": "data/raw/imported/2719d1c4ffa3d595e540acadc325e084130229e6163043d85d6d0f4dc52fba7c.json",
+          "original_sha256": "2719d1c4ffa3d595e540acadc325e084130229e6163043d85d6d0f4dc52fba7c",
+          "replay_sha256": "2719d1c4ffa3d595e540acadc325e084130229e6163043d85d6d0f4dc52fba7c",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0004.body",
+          "replay": "data/raw/imported/cdf40c6f3082217df387f57bd078f60e30ea079c36ca30f4edc0ed2d39a7c091.body",
+          "original_sha256": "cdf40c6f3082217df387f57bd078f60e30ea079c36ca30f4edc0ed2d39a7c091",
+          "replay_sha256": "cdf40c6f3082217df387f57bd078f60e30ea079c36ca30f4edc0ed2d39a7c091",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0004.decoded.json",
+          "replay": "data/raw/imported/74bac7ea646833fcd9115b952afedfe268814656174d5220c0f5878477ab3877.json",
+          "original_sha256": "74bac7ea646833fcd9115b952afedfe268814656174d5220c0f5878477ab3877",
+          "replay_sha256": "74bac7ea646833fcd9115b952afedfe268814656174d5220c0f5878477ab3877",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0005.body",
+          "replay": "data/raw/imported/460c32f66179e32c34d8a212a0479c0c3c81d5372d58561f42e7ffb9d21e3366.body",
+          "original_sha256": "460c32f66179e32c34d8a212a0479c0c3c81d5372d58561f42e7ffb9d21e3366",
+          "replay_sha256": "460c32f66179e32c34d8a212a0479c0c3c81d5372d58561f42e7ffb9d21e3366",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0005.decoded.json",
+          "replay": "data/raw/imported/e8d1cfc25d7f0968104f97e6b455d2e3c34688389ef554d099017ad084855486.json",
+          "original_sha256": "e8d1cfc25d7f0968104f97e6b455d2e3c34688389ef554d099017ad084855486",
+          "replay_sha256": "e8d1cfc25d7f0968104f97e6b455d2e3c34688389ef554d099017ad084855486",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0006.body",
+          "replay": "data/raw/imported/299cc506f316fa09706647f91c2e65a06b048947a95d2648b1e2663abfd9df70.body",
+          "original_sha256": "299cc506f316fa09706647f91c2e65a06b048947a95d2648b1e2663abfd9df70",
+          "replay_sha256": "299cc506f316fa09706647f91c2e65a06b048947a95d2648b1e2663abfd9df70",
+          "matched": true
+        },
+        {
+          "original": "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0006.decoded.json",
+          "replay": "data/raw/imported/32f191731da3ce6c24c4839a7b70cdb110ea991da2d19193b49b95e9e9a86139.json",
+          "original_sha256": "32f191731da3ce6c24c4839a7b70cdb110ea991da2d19193b49b95e9e9a86139",
+          "replay_sha256": "32f191731da3ce6c24c4839a7b70cdb110ea991da2d19193b49b95e9e9a86139",
+          "matched": true
+        }
+      ]
+    },
+    {
+      "name": "all_comment_labels",
+      "passed": true,
+      "rows": 311,
+      "fields": [
+        "comment_text_for_analysis",
+        "primary_theme",
+        "primary_theme_label",
+        "rating_sentiment",
+        "sentiment_method",
+        "sentiment_rating_text_agreement",
+        "short_text_for_theme_review",
+        "text_negative_hits",
+        "text_polarity_score",
+        "text_positive_hits",
+        "text_sentiment_rule",
+        "theme_count",
+        "theme_labels",
+        "themes",
+        "word_count_for_analysis"
+      ],
+      "field_comparisons": 4665,
+      "mismatches": []
+    },
+    {
+      "name": "window_qa_rows",
+      "passed": true,
+      "rows": 311,
+      "field_mapping": {
+        "is_duplicate": "is_duplicate",
+        "analysis_eligible": "analysis_eligible",
+        "normalized_text_sha256": "normalized_text_sha256",
+        "normalized_text_duplicate_count": "normalized_text_duplicate_count",
+        "word_count": "word_count_body",
+        "is_short_text_for_theme_review": "short_body"
+      },
+      "mismatches": []
+    },
+    {
+      "name": "window_qa_summary",
+      "passed": true,
+      "values": {
+        "rows_checked": {
+          "original": 311,
+          "replay": 311
+        },
+        "rows_analysis_eligible": {
+          "original": 311,
+          "replay": 311
+        },
+        "short_text_for_theme_review_rows": {
+          "original": 105,
+          "replay": 105
+        },
+        "normalized_text_duplicate_groups_analysis_sample": {
+          "original": 5,
+          "replay": 5
+        },
+        "normalized_text_duplicate_rows_analysis_sample": {
+          "original": 20,
+          "replay": 20
+        }
+      },
+      "scope": "311-row window only; original full-history QA has a broader scope"
+    },
+    {
+      "name": "benchmark:sc_mobile",
+      "passed": true,
+      "independently_recalculated": {
+        "review_count": 98,
+        "mean_rating": 2.2551,
+        "negative_count_rating_1_2": 65,
+        "negative_rate_rating_1_2": 0.663265,
+        "positive_count_rating_4_5": 29,
+        "positive_rate_rating_4_5": 0.295918,
+        "one_star_count": 58,
+        "one_star_rate": 0.591837,
+        "text_negative_rule_count": 58,
+        "text_negative_rule_rate": 0.591837,
+        "short_text_count": 17
+      }
+    },
+    {
+      "name": "benchmark:hsbc_hk",
+      "passed": true,
+      "independently_recalculated": {
+        "review_count": 213,
+        "mean_rating": 3.2817,
+        "negative_count_rating_1_2": 86,
+        "negative_rate_rating_1_2": 0.403756,
+        "positive_count_rating_4_5": 117,
+        "positive_rate_rating_4_5": 0.549296,
+        "one_star_count": 77,
+        "one_star_rate": 0.361502,
+        "text_negative_rule_count": 66,
+        "text_negative_rule_rate": 0.309859,
+        "short_text_count": 66
+      }
+    },
+    {
+      "name": "benchmark_difference",
+      "passed": true,
+      "values": {
+        "review_count": -115,
+        "mean_rating": -1.0266,
+        "negative_rate_rating_1_2": 0.259509,
+        "positive_rate_rating_4_5": -0.253378,
+        "one_star_rate": 0.230335,
+        "text_negative_rule_rate": 0.281978
+      }
+    },
+    {
+      "name": "all_theme_metrics",
+      "passed": true,
+      "app_theme_rows": 22,
+      "fields_per_row": 10,
+      "mismatched_keys": []
+    },
+    {
+      "name": "all_monthly_metrics",
+      "passed": true,
+      "months": [
+        {
+          "month": "2026-04",
+          "review_count": 18,
+          "sc_mobile": true,
+          "sc_count": true,
+          "sc_rate": true,
+          "hsbc_hk": true,
+          "hsbc_count": true,
+          "hsbc_rate": true,
+          "total": true
+        },
+        {
+          "month": "2026-05",
+          "review_count": 50,
+          "sc_mobile": true,
+          "sc_count": true,
+          "sc_rate": true,
+          "hsbc_hk": true,
+          "hsbc_count": true,
+          "hsbc_rate": true,
+          "total": true
+        },
+        {
+          "month": "2026-06",
+          "review_count": 66,
+          "sc_mobile": true,
+          "sc_count": true,
+          "sc_rate": true,
+          "hsbc_hk": true,
+          "hsbc_count": true,
+          "hsbc_rate": true,
+          "total": true
+        },
+        {
+          "month": "2026-07",
+          "review_count": 42,
+          "sc_mobile": true,
+          "sc_count": true,
+          "sc_rate": true,
+          "hsbc_hk": true,
+          "hsbc_count": true,
+          "hsbc_rate": true,
+          "total": true
+        },
+        {
+          "month": "2026-08",
+          "review_count": 63,
+          "sc_mobile": true,
+          "sc_count": true,
+          "sc_rate": true,
+          "hsbc_hk": true,
+          "hsbc_count": true,
+          "hsbc_rate": true,
+          "total": true
+        },
+        {
+          "month": "2026-09",
+          "review_count": 46,
+          "sc_mobile": true,
+          "sc_count": true,
+          "sc_rate": true,
+          "hsbc_hk": true,
+          "hsbc_count": true,
+          "hsbc_rate": true,
+          "total": true
+        },
+        {
+          "month": "2026-10",
+          "review_count": 26,
+          "sc_mobile": true,
+          "sc_count": true,
+          "sc_rate": true,
+          "hsbc_hk": true,
+          "hsbc_count": true,
+          "hsbc_rate": true,
+          "total": true
+        }
+      ]
+    },
+    {
+      "name": "representative_quote_semantics",
+      "passed": true,
+      "original_rows": 20,
+      "original_unique_reviews": 14,
+      "replay_rows": 14,
+      "same_unique_review_set": true,
+      "same_original_comment_fields": true,
+      "explanation": "Skill deduplicates representative quotes by record_key; original repeated reviews under different themes."
+    },
+    {
+      "name": "validation_sample_identity",
+      "passed": true,
+      "rows": 10,
+      "same_record_set": true,
+      "same_order": false,
+      "explanation": "Original sample is newest first; Skill sample is grouped by app then rating. The 311-row analysis dataset remains newest first."
+    },
+    {
+      "name": "fresh_sample_review",
+      "passed": true,
+      "status": "reviewed",
+      "limitation": "Agent spot-check of 10 comments, not an independent human-labeled accuracy set"
+    },
+    {
+      "name": "installed_skill_matches_package",
+      "passed": true,
+      "installed_path": "C:\\Users\\1\\.codex\\skills\\app-review-feedback",
+      "files_checked": 24,
+      "files": {
+        "agents/openai.yaml": {
+          "expected": "807bca9f1ace6676b10e324256359c20db98bbd5e886dd39c00a7027a0095af9",
+          "actual": "807bca9f1ace6676b10e324256359c20db98bbd5e886dd39c00a7027a0095af9"
+        },
+        "assets/apps.json": {
+          "expected": "c134a7661cac6d3f96862c41003275a4ffe62ea34f29fec6125d775704166a26",
+          "actual": "c134a7661cac6d3f96862c41003275a4ffe62ea34f29fec6125d775704166a26"
+        },
+        "assets/report.css": {
+          "expected": "2593105d935516b4d853c61509b5df45090044bdb9102b97004257b1853f483b",
+          "actual": "2593105d935516b4d853c61509b5df45090044bdb9102b97004257b1853f483b"
+        },
+        "assets/report.js": {
+          "expected": "bec3f5c45221084d6d941dbf6074664bca43e8b73bb7079e2539da2983797088",
+          "actual": "bec3f5c45221084d6d941dbf6074664bca43e8b73bb7079e2539da2983797088"
+        },
+        "assets/requirements-collection.txt": {
+          "expected": "e18463a7bd6b60e59d8486c3c9b3f736af826d212c6fe17ab3b928be383f0d75",
+          "actual": "e18463a7bd6b60e59d8486c3c9b3f736af826d212c6fe17ab3b928be383f0d75"
+        },
+        "references/execution.md": {
+          "expected": "c844512a7543052206177cd39dd8e7cded1749ae1794ab6d235e4d47176a51e9",
+          "actual": "c844512a7543052206177cd39dd8e7cded1749ae1794ab6d235e4d47176a51e9"
+        },
+        "references/methods.md": {
+          "expected": "b5671c191bbe3d3b38b84c115ae9b7796811537e98b735ee8ed1174a5f398e87",
+          "actual": "b5671c191bbe3d3b38b84c115ae9b7796811537e98b735ee8ed1174a5f398e87"
+        },
+        "references/resource_provenance.json": {
+          "expected": "46e9e1b8ebe7ca1b450ccba423eb3d52b8e1b9af10042d2d61a5f2701153d113",
+          "actual": "46e9e1b8ebe7ca1b450ccba423eb3d52b8e1b9af10042d2d61a5f2701153d113"
+        },
+        "references/validation.md": {
+          "expected": "30a0b239067081c2aa1a7c108d42c3ad4abe26378f8c8281f57ad9f010be12d9",
+          "actual": "30a0b239067081c2aa1a7c108d42c3ad4abe26378f8c8281f57ad9f010be12d9"
+        },
+        "references/workflow.md": {
+          "expected": "6d16b116ca0114fc45c64379c72fda0f17f53d3308e9397bd34e64b627e7ee38",
+          "actual": "6d16b116ca0114fc45c64379c72fda0f17f53d3308e9397bd34e64b627e7ee38"
+        },
+        "scripts/apple_parser.py": {
+          "expected": "34c43a9a6d53673648e642f5c733c375bcf47d44eb6e0ce8996c6891a2be6277",
+          "actual": "34c43a9a6d53673648e642f5c733c375bcf47d44eb6e0ce8996c6891a2be6277"
+        },
+        "scripts/browser_check.py": {
+          "expected": "519bb6fc456d7aaa2ce656fef384a9ff04057dcad0146caf99e59f4f6043bf3a",
+          "actual": "519bb6fc456d7aaa2ce656fef384a9ff04057dcad0146caf99e59f4f6043bf3a"
+        },
+        "scripts/build_report.py": {
+          "expected": "781e95d3b763d31b63571535e3492442a1ca49eb0d1d0d2c7bbdc2e334e0f528",
+          "actual": "781e95d3b763d31b63571535e3492442a1ca49eb0d1d0d2c7bbdc2e334e0f528"
+        },
+        "scripts/collect_reviews.py": {
+          "expected": "990ae1ee5c0507aeb9f8b91e4b2f54f468302c954680ac7d4727de002faa1ca4",
+          "actual": "990ae1ee5c0507aeb9f8b91e4b2f54f468302c954680ac7d4727de002faa1ca4"
+        },
+        "scripts/extract_project_resources.py": {
+          "expected": "8f558522e8449920806d0323ec5ffb91fc0113ed060c77fcc2b71361829557ff",
+          "actual": "8f558522e8449920806d0323ec5ffb91fc0113ed060c77fcc2b71361829557ff"
+        },
+        "scripts/feedback_io.py": {
+          "expected": "3135218b38abb6c92c281d9a5c06c25de608d53952f82b91e7513d990095d38e",
+          "actual": "3135218b38abb6c92c281d9a5c06c25de608d53952f82b91e7513d990095d38e"
+        },
+        "scripts/package_skill.py": {
+          "expected": "1ac8b9a4ade639e48fe9d501cf018fa86e3a4a954fb45cb013be7ea9890f8bfa",
+          "actual": "1ac8b9a4ade639e48fe9d501cf018fa86e3a4a954fb45cb013be7ea9890f8bfa"
+        },
+        "scripts/run_feedback.py": {
+          "expected": "2f69fb9ba9355e38cc520403694ccbbaa7d743e4e0f3d849b1bb4f9598ce7e72",
+          "actual": "2f69fb9ba9355e38cc520403694ccbbaa7d743e4e0f3d849b1bb4f9598ce7e72"
+        },
+        "scripts/source_utils.py": {
+          "expected": "ee3e0435ee49471f233acbc920d221c96614a153411b60447900ff929f6cee66",
+          "actual": "ee3e0435ee49471f233acbc920d221c96614a153411b60447900ff929f6cee66"
+        },
+        "scripts/test_workflow.py": {
+          "expected": "eb065e506e8023f426d30dac327efa1321d80d3e2198b4c5484a87c10292e196",
+          "actual": "eb065e506e8023f426d30dac327efa1321d80d3e2198b4c5484a87c10292e196"
+        },
+        "scripts/theme_rules.py": {
+          "expected": "2518be03fc6f4bdcdeb961e97f5ffe6248a25030299a4198b37982e579cae8bc",
+          "actual": "2518be03fc6f4bdcdeb961e97f5ffe6248a25030299a4198b37982e579cae8bc"
+        },
+        "scripts/verify_report.py": {
+          "expected": "46cccf639289fb4347850a24a8d9131c2d9bf62ea26dd25bbef3f31bc2cb3afb",
+          "actual": "46cccf639289fb4347850a24a8d9131c2d9bf62ea26dd25bbef3f31bc2cb3afb"
+        },
+        "scripts/xlsx_core.py": {
+          "expected": "6e327efd90f55930c23a5e6213c39775dacda13aabf24f303f32713e865b0c83",
+          "actual": "6e327efd90f55930c23a5e6213c39775dacda13aabf24f303f32713e865b0c83"
+        },
+        "SKILL.md": {
+          "expected": "19dc665a6ac183ea1b0a68374eff5bf56366bcdec1dbc58776969b194cda2c39",
+          "actual": "19dc665a6ac183ea1b0a68374eff5bf56366bcdec1dbc58776969b194cda2c39"
+        }
+      }
+    },
+    {
+      "name": "original_project_unchanged",
+      "passed": true,
+      "files_checked": 54,
+      "files": {
+        "data/google_play_2026-10-19/run_03_full_history/all_languages_fetched.json": true,
+        "data/apple_2026-10-19/run_03/all_languages_fetched.json": true,
+        "data/merged_2026-10-19/master_all_reviews.csv": true,
+        "data/merged_2026-10-19/master_all_reviews.json": true,
+        "data/merged_2026-10-19/master_english_all.csv": true,
+        "data/merged_2026-10-19/master_english_all.json": true,
+        "data/merged_2026-10-19/master_english_six_months.csv": true,
+        "data/merged_2026-10-19/master_english_six_months.json": true,
+        "data/merged_2026-10-19/master_six_months_all.csv": true,
+        "data/merged_2026-10-19/master_six_months_all.json": true,
+        "data/merged_2026-10-19/reviews_master.xlsx": true,
+        "data/checkpoint_C_qa_2026-10-19/coverage_by_app_platform.csv": true,
+        "data/checkpoint_C_qa_2026-10-19/coverage_by_month.csv": true,
+        "data/checkpoint_C_qa_2026-10-19/coverage_by_rating.csv": true,
+        "data/checkpoint_C_qa_2026-10-19/coverage_long_platform_month_language_rating.csv": true,
+        "data/checkpoint_C_qa_2026-10-19/english_six_months_qa.csv": true,
+        "data/checkpoint_C_qa_2026-10-19/english_six_months_qa.json": true,
+        "data/checkpoint_C_qa_2026-10-19/README.md": true,
+        "data/checkpoint_D_analysis_2026-10-19/comment_labels.csv": true,
+        "data/checkpoint_D_analysis_2026-10-19/comment_labels.json": true,
+        "data/checkpoint_D_analysis_2026-10-19/monthly_overall_feedback.csv": true,
+        "data/checkpoint_D_analysis_2026-10-19/overall_benchmark.csv": true,
+        "data/checkpoint_D_analysis_2026-10-19/overall_benchmark.json": true,
+        "data/checkpoint_D_analysis_2026-10-19/README.md": true,
+        "data/checkpoint_D_analysis_2026-10-19/representative_quotes.csv": true,
+        "data/checkpoint_D_analysis_2026-10-19/themes_by_app.csv": true,
+        "data/checkpoint_D_analysis_2026-10-19/themes_overall.csv": true,
+        "data/checkpoint_D_analysis_2026-10-19/top_themes_by_app.csv": true,
+        "data/checkpoint_D_analysis_2026-10-19/validation_sample.csv": true,
+        "data/checkpoint_D_analysis_2026-10-19/validation_sample_summary.json": true,
+        "plan.md": true,
+        "checkpoint_A_source_feasibility.md": true,
+        "checkpoint_B_data_collection.md": true,
+        "checkpoint_C_data_qa.md": true,
+        "checkpoint_D_customer_feedback_analysis.md": true,
+        "checkpoint_E_build_test.md": true,
+        "checkpoint_F_final_review.md": true,
+        "handover.md": true,
+        "report_customer_feedback_2026-10-19.html": true,
+        "scripts/final_review_feedback.py": true,
+        "data/checkpoint_D_analysis_2026-10-19/report_build_manifest.json": true,
+        "data/checkpoint_D_analysis_2026-10-19/report_static_test_results.json": true,
+        "data/checkpoint_D_analysis_2026-10-19/report_browser_test_results.json": true,
+        "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_01_variant1.body": true,
+        "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_02_variant1.body": true,
+        "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_03_repair083308528767_3.body": true,
+        "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_04_repair083308528767_7.body": true,
+        "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_05_repair083308528767_3.body": true,
+        "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_06_variant2.body": true,
+        "data/apple_2026-10-19/run_03/sc_mobile/raw/page_01_variant1.body": true,
+        "data/apple_2026-10-19/run_03/sc_mobile/raw/page_02_variant3.body": true,
+        "data/apple_2026-10-19/run_03/sc_mobile/raw/page_03_variant1.body": true,
+        "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0001.body": true,
+        "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0001.body": true
+      }
+    },
+    {
+      "name": "fresh_report_validation",
+      "passed": true,
+      "static_groups": 7,
+      "browser_assertions": 1386,
+      "report_sha256": "61946ec92de378a13e9cfec9deb672c5f2cb5cf589e7ac19b99249c61aea021d",
+      "screenshots": [
+        {
+          "file": "screenshots/overview.png",
+          "sha256": "d513777a5e3305089eda34a8fe7436491c8e93c7312a3b2394688c10401320ce"
+        },
+        {
+          "file": "screenshots/themes.png",
+          "sha256": "87aec7454e67c27c5544c9e9aa162aa7275daee1b1312a79cebdd48693c6e8c4"
+        },
+        {
+          "file": "screenshots/comments.png",
+          "sha256": "1c50bb1e7ea5b07b1beaec438cf0993a9f826731e1728c065ea2849bb72a9a41"
+        }
+      ],
+      "visual_review": "Agent inspected overview, themes, comments screenshots"
+    }
+  ],
+  "original_field_count": 45,
+  "replay_field_count": 48,
+  "added_provenance_fields": [
+    "origin_input_row",
+    "origin_raw_items_workspace_path",
+    "origin_raw_response_workspace_path"
+  ],
+  "normalization": "Only evidence paths relocate. Compare original paths with origin_* fields and compare actual evidence file hashes. All other original fields compare exactly, without rounding or dropping comments.",
+  "expected_differences": {
+    "representative_quotes": {
+      "original_rows": 20,
+      "original_unique_reviews": 14,
+      "replay_rows": 14,
+      "same_unique_review_set": true,
+      "same_original_comment_fields": true,
+      "explanation": "Skill deduplicates representative quotes by record_key; original repeated reviews under different themes."
+    },
+    "html": {
+      "original_sha256": "9a4667c8f230ee097b54b2fd2edd076d51f7e28d775d560d03ec4c5999ce2f1c",
+      "replay_sha256": "61946ec92de378a13e9cfec9deb672c5f2cb5cf589e7ac19b99249c61aea021d",
+      "byte_identical": false,
+      "reason": "Reusable report template, evidence paths and manual review notes differ."
+    },
+    "data_files": "Added provenance and relocated raw evidence paths change CSV/JSON/workbook bytes; source comment values and labels are compared semantically above.",
+    "qa_schema": "Equivalent window QA fields have renamed columns; original full-history QA is outside the new window QA scope.",
+    "monthly_schema": "Skill stores app-level monthly metrics in nested JSON and CSV; compare equivalent monthly counts and rates plus independently recalculated app metrics.",
+    "validation_sample_order": {
+      "same_record_set": true,
+      "same_order": false,
+      "reason": "Original sample is newest first; Skill groups the same ten comments by app and rating."
+    }
+  },
+  "limits": [
+    "No fresh crawling or current website validation.",
+    "Original language labels are reused; language detection is not rerun.",
+    "Deterministic rule reproducibility does not establish sentiment/theme accuracy.",
+    "The 10-comment spot-check is performed by the agent, not an independent annotator.",
+    "Original store sampling/coverage limitations remain."
+  ]
+}

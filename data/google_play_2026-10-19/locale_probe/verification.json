@@ -1,0 +1,12 @@
+{
+  "record_count": 400,
+  "errors": [],
+  "raw_bodies_verified": 4,
+  "review_pages_decoded_from_original_http": 2,
+  "records_traced_to_raw": 400,
+  "unique_app_review_ids": true,
+  "newest_first": true,
+  "english_export_respects_cutoff": true,
+  "missing_dates": 0,
+  "invalid_ratings": 0
+}

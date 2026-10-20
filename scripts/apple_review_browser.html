@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Apple App Store 英文评论原文核查</title>
+<style>
+body{font:15px/1.6 system-ui,sans-serif;max-width:1200px;margin:24px auto;padding:0 22px;background:#f5f7fa;color:#182334}h1{font-size:25px}.note,.meta{color:#526176}.meta{font-size:13px}select,input,button{font:inherit;padding:7px 10px;border:1px solid #bdc9d8;border-radius:6px;background:white}.controls,.pager{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:20px 0}input[type=search]{width:min(440px,80%)}article{background:white;border:1px solid #d7e0eb;border-radius:9px;padding:18px;margin:12px 0}.text{white-space:pre-wrap;overflow-wrap:anywhere;font-size:16px}.title{font-size:18px;margin:12px 0 4px}.summary{background:#e9f0f8;padding:14px;border-radius:8px}a{color:#1456a0}
+</style>
+<h1>Apple App Store · 香港区英文评论核查</h1>
+<p class="note">截止日期 2026/10/19（香港时间）。按 Apple 返回的 updated 时间从新到老，可能包含评论编辑。标题和正文保持来源原文。公开 RSS 最多可能只提供最近 10 页，样本范围见下方。</p>
+<div id="summary" class="summary"></div>
+<div class="controls">
+<select id="app"><option value="">两个应用</option><option>SC Mobile Hong Kong</option><option>HSBC HK Mobile Banking</option></select>
+<input id="search" type="search" placeholder="搜索标题、正文、用户名或评论 ID">
+<label><input id="window" type="checkbox" checked>仅 2026/04/19–2026/10/19</label>
+<select id="rating"><option value="">全部星级</option><option value="1">1 星</option><option value="2">2 星</option><option value="3">3 星</option><option value="4">4 星</option><option value="5">5 星</option></select>
+</div>
+<div class="pager"><button id="prev">上一页</button><span id="count"></span><button id="next">下一页</button></div>
+<main id="reviews"></main>
+<p class="note">Apple RSS 返回的标题、正文、星级、版本、公开显示名、投票字段均已保存。此入口未提供开发者回复；空值表示未提供。核查链接打开应用评论页，未保证定位到单条评论。原始响应见各应用 raw 目录。</p>
+<script id="data" type="application/json">__PAYLOAD__</script>
+<script>
+const data=JSON.parse(document.getElementById('data').textContent),$=id=>document.getElementById(id);let page=0;const size=40;
+$('summary').textContent=data.report.statistics.map(s=>`${s.app}：返回 ${s.fetched_unique} 条；六个月内 ${s.all_languages_in_window} 条，其中英文 ${s.english_in_window} 条；最早返回 ${s.all_languages_earliest_hk||'未取得'}；最新英文 ${s.english_latest_hk||'未取得'}`).join(' ｜ ');
+function node(tag,text,cls){const e=document.createElement(tag);e.textContent=text;if(cls)e.className=cls;return e}
+function render(){const q=$('search').value.toLowerCase();const rows=data.reviews.filter(r=>(!$('app').value||r.app===$('app').value)&&(!$('window').checked||r.within_six_month_window)&&(!$('rating').value||r.rating===Number($('rating').value))&&(!q||[r.title,r.text,r.user_display_name,r.review_id].join(' ').toLowerCase().includes(q)));const pages=Math.max(1,Math.ceil(rows.length/size));page=Math.max(0,Math.min(page,pages-1));$('count').textContent=`${rows.length} 条匹配 · 第 ${page+1}/${pages} 页`;$('prev').disabled=page===0;$('next').disabled=page>=pages-1;const container=$('reviews');container.replaceChildren();for(const r of rows.slice(page*size,(page+1)*size)){const card=node('article','');card.append(node('strong',r.app+' · '+r.review_time_hk.replace('T',' ')));card.append(node('div',`${'★'.repeat(r.rating)} (${r.rating}/5) · ${r.user_display_name||''} · 版本 ${r.review_app_version||'未提供'} · voteSum ${r.vote_sum??'未提供'} / voteCount ${r.vote_count??'未提供'}`,'meta'));card.append(node('h2',r.title,'title'));card.append(node('p',r.text,'text'));card.append(node('div','Review ID: '+r.review_id,'meta'));const link=node('a','Apple App Store 核查 ↗');link.href=r.source_url;link.target='_blank';link.rel='noopener noreferrer';card.append(link);card.append(node('div',`证据：${r.raw_response_file}，feed.entry[${r.raw_entry_index}]；语言判断 ${r.language_method}`,'meta'));container.append(card)}}
+for(const id of ['app','search','window','rating'])$(id).addEventListener(id==='search'?'input':'change',()=>{page=0;render()});$('prev').onclick=()=>{page--;render();window.scrollTo(0,0)};$('next').onclick=()=>{page++;render();window.scrollTo(0,0)};render();
+</script>
+</html>

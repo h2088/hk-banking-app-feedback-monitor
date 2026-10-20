@@ -1,0 +1,186 @@
+[
+  {
+    "key": "apple_lookup_initial_ids",
+    "url": "https://itunes.apple.com/lookup?id=445795688,1164066737&country=hk",
+    "status": 200,
+    "raw_file": "data/apple_2026-10-19/probe_02/raw/apple_lookup_initial_ids.body",
+    "bytes": 19072,
+    "final_url": "https://itunes.apple.com/lookup?id=445795688,1164066737&country=hk",
+    "apps": [
+      {
+        "trackId": 445795688,
+        "trackName": "SC Mobile Hong Kong",
+        "sellerName": "Standard Chartered",
+        "bundleId": "com.sc.breezehk",
+        "trackViewUrl": "https://apps.apple.com/hk/app/sc-mobile-hong-kong/id445795688?uo=4"
+      },
+      {
+        "trackId": 1164066737,
+        "trackName": "HSBC HK Mobile Banking",
+        "sellerName": "HSBC Global Services UK Limited",
+        "bundleId": "hk.com.hsbc.hsbchkmobilebanking",
+        "trackViewUrl": "https://apps.apple.com/hk/app/hsbc-hk-mobile-banking/id1164066737?uo=4"
+      }
+    ]
+  },
+  {
+    "key": "apple_search_sc",
+    "url": "https://itunes.apple.com/search?term=SC%20Mobile%20Hong%20Kong&country=hk&entity=software&limit=10",
+    "status": 200,
+    "raw_file": "data/apple_2026-10-19/probe_02/raw/apple_search_sc.body",
+    "bytes": 102432,
+    "final_url": "https://itunes.apple.com/search?term=SC%20Mobile%20Hong%20Kong&country=hk&entity=software&limit=10",
+    "apps": [
+      {
+        "trackId": 445795688,
+        "trackName": "SC Mobile Hong Kong",
+        "sellerName": "Standard Chartered",
+        "bundleId": "com.sc.breezehk",
+        "trackViewUrl": "https://apps.apple.com/hk/app/sc-mobile-hong-kong/id445795688?uo=4"
+      },
+      {
+        "trackId": 1164066737,
+        "trackName": "HSBC HK Mobile Banking",
+        "sellerName": "HSBC Global Services UK Limited",
+        "bundleId": "hk.com.hsbc.hsbchkmobilebanking",
+        "trackViewUrl": "https://apps.apple.com/hk/app/hsbc-hk-mobile-banking/id1164066737?uo=4"
+      },
+      {
+        "trackId": 389801252,
+        "trackName": "Instagram",
+        "sellerName": "Instagram, Inc.",
+        "bundleId": "com.burbn.instagram",
+        "trackViewUrl": "https://apps.apple.com/hk/app/instagram/id389801252?uo=4"
+      },
+      {
+        "trackId": 585027354,
+        "trackName": "Google 地圖",
+        "sellerName": "Google LLC",
+        "bundleId": "com.google.Maps",
+        "trackViewUrl": "https://apps.apple.com/hk/app/google-%E5%9C%B0%E5%9C%96/id585027354?uo=4"
+      },
+      {
+        "trackId": 544007664,
+        "trackName": "YouTube",
+        "sellerName": "Google LLC",
+        "bundleId": "com.google.ios.youtube",
+        "trackViewUrl": "https://apps.apple.com/hk/app/youtube/id544007664?uo=4"
+      },
+      {
+        "trackId": 422689480,
+        "trackName": "Gmail - Google 推出的電子郵件服務",
+        "sellerName": "Google LLC",
+        "bundleId": "com.google.Gmail",
+        "trackViewUrl": "https://apps.apple.com/hk/app/gmail-google-%E6%8E%A8%E5%87%BA%E7%9A%84%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E6%9C%8D%E5%8B%99/id422689480?uo=4"
+      },
+      {
+        "trackId": 284815942,
+        "trackName": "Google",
+        "sellerName": "Google LLC",
+        "bundleId": "com.google.GoogleMobile",
+        "trackViewUrl": "https://apps.apple.com/hk/app/google/id284815942?uo=4"
+      },
+      {
+        "trackId": 373717372,
+        "trackName": "Citibank HK",
+        "sellerName": "CITIBANK (HONG KONG) LIMITED",
+        "bundleId": "com.Citibank.CitibankHK",
+        "trackViewUrl": "https://apps.apple.com/hk/app/citibank-hk/id373717372?uo=4"
+      },
+      {
+        "trackId": 681752345,
+        "trackName": "Trip.com - 酒店機票高鐵預訂平台",
+        "sellerName": "Trip.com Travel Singapore Pte. Ltd.",
+        "bundleId": "com.ctrip.EBooking",
+        "trackViewUrl": "https://apps.apple.com/hk/app/trip-com-%E9%85%92%E5%BA%97%E6%A9%9F%E7%A5%A8%E9%AB%98%E9%90%B5%E9%A0%90%E8%A8%82%E5%B9%B3%E5%8F%B0/id681752345?uo=4"
+      },
+      {
+        "trackId": 1210638245,
+        "trackName": "AlipayHK (支付寶香港)",
+        "sellerName": "alipayhk",
+        "bundleId": "com.alipay.wallethk",
+        "trackViewUrl": "https://apps.apple.com/hk/app/alipayhk-%E6%94%AF%E4%BB%98%E5%AF%B6%E9%A6%99%E6%B8%AF/id1210638245?uo=4"
+      }
+    ]
+  },
+  {
+    "key": "apple_search_hsbc",
+    "url": "https://itunes.apple.com/search?term=HSBC%20HK%20Mobile%20Banking&country=hk&entity=software&limit=10",
+    "status": 200,
+    "raw_file": "data/apple_2026-10-19/probe_02/raw/apple_search_hsbc.body",
+    "bytes": 97993,
+    "final_url": "https://itunes.apple.com/search?term=HSBC%20HK%20Mobile%20Banking&country=hk&entity=software&limit=10",
+    "apps": [
+      {
+        "trackId": 1164066737,
+        "trackName": "HSBC HK Mobile Banking",
+        "sellerName": "HSBC Global Services UK Limited",
+        "bundleId": "hk.com.hsbc.hsbchkmobilebanking",
+        "trackViewUrl": "https://apps.apple.com/hk/app/hsbc-hk-mobile-banking/id1164066737?uo=4"
+      },
+      {
+        "trackId": 1315948639,
+        "trackName": "HSBC HK Reward+",
+        "sellerName": "HSBC Global Services UK Limited",
+        "bundleId": "hk.com.hsbc.hsbchkrewards",
+        "trackViewUrl": "https://apps.apple.com/hk/app/hsbc-hk-reward/id1315948639?uo=4"
+      },
+      {
+        "trackId": 1184264977,
+        "trackName": "PayMe by HSBC",
+        "sellerName": "The Hongkong and Shanghai Banking Corporation Ltd.",
+        "bundleId": "hk.com.hsbc.paymefromhsbc",
+        "trackViewUrl": "https://apps.apple.com/hk/app/payme-by-hsbc/id1184264977?uo=4"
+      },
+      {
+        "trackId": 1114430602,
+        "trackName": "Octopus 八達通",
+        "sellerName": "OCTOPUS Cards Ltd.",
+        "bundleId": "com.octopuscards.octopus",
+        "trackViewUrl": "https://apps.apple.com/hk/app/octopus-%E5%85%AB%E9%81%94%E9%80%9A/id1114430602?uo=4"
+      },
+      {
+        "trackId": 1321395920,
+        "trackName": "香港滙豐Business Express",
+        "sellerName": "The Hongkong and Shanghai Banking Corporation Ltd.",
+        "bundleId": "hk.com.hsbc.hsbchkbusinessexpress",
+        "trackViewUrl": "https://apps.apple.com/hk/app/%E9%A6%99%E6%B8%AF%E6%BB%99%E8%B1%90business-express/id1321395920?uo=4"
+      },
+      {
+        "trackId": 1210638245,
+        "trackName": "AlipayHK (支付寶香港)",
+        "sellerName": "alipayhk",
+        "bundleId": "com.alipay.wallethk",
+        "trackViewUrl": "https://apps.apple.com/hk/app/alipayhk-%E6%94%AF%E4%BB%98%E5%AF%B6%E9%A6%99%E6%B8%AF/id1210638245?uo=4"
+      },
+      {
+        "trackId": 1602323485,
+        "trackName": "Hamkor・онлайн банк Узбекистана",
+        "sellerName": "Hamkorbank AKB",
+        "bundleId": "com.hamkorbank.mobile",
+        "trackViewUrl": "https://apps.apple.com/hk/app/hamkor-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B0%D0%BD%D0%BA-%D1%83%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0/id1602323485?uo=4"
+      },
+      {
+        "trackId": 1480196084,
+        "trackName": "yuu HK & Macau",
+        "sellerName": "The Dairy Farm Company, Limited",
+        "bundleId": "com.yuurewards.app",
+        "trackViewUrl": "https://apps.apple.com/hk/app/yuu-hk-macau/id1480196084?uo=4"
+      },
+      {
+        "trackId": 1039256353,
+        "trackName": "恒生個人流動理財服務",
+        "sellerName": "Hang Seng Bank Limited",
+        "bundleId": "com.hangseng.rbmobileapp",
+        "trackViewUrl": "https://apps.apple.com/hk/app/%E6%81%92%E7%94%9F%E5%80%8B%E4%BA%BA%E6%B5%81%E5%8B%95%E7%90%86%E8%B2%A1%E6%9C%8D%E5%8B%99/id1039256353?uo=4"
+      },
+      {
+        "trackId": 1534534188,
+        "trackName": "BOCHK 中銀香港",
+        "sellerName": "Bank of China (Hong Kong) Limited",
+        "bundleId": "com.bochk.app.ios",
+        "trackViewUrl": "https://apps.apple.com/hk/app/bochk-%E4%B8%AD%E9%8A%80%E9%A6%99%E6%B8%AF/id1534534188?uo=4"
+      }
+    ]
+  }
+]

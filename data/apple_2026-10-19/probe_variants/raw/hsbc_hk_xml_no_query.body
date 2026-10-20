@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+		<id>https://itunes.apple.com/hk/rss/customerreviews/page=1/id=1164066737/sortBy=mostRecent/xml</id><title>iTunes Store：用户評論</title><updated>2026-10-19T01:23:53-07:00</updated><link rel="alternate" type="text/html" href="https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=hk&amp;id=172314"/><link rel="self" href="https://itunes.apple.com/hk/rss/customerreviews/page=1/id=1164066737/sortBy=mostRecent/xml"/><link rel="first" href=""/><link rel="last" href=""/><link rel="previous" href=""/><link rel="next" href=""/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+	</feed>

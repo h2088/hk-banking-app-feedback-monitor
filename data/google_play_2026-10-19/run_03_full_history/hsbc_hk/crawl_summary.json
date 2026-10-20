@@ -1,0 +1,188 @@
+{
+  "app": "HSBC HK Mobile Banking",
+  "app_id": "hk.com.hsbc.hsbchkmobilebanking",
+  "request_language": "en",
+  "request_country": "HK",
+  "sort": "NEWEST (RPC sort=2)",
+  "start_inclusive_hk": "2026-04-19T00:00:00+08:00",
+  "end_exclusive_hk": "2026-10-20T00:00:00+08:00",
+  "started_at_utc": "2026-10-19T07:49:42.609768+00:00",
+  "pages": [
+    {
+      "page": 1,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2025-11-14T16:52:34+08:00",
+      "latest_hk": "2026-10-15T02:39:51+08:00",
+      "within_window": 99,
+      "english_in_window": 80,
+      "has_next_token": true
+    },
+    {
+      "page": 2,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2025-04-16T13:17:58+08:00",
+      "latest_hk": "2025-11-13T17:51:03+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 3,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2024-07-23T07:13:49+08:00",
+      "latest_hk": "2025-04-15T23:02:20+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 4,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2023-12-19T23:39:46+08:00",
+      "latest_hk": "2024-07-22T17:31:25+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 5,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2023-11-14T19:10:47+08:00",
+      "latest_hk": "2023-12-19T10:30:12+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 6,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2023-02-11T20:53:22+08:00",
+      "latest_hk": "2023-11-14T17:30:32+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 7,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2022-07-28T16:24:01+08:00",
+      "latest_hk": "2023-02-10T10:32:54+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 8,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2022-01-23T07:51:38+08:00",
+      "latest_hk": "2022-07-28T15:17:39+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 9,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2021-11-05T00:55:37+08:00",
+      "latest_hk": "2022-01-22T15:18:10+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 10,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2021-05-25T18:14:34+08:00",
+      "latest_hk": "2021-11-04T22:21:26+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 11,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2020-09-28T12:09:24+08:00",
+      "latest_hk": "2021-05-23T21:23:52+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 12,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2020-02-10T02:33:26+08:00",
+      "latest_hk": "2020-09-28T01:21:26+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 13,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2019-06-29T09:46:08+08:00",
+      "latest_hk": "2020-02-07T11:19:39+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 14,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2018-11-30T13:26:03+08:00",
+      "latest_hk": "2019-06-27T23:05:21+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 15,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2017-12-17T16:07:23+08:00",
+      "latest_hk": "2018-11-29T23:53:04+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 16,
+      "returned": 200,
+      "new_unique": 200,
+      "earliest_hk": "2017-03-29T00:03:01+08:00",
+      "latest_hk": "2017-12-16T23:17:12+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": true
+    },
+    {
+      "page": 17,
+      "returned": 27,
+      "new_unique": 27,
+      "earliest_hk": "2016-10-26T17:30:49+08:00",
+      "latest_hk": "2017-03-22T06:34:52+08:00",
+      "within_window": 0,
+      "english_in_window": 0,
+      "has_next_token": false
+    }
+  ],
+  "errors": [],
+  "stop_reason": "endpoint_exhausted_no_next_token",
+  "scope": "all_accessible_history",
+  "unique_fetched": 3227,
+  "duplicate_occurrences": 0,
+  "finished_at_utc": "2026-10-19T07:51:08.169606+00:00"
+}

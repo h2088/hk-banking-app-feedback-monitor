@@ -1,0 +1,34 @@
+{
+  "source_url": "https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking&hl=en-US&gl=HK",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "HSBC HK Mobile Banking",
+      "url": "https://play.google.com/store/apps/details/HSBC_HK_Mobile_Banking?id=hk.com.hsbc.hsbchkmobilebanking&hl=en_US",
+      "description": "A brand new app with speed and reliability at the heart of its design",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "FINANCE",
+      "image": "https://play-lh.googleusercontent.com/OFH1i50hknCx9hRBewrDQAHdraRmIVNcKxW9_NOaaumJdFu68Q6TloxUdm3WHN7Ll9-pQjNeM81l9P86nCpoAA",
+      "contentRating": "Rated for 3+",
+      "author": {
+        "@type": "Person",
+        "name": "The Hongkong and Shanghai Banking Corporation Ltd",
+        "url": "https://www.hsbc.com.hk/mobilebanking"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.631102085113525",
+        "ratingCount": "167317"
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "HKD",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+    }
+  ]
+}
