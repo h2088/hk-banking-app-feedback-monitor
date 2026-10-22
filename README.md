@@ -1,77 +1,92 @@
-# HK Banking App Feedback Monitor
+# Hong Kong Banking App Feedback Monitor
 
-香港银行手机应用客户评论监测与对比分析项目。项目以 SC Mobile Hong Kong 为主对象、HSBC HK Mobile Banking 为 benchmark，整理 Google Play 和 Apple App Store 的公开英文评论，完成来源可行性评估、采集与覆盖说明、数据质量检查、星级情绪与银行业务主题分类、应用总体对比，以及可离线筛选的 HTML 报告。
+Monitor public customer feedback on Hong Kong banking apps and compare **SC Mobile** with **HSBC HK** and **BOCHK (Bank of China Hong Kong)**. The project turns saved app-store reviews into an English management report, traceable review exports and a reusable analysis workflow.
 
-> 本仓库保存的是截至 2026-10-19 的研究快照，不是持续更新的服务。数据覆盖取决于各应用商店公开接口，不能视为评论全集或客户总体意见；对比是描述性样本分析，不推断因果或统计显著性。
+**Current release: V3.** Google Play and Apple App Store results are presented separately. English, Chinese and mixed English/Chinese reviews contribute to one combined analysis within each store. Original comments and Apple review titles retain their source wording.
 
-## 项目结果
+Start with the [V3 offline report](v3/report_customer_feedback_v3.html), [executive summary](v3/executive_summary.md) or [release overview](RELEASE_V3.md). Download the HTML report and open it in a browser to use its interactive controls; GitHub's file view shows the source. The report works offline without a server, login or API key.
 
-- 最终观察窗口：2026-04-19 至 2026-10-19（香港时间，含起止日期）。
-- 分析集：311 条英文评论；评论保留来源、日期、星级、原文与回溯字段。
-- 合并来源：Google Play 和 Apple App Store；报告按应用汇总，不拆分平台。
-- SC Mobile：98 条，平均星级 2.2551，1–2 星占 66.33%。
-- HSBC benchmark：213 条，平均星级 3.2817，1–2 星占 40.38%。
-- 交互式离线报告可搜索评论、过滤应用／星级／情绪／主题，并查看来源及原始响应证据。
-- `runs/skill_reproduction_2026-10-19/` 保存了可复核的 Skill 复现批次、逐条对照、运行结果和截图。复现使用保存的历史快照，不是重新抓取。
+## Current scope and sample
 
-## 快速查看
+The observation window is **19 April–19 October 2026 inclusive, Hong Kong time**. The saved analysis includes **1,682 reviews**.
 
-- [最终客户反馈报告](report_customer_feedback_2026-10-19.html)
-- [英文六个月合并评论 CSV](data/merged_2026-10-19/master_english_six_months.csv)
-- [英文六个月合并评论 JSON](data/merged_2026-10-19/master_english_six_months.json)
-- [Excel 合并数据表](data/merged_2026-10-19/reviews_master.xlsx)
-- [逐条情绪与主题标签](data/checkpoint_D_analysis_2026-10-19/comment_labels.csv)
-- [复用 Skill](skills/app-review-feedback/SKILL.md)
-- [项目计划与交接说明](plan.md) · [最终复核](checkpoint_F_final_review.md)
-- [Skill 复现对照报告](runs/skill_reproduction_2026-10-19/reproduction_comparison.md)
+| Bank | Google Play reviews | Apple App Store reviews |
+|---|---:|---:|
+| SC Mobile — primary app | 202 | 108 |
+| HSBC HK — benchmark | 378 | 267 |
+| BOCHK — benchmark | 446 | 281 |
+| **Total** | **1,026** | **656** |
 
-## 目录结构
+Metrics, topics and benchmark differences are calculated within each store using all eligible English and Chinese comments together. Language metadata is retained for eligibility checks and audit; it is not a reporting split.
+
+## What the report provides
+
+- Separate Google Play and Apple App Store views comparing SC Mobile with both benchmarks.
+- Review volumes, average ratings and low-star shares, with a consistent rating-based sentiment proxy.
+- Bilingual, multi-label topic classification covering login, authentication, transfers, payments, stability, customer service and other banking app experiences.
+- The V1 horizontal blue monthly feedback chart, extended to all three banks and switched by store, with bank review counts and low-star shares.
+- Original comments displayed newest first, with bank, rating, sentiment, topic and text-search controls, plus source references for verification.
+
+## Reports, data and reusable Skill
+
+| Deliverable | Location |
+|---|---|
+| V3 management report | [report_customer_feedback_v3.html](v3/report_customer_feedback_v3.html) |
+| Executive summary | [v3/executive_summary.md](v3/executive_summary.md) |
+| Methodology and field definitions | [v3/methodology.md](v3/methodology.md), [v3/data_dictionary.md](v3/data_dictionary.md) |
+| Combined original reviews, newest first | [CSV](v3/data/merged/master_bilingual_six_months.csv), [JSON](v3/data/merged/master_bilingual_six_months.json) |
+| Per-review sentiment and topic labels | [v3/data/analysis/comment_labels.csv](v3/data/analysis/comment_labels.csv) |
+| Bank/store metrics and benchmark differences | [store_benchmarks.csv](v3/data/analysis/store_benchmarks.csv), [benchmark_deltas.csv](v3/data/analysis/benchmark_deltas.csv) |
+| Monthly feedback chart data | [monthly_feedback_monitoring.csv](v3/data/analysis/monthly_feedback_monitoring.csv) |
+| Raw source evidence | [v3/data/raw/imported/](v3/data/raw/imported/), [v3/data/chinese_collection/](v3/data/chinese_collection/) |
+| Updated Skill replay report | [runs/skill_v3_replay_2026-10-22/report_customer_feedback.html](runs/skill_v3_replay_2026-10-22/report_customer_feedback.html) |
+| Verified replay workbook — eight sheets | [runs/skill_v3_replay_2026-10-22/data/reviews_master.xlsx](runs/skill_v3_replay_2026-10-22/data/reviews_master.xlsx) |
+| Maintained reusable Skill | [skills/v3/app-review-feedback/SKILL.md](skills/v3/app-review-feedback/SKILL.md) |
+| Skill distribution and package hashes | [app-review-feedback-v3.skill](dist/app-review-feedback-v3.skill), [manifest](dist/app-review-feedback-v3.manifest.json) |
+| Skill release notes and verification | [skills/v3/README.md](skills/v3/README.md), [release_verification.json](skills/v3/release_verification.json) |
+
+## Workflow and methods
+
+1. **Define the scope and verify sources.** Confirm official app identities, the primary bank, benchmarks, stores and date window.
+2. **Collect or import reviews.** Preserve public Google Play responses and Apple Hong Kong App Store feeds, request parameters, capture timestamps and bounded stopping reasons. Saved-input reproduction is recorded separately from fresh collection.
+3. **Prepare and check the data.** Deduplicate by store, app ID and review ID; preserve original text and source variants; apply Hong Kong date boundaries and English/Chinese eligibility checks. Identical wording under different review IDs is retained.
+4. **Classify and compare feedback.** Use 1–2 stars as a negative sentiment proxy, 3 as neutral and 4–5 as positive. Apply auditable bilingual topic rules; a review can mention multiple topics. Calculate metrics and both benchmark differences within each store, then read a stratified sample and record the review judgments.
+5. **Build and test the delivery.** Export CSV, JSON, Excel and a standalone English HTML report. Verify exact source text, aggregate calculations, chart data, controls and pagination; inspect screenshots from the actual browser run.
+6. **Finalize an auditable batch.** Save checkpoints A–F, coverage notes, validation evidence and file hashes. New date windows, inputs or classification rules use a new batch directory.
+
+The customer feedback body is the `text` field. Apple `title` is retained separately and supplements search and topic matching. Developer replies are excluded from the analysis. Source comments are preserved rather than translated or rewritten.
+
+## Reuse the workflow
+
+The maintained Skill source is **[skills/v3/app-review-feedback/](skills/v3/app-review-feedback/)**. Follow its [execution guide](skills/v3/app-review-feedback/references/execution.md) for dependencies, collection/import steps and validation requirements. The `.skill` distribution is a ZIP-format archive containing instructions, code and templates; customer comments and raw responses are stored separately in the project.
+
+Example request for an agent with the Skill installed:
+
+> Use $app-review-feedback to reproduce the saved V3 snapshot offline for 2026-04-19 through 2026-10-19. Use SC Mobile as the primary app, with HSBC HK and BOCHK as benchmarks. Produce an English report with separate Google Play and Apple App Store results, combine English and Chinese comments within each store, retain the horizontal blue monthly feedback chart, and save the output in a new batch directory.
+
+For a fresh update, explicitly request live collection and a new date window. New batches require the selected review sample to be read and the generated screenshots to be inspected before finalization.
+
+## Verification and coverage limits
+
+The completed Skill replay reproduced all **1,682 included reviews**, original fingerprints, rating/topic labels, bank/store metrics, monthly figures and benchmark numeric values. Six behavioral tests, 17 static check groups and 10,778 browser assertions passed; seven screenshots were inspected. All 191 files in the completed replay manifest matched. See the [reproduction comparison](runs/skill_v3_replay_2026-10-22/validation/reproduction_comparison.json) and [release verification](skills/v3/release_verification.json).
+
+The saved inputs were captured on different dates: SC/HSBC English inputs on 19 October 2026, and BOCHK and the later Chinese Google Play inputs on 22 October. All included review dates use the agreed observation window. Apple coverage is bounded by its public feed pagination. These are descriptive public-review samples, not complete historical archives or estimates of all customers' satisfaction. Ratings are sentiment proxies; topic mentions do not establish complaint incidence, root causes or statistical significance. April and October are partial observation months.
+
+The Skill update and full replay used saved inputs and performed no new live collection. The September-only batch in `runs/skill_v3_september_test_2026-10-22/` is an analysis test with 284 reviews; its manual review remains pending. The original `v3/data/reviews_v3.xlsx` has a documented historical-manifest difference; the verified replay workbook linked above is available for use.
+
+## Repository and release history
 
 ```text
-.
-├── plan.md, checkpoint_A...checkpoint_F...md, handover.md
-├── report_customer_feedback_2026-10-19.html
-├── data/
-│   ├── google_play_2026-10-19/       # Google Play 采集、原始响应与探测证据
-│   ├── apple_2026-10-19/             # App Store 采集、RSS 原始响应与探测证据
-│   ├── merged_2026-10-19/             # 统一主表与数据字典／哈希清单
-│   ├── checkpoint_C_qa_2026-10-19/   # 数据 QA 与覆盖统计
-│   ├── checkpoint_D_analysis_2026-10-19/ # 评论标签、主题和 benchmark 统计
-│   └── checkpoint_F_review_2026-10-19/   # 最终复核与文件哈希
-├── scripts/                            # 项目分析、报告及审计脚本
-├── skills/app-review-feedback/         # 可复用 Codex Skill 源文件
-├── dist/                               # Skill 分发包与文件清单
-└── runs/skill_reproduction_2026-10-19/ # 使用已安装 Skill 的离线复现批次
+v3/                                      Current bilingual, three-bank report and evidence
+skills/v3/app-review-feedback/            Maintained reusable Skill source
+dist/app-review-feedback-v3.skill         Current Skill distribution
+runs/skill_v3_replay_2026-10-22/           Completed saved-input Skill reproduction
+runs/skill_v3_september_test_2026-10-22/   Alternate-window analysis test
+v2/                                      Historical English-only, three-bank release
+data/, scripts/, skills/app-review-feedback/
+                                         Historical V1 inputs, workflow and Skill
 ```
 
-仓库有意忽略本机 `.venv`、`.cache` 和 Python 字节码；采集原始证据与研究产物保留。完整复现批次约 65 MB，整个跟踪文件约 178 MB。提交前请检查原始公开评论和公开显示名是否符合你的分享与隐私要求。
+The [original V1 README](https://github.com/h2088/hk-banking-app-feedback-monitor/blob/5f141f3a0131405e2783218d516d6303708ed4eb/README.md) describes the 311-review, English-only, two-bank release. [V2](v2/README.md) added BOCHK and separate stores; V3 added Chinese reviews to the combined analysis and restored the monthly chart. Older documents describe the state at their release time.
 
-## 方法与限制
-
-- 来源及样本覆盖方式、端点限制和运行记录见 `checkpoint_A_source_feasibility.md`、`checkpoint_B_data_collection.md` 及 `data/**/README.md`。
-- QA 标记重复正文、短评论、日期和来源覆盖；重复文本是审查提示，不据此删除不同 ID 的评论。
-- 主要情绪口径采用来源星级：1–2 星负面、3 星中性、4–5 星正面。文本词典结果作为补充信号单独报告。
-- 主题使用可审计的关键词／短语规则，多主题可并存；未命中主题的评论不会强行分类。人工样本复核是抽查，不等同分类准确率评估。
-- 不同应用样本数和平台构成不均衡；报告不作因果、显著性或总体客户满意度推断。Apple 与 Google 的公开接口覆盖也不保证完整。
-- 数据时间截止于 2026-10-19，边界月份可能不完整。重新运行时应建立新批次并重新验证来源、数据和标签，而不是将旧快照当作当前状态。
-
-## 重用 Skill
-
-Skill 源码在 `skills/app-review-feedback/`，包含工作流说明、采集器、质量检查、规则分类、报告模板、验证步骤和离线测试入口。先阅读 `SKILL.md` 与 `references/` 再运行。
-
-```powershell
-# 安装项目依赖后，可通过 Skill 的 CLI 建立独立批次。
-# 例如：
-python skills/app-review-feedback/scripts/run_feedback.py init `
-  --root runs/next_snapshot `
-  --since 2026-04-20 `
-  --as-of 2026-10-20
-```
-
-重新联网采集可能受端点可用性、应用商店分页策略、网络和速率限制影响；不要假设会重现这份历史样本。项目原采集器和 Skill 各自有自己的执行说明与依赖文件，请按对应说明准备环境。
-
-## 环境与使用
-
-HTML 报告可直接在浏览器中离线打开。审阅精确字段和类型时优先用 JSON；CSV 更便于表格软件筛选。原始采集响应只用于证据追溯，解码格式依来源而异。
-
-如运行项目原有采集脚本，请先查看 `requirements-scraping.txt`、对应脚本参数、来源限制和应用商店条款。公开可访问不代表拥有无限制抓取或再发布授权。
+The root README now serves as the current project homepage. Historical V2/V3 preservation manifests include the former root README; to rerun those exact historical checks, use the [frozen delivery commit `4f3fd1e`](https://github.com/h2088/hk-banking-app-feedback-monitor/tree/4f3fd1e54348e206c03817a282811c41e330fae9). For new analysis batches, use the maintained V3 Skill and its execution guide.

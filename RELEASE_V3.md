@@ -29,7 +29,7 @@ The September-only batch in `runs/skill_v3_september_test_2026-10-22/` is an ana
 
 ## Historical releases and data limits
 
-The root [README.md](README.md), original `skills/app-review-feedback/` and original package describe the preserved V1 release. [v2/README.md](v2/README.md) describes the English-only three-bank release. The current Skill source is under `skills/v3/`; historical files are retained to preserve their recorded hashes. Older documents describe the state at their own release time.
+The root [README.md](README.md) is the current English project homepage. The [original V1 README](https://github.com/h2088/hk-banking-app-feedback-monitor/blob/5f141f3a0131405e2783218d516d6303708ed4eb/README.md), original `skills/app-review-feedback/` and original package describe the preserved V1 release. [v2/README.md](v2/README.md) describes the English-only three-bank release. The current Skill source is under `skills/v3/`; older documents describe the state at their own release time. Historical preservation manifests include the former root README; use the [frozen delivery commit 4f3fd1e](https://github.com/h2088/hk-banking-app-feedback-monitor/tree/4f3fd1e54348e206c03817a282811c41e330fae9) when rerunning those exact historical checks.
 
 Public store endpoints provide bounded samples. SC/HSBC English inputs were captured on 19 October; BOCHK and the later Chinese Google Play inputs were captured on 22 October and filtered to the agreed review-date window. Apple collection is limited by its public feed pagination. These samples do not establish complete historical coverage or represent all customers.
 
