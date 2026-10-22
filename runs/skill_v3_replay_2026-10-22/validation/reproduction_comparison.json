@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checked_at_utc": "2026-10-22T08:05:17.857436+00:00",
+  "baseline_report_sha256": "df2249e3a255e162d045e2417844dad6f45ee838bc006622685a1b9fee9fa348",
+  "included_records": 1682,
+  "source_fingerprints_equal": true,
+  "per_row_star_and_topic_labels_equal": true,
+  "identical_tables": [
+    "store_benchmarks",
+    "themes_by_store_bank",
+    "monthly_by_store_bank",
+    "monthly_feedback_monitoring"
+  ],
+  "benchmark_values_equal": true,
+  "sample_sha256": "b24618b21a504f77baf0658fc2ec5403b0e00af8cfcaffff76a3cddaf3f1f87e",
+  "actual_reading_notes_reused_with_exact_hash_binding": true
+}

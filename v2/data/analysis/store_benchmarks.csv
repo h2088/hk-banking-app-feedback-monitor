@@ -1,0 +1,7 @@
+﻿group,review_count,mean_rating,negative_count_rating_1_2,negative_rate_rating_1_2,positive_count_rating_4_5,positive_rate_rating_4_5,one_star_count,one_star_rate,text_negative_rule_count,text_negative_rule_rate,short_text_count,platform,app_key,app
+Google Play | SC Mobile,48,2.1875,34,0.708333,14,0.291667,32,0.666667,28,0.583333,13,Google Play,sc_mobile,SC Mobile
+Google Play | HSBC HK,92,3.4239,33,0.358696,55,0.597826,31,0.336957,28,0.304348,40,Google Play,hsbc_hk,HSBC HK
+Google Play | BOCHK,47,2.8936,22,0.468085,20,0.425532,20,0.425532,17,0.361702,21,Google Play,bochk,BOCHK
+Apple App Store | SC Mobile,50,2.32,31,0.62,15,0.3,26,0.52,30,0.6,4,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | HSBC HK,121,3.1736,53,0.438017,62,0.512397,46,0.380165,38,0.31405,26,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | BOCHK,60,2.8167,30,0.5,26,0.433333,29,0.483333,29,0.483333,12,Apple App Store,bochk,BOCHK

@@ -1,0 +1,64 @@
+{
+  "app_key": "bochk",
+  "platform": "Apple App Store",
+  "pages": [
+    {
+      "page": 1,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 2,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 3,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 4,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 5,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 6,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 7,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 8,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 9,
+      "returned": 50,
+      "new_unique": 50
+    },
+    {
+      "page": 10,
+      "returned": 50,
+      "new_unique": 50
+    }
+  ],
+  "duplicates": 0,
+  "started_at_utc": "2026-10-22T04:26:07.323820+00:00",
+  "listing_snapshot": "data/raw/apple/bochk/listing_attempt1.body",
+  "stop_reason": "configured_feed_page_limit_not_all_time_completeness",
+  "status": "partial_failure",
+  "records": 500,
+  "error": "HTTPError: HTTP Error 400: Bad Request",
+  "finished_at_utc": "2026-10-22T04:26:43.507493+00:00"
+}

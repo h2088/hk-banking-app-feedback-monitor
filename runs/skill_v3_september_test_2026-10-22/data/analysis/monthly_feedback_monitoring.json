@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "Google Play",
+    "month_hk": "2026-09",
+    "partial_calendar_month": false,
+    "review_count": 177,
+    "sc_mobile_review_count": 39,
+    "sc_mobile_low_star_count": 24,
+    "sc_mobile_low_star_rate": 0.615385,
+    "hsbc_hk_review_count": 65,
+    "hsbc_hk_low_star_count": 28,
+    "hsbc_hk_low_star_rate": 0.430769,
+    "bochk_review_count": 73,
+    "bochk_low_star_count": 39,
+    "bochk_low_star_rate": 0.534247
+  },
+  {
+    "platform": "Apple App Store",
+    "month_hk": "2026-09",
+    "partial_calendar_month": false,
+    "review_count": 107,
+    "sc_mobile_review_count": 18,
+    "sc_mobile_low_star_count": 11,
+    "sc_mobile_low_star_rate": 0.611111,
+    "hsbc_hk_review_count": 45,
+    "hsbc_hk_low_star_count": 18,
+    "hsbc_hk_low_star_rate": 0.4,
+    "bochk_review_count": 44,
+    "bochk_low_star_count": 24,
+    "bochk_low_star_rate": 0.545455
+  }
+]

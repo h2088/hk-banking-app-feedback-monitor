@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "package_files": 25,
+  "package_sha256": "5bab4acecae4de22319d7fb06178d647400e4e9893cd6290042a0c54fe69c703",
+  "installed_project_staged_archive_files_identical": true,
+  "historical_preservation_hashes_checked": {
+    "v2/data/input/v1_preservation.json": 1811,
+    "v3/data/input/prior_preservation.json": 2020,
+    "v3/data/input/combined_revision_preservation.json": 198
+  },
+  "final_manifest_files_checked": {
+    "V2": {
+      "total": 208,
+      "matching": 208
+    },
+    "V3": {
+      "total": 265,
+      "matching": 264
+    },
+    "Skill replay": {
+      "total": 191,
+      "matching": 191
+    }
+  },
+  "historical_manifest_differences": {
+    "V3": [
+      {
+        "path": "data/reviews_v3.xlsx",
+        "expected_sha256": "b92014d4daad28262398a851d7b07cc81a1ee1eb04632d1db7c3e7c04370cd59",
+        "observed_sha256": "1e5432a7a89d5530b2d78fe2d5159f03050868d3738efbf0cdd99d688276b50b",
+        "expected_bytes": 782944,
+        "observed_bytes": 683690,
+        "original_preserved": true
+      }
+    ]
+  },
+  "old_installed_skill_backup_sha256": "a9d1cb226b0121ac19e82e092d9b1e488ed70ec9f555ff9f6fd98d3852de6005",
+  "installed_verify_passed_and_read_only": true,
+  "replay_report_sha256": "c0f73f52e9655e2e0dc9ff14a51b0bcb3031bddfda4c154f5e00623575a254b3",
+  "behavioral_tests_passed": 6,
+  "replay_static_check_groups": 17,
+  "replay_browser_assertions": 10778,
+  "screenshots_actually_inspected": 7,
+  "synthetic_customized_browser_assertions": 386,
+  "actual_reading_notes_reused_only_with_exact_sample_and_label_binding": true,
+  "different_window_selected_reviews": 284,
+  "live_collection_performed": false,
+  "github_push_performed": false
+}

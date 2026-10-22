@@ -1,0 +1,10 @@
+{
+  "included_records": 284,
+  "language_counts": {
+    "chinese": 205,
+    "mixed": 8,
+    "english": 71
+  },
+  "repeated_text_groups": 9,
+  "input_sha256": "88601b3b91b54ca6a6ad1d3c2e5415fd3931c783e2f87092883f07d9ef336e18"
+}

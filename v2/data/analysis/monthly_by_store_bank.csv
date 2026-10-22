@@ -1,0 +1,43 @@
+﻿group,review_count,mean_rating,negative_count_rating_1_2,negative_rate_rating_1_2,positive_count_rating_4_5,positive_rate_rating_4_5,one_star_count,one_star_rate,text_negative_rule_count,text_negative_rule_rate,short_text_count,platform,app_key,app,month_hk,partial_calendar_month
+Google Play | SC Mobile | 2026-04,3,1.0,3,1.0,0,0.0,3,1.0,1,0.333333,0,Google Play,sc_mobile,SC Mobile,2026-04,true
+Google Play | SC Mobile | 2026-05,7,2.7143,4,0.571429,3,0.428571,4,0.571429,4,0.571429,2,Google Play,sc_mobile,SC Mobile,2026-05,false
+Google Play | SC Mobile | 2026-06,7,2.5714,4,0.571429,3,0.428571,4,0.571429,3,0.428571,2,Google Play,sc_mobile,SC Mobile,2026-06,false
+Google Play | SC Mobile | 2026-07,6,1.6667,5,0.833333,1,0.166667,5,0.833333,3,0.5,1,Google Play,sc_mobile,SC Mobile,2026-07,false
+Google Play | SC Mobile | 2026-08,9,1.0,9,1.0,0,0.0,9,1.0,8,0.888889,0,Google Play,sc_mobile,SC Mobile,2026-08,false
+Google Play | SC Mobile | 2026-09,13,3.3077,6,0.461538,7,0.538462,4,0.307692,6,0.461538,7,Google Play,sc_mobile,SC Mobile,2026-09,false
+Google Play | SC Mobile | 2026-10,3,1.0,3,1.0,0,0.0,3,1.0,3,1.0,1,Google Play,sc_mobile,SC Mobile,2026-10,true
+Google Play | HSBC HK | 2026-04,4,1.0,4,1.0,0,0.0,4,1.0,2,0.5,0,Google Play,hsbc_hk,HSBC HK,2026-04,true
+Google Play | HSBC HK | 2026-05,21,3.4286,7,0.333333,12,0.571429,7,0.333333,7,0.333333,11,Google Play,hsbc_hk,HSBC HK,2026-05,false
+Google Play | HSBC HK | 2026-06,21,3.4762,8,0.380952,13,0.619048,7,0.333333,6,0.285714,10,Google Play,hsbc_hk,HSBC HK,2026-06,false
+Google Play | HSBC HK | 2026-07,11,3.8182,3,0.272727,8,0.727273,3,0.272727,5,0.454545,5,Google Play,hsbc_hk,HSBC HK,2026-07,false
+Google Play | HSBC HK | 2026-08,12,4.1667,2,0.166667,10,0.833333,2,0.166667,1,0.083333,5,Google Play,hsbc_hk,HSBC HK,2026-08,false
+Google Play | HSBC HK | 2026-09,12,2.5,7,0.583333,4,0.333333,7,0.583333,3,0.25,5,Google Play,hsbc_hk,HSBC HK,2026-09,false
+Google Play | HSBC HK | 2026-10,11,4.0,2,0.181818,8,0.727273,1,0.090909,4,0.363636,4,Google Play,hsbc_hk,HSBC HK,2026-10,true
+Google Play | BOCHK | 2026-04,1,5.0,0,0.0,1,1.0,0,0.0,0,0.0,0,Google Play,bochk,BOCHK,2026-04,true
+Google Play | BOCHK | 2026-05,8,2.875,4,0.5,4,0.5,4,0.5,2,0.25,2,Google Play,bochk,BOCHK,2026-05,false
+Google Play | BOCHK | 2026-06,9,2.6667,5,0.555556,3,0.333333,4,0.444444,3,0.333333,4,Google Play,bochk,BOCHK,2026-06,false
+Google Play | BOCHK | 2026-07,8,3.5,2,0.25,4,0.5,2,0.25,3,0.375,5,Google Play,bochk,BOCHK,2026-07,false
+Google Play | BOCHK | 2026-08,8,2.875,4,0.5,4,0.5,4,0.5,2,0.25,4,Google Play,bochk,BOCHK,2026-08,false
+Google Play | BOCHK | 2026-09,8,3.0,3,0.375,3,0.375,2,0.25,4,0.5,4,Google Play,bochk,BOCHK,2026-09,false
+Google Play | BOCHK | 2026-10,5,1.8,4,0.8,1,0.2,4,0.8,3,0.6,2,Google Play,bochk,BOCHK,2026-10,true
+Apple App Store | SC Mobile | 2026-04,2,2.5,1,0.5,1,0.5,1,0.5,1,0.5,0,Apple App Store,sc_mobile,SC Mobile,2026-04,true
+Apple App Store | SC Mobile | 2026-05,5,3.4,2,0.4,3,0.6,2,0.4,2,0.4,2,Apple App Store,sc_mobile,SC Mobile,2026-05,false
+Apple App Store | SC Mobile | 2026-06,10,1.0,10,1.0,0,0.0,10,1.0,5,0.5,0,Apple App Store,sc_mobile,SC Mobile,2026-06,false
+Apple App Store | SC Mobile | 2026-07,9,2.1111,6,0.666667,2,0.222222,4,0.444444,6,0.666667,0,Apple App Store,sc_mobile,SC Mobile,2026-07,false
+Apple App Store | SC Mobile | 2026-08,14,2.8571,7,0.5,7,0.5,6,0.428571,8,0.571429,1,Apple App Store,sc_mobile,SC Mobile,2026-08,false
+Apple App Store | SC Mobile | 2026-09,5,2.8,2,0.4,1,0.2,1,0.2,4,0.8,1,Apple App Store,sc_mobile,SC Mobile,2026-09,false
+Apple App Store | SC Mobile | 2026-10,5,2.2,3,0.6,1,0.2,2,0.4,4,0.8,0,Apple App Store,sc_mobile,SC Mobile,2026-10,true
+Apple App Store | HSBC HK | 2026-04,9,2.5556,4,0.444444,2,0.222222,4,0.444444,4,0.444444,2,Apple App Store,hsbc_hk,HSBC HK,2026-04,true
+Apple App Store | HSBC HK | 2026-05,17,3.0,8,0.470588,8,0.470588,7,0.411765,5,0.294118,3,Apple App Store,hsbc_hk,HSBC HK,2026-05,false
+Apple App Store | HSBC HK | 2026-06,28,2.4286,18,0.642857,9,0.321429,14,0.5,14,0.5,4,Apple App Store,hsbc_hk,HSBC HK,2026-06,false
+Apple App Store | HSBC HK | 2026-07,16,4.3125,3,0.1875,13,0.8125,2,0.125,2,0.125,6,Apple App Store,hsbc_hk,HSBC HK,2026-07,false
+Apple App Store | HSBC HK | 2026-08,28,3.3214,11,0.392857,16,0.571429,11,0.392857,6,0.214286,6,Apple App Store,hsbc_hk,HSBC HK,2026-08,false
+Apple App Store | HSBC HK | 2026-09,16,3.3125,7,0.4375,9,0.5625,6,0.375,5,0.3125,2,Apple App Store,hsbc_hk,HSBC HK,2026-09,false
+Apple App Store | HSBC HK | 2026-10,7,3.8571,2,0.285714,5,0.714286,2,0.285714,2,0.285714,3,Apple App Store,hsbc_hk,HSBC HK,2026-10,true
+Apple App Store | BOCHK | 2026-04,5,1.8,4,0.8,1,0.2,4,0.8,3,0.6,0,Apple App Store,bochk,BOCHK,2026-04,true
+Apple App Store | BOCHK | 2026-05,10,3.3,4,0.4,5,0.5,3,0.3,6,0.6,3,Apple App Store,bochk,BOCHK,2026-05,false
+Apple App Store | BOCHK | 2026-06,7,1.4286,6,0.857143,1,0.142857,6,0.857143,5,0.714286,0,Apple App Store,bochk,BOCHK,2026-06,false
+Apple App Store | BOCHK | 2026-07,9,3.6667,3,0.333333,6,0.666667,3,0.333333,4,0.444444,3,Apple App Store,bochk,BOCHK,2026-07,false
+Apple App Store | BOCHK | 2026-08,13,2.9231,6,0.461538,6,0.461538,6,0.461538,5,0.384615,2,Apple App Store,bochk,BOCHK,2026-08,false
+Apple App Store | BOCHK | 2026-09,7,2.4286,4,0.571429,2,0.285714,4,0.571429,4,0.571429,2,Apple App Store,bochk,BOCHK,2026-09,false
+Apple App Store | BOCHK | 2026-10,9,3.2222,3,0.333333,5,0.555556,3,0.333333,2,0.222222,2,Apple App Store,bochk,BOCHK,2026-10,true

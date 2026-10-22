@@ -1,0 +1,15 @@
+﻿platform,month_hk,partial_calendar_month,review_count,sc_mobile_review_count,sc_mobile_low_star_count,sc_mobile_low_star_rate,hsbc_hk_review_count,hsbc_hk_low_star_count,hsbc_hk_low_star_rate,bochk_review_count,bochk_low_star_count,bochk_low_star_rate
+Google Play,2026-04,true,53,27,20,0.740741,12,10,0.833333,14,12,0.857143
+Google Play,2026-05,false,183,32,25,0.78125,66,24,0.363636,85,39,0.458824
+Google Play,2026-06,false,181,29,19,0.655172,84,46,0.547619,68,39,0.573529
+Google Play,2026-07,false,161,26,20,0.769231,48,20,0.416667,87,35,0.402299
+Google Play,2026-08,false,167,29,26,0.896552,70,30,0.428571,68,36,0.529412
+Google Play,2026-09,false,177,39,24,0.615385,65,28,0.430769,73,39,0.534247
+Google Play,2026-10,true,104,20,15,0.75,33,13,0.393939,51,28,0.54902
+Apple App Store,2026-04,true,46,8,5,0.625,24,10,0.416667,14,10,0.714286
+Apple App Store,2026-05,false,101,12,6,0.5,41,15,0.365854,48,25,0.520833
+Apple App Store,2026-06,false,111,14,12,0.857143,57,30,0.526316,40,22,0.55
+Apple App Store,2026-07,false,102,19,11,0.578947,31,6,0.193548,52,18,0.346154
+Apple App Store,2026-08,false,121,26,15,0.576923,48,16,0.333333,47,22,0.468085
+Apple App Store,2026-09,false,107,18,11,0.611111,45,18,0.4,44,24,0.545455
+Apple App Store,2026-10,true,68,11,8,0.727273,21,7,0.333333,36,16,0.444444

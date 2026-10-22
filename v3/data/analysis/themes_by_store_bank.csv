@@ -1,0 +1,67 @@
+﻿group,theme,theme_label,review_count,theme_mentions,theme_mention_rate,theme_negative_count,theme_negative_rate,theme_mean_rating,theme_short_text_count,platform,app_key,app
+Google Play | SC Mobile,app_stability_performance,App stability / performance,202,69,0.341584,60,0.869565,1.3913,12,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,login_authentication_access,Login / authentication / access,202,58,0.287129,51,0.87931,1.3793,3,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,transfers_payments_cards,Transfers / payments / cards,202,56,0.277228,43,0.767857,1.6964,3,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,usability_navigation_design,Usability / navigation / design,202,29,0.143564,15,0.517241,2.8276,10,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,customer_support_service,Customer support / service,202,20,0.09901,15,0.75,1.9,3,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,account_registration,Account / registration,202,33,0.163366,26,0.787879,1.6061,1,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,balance_statements_history,Balance / statements / history,202,4,0.019802,4,1.0,1.0,0,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,security_fraud_trust,Security / fraud / trust,202,8,0.039604,7,0.875,1.375,2,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,language_localization,Language / localization,202,2,0.009901,1,0.5,3.0,0,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,fees_rates,Fees / rates,202,1,0.00495,1,1.0,1.0,0,Google Play,sc_mobile,SC Mobile
+Google Play | SC Mobile,feature_request,Feature request / suggestion,202,19,0.094059,15,0.789474,1.6842,0,Google Play,sc_mobile,SC Mobile
+Google Play | HSBC HK,app_stability_performance,App stability / performance,378,65,0.171958,50,0.769231,1.8154,13,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,login_authentication_access,Login / authentication / access,378,39,0.103175,35,0.897436,1.4359,4,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,transfers_payments_cards,Transfers / payments / cards,378,28,0.074074,18,0.642857,2.25,4,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,usability_navigation_design,Usability / navigation / design,378,86,0.227513,22,0.255814,3.7674,55,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,customer_support_service,Customer support / service,378,24,0.063492,17,0.708333,2.0417,4,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,account_registration,Account / registration,378,21,0.055556,18,0.857143,1.5238,2,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,balance_statements_history,Balance / statements / history,378,2,0.005291,2,1.0,1.0,0,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,security_fraud_trust,Security / fraud / trust,378,16,0.042328,3,0.1875,3.875,7,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,language_localization,Language / localization,378,3,0.007937,2,0.666667,3.0,0,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,fees_rates,Fees / rates,378,2,0.005291,2,1.0,1.5,0,Google Play,hsbc_hk,HSBC HK
+Google Play | HSBC HK,feature_request,Feature request / suggestion,378,16,0.042328,10,0.625,2.25,2,Google Play,hsbc_hk,HSBC HK
+Google Play | BOCHK,app_stability_performance,App stability / performance,446,62,0.139013,53,0.854839,1.4194,13,Google Play,bochk,BOCHK
+Google Play | BOCHK,login_authentication_access,Login / authentication / access,446,112,0.251121,95,0.848214,1.4732,13,Google Play,bochk,BOCHK
+Google Play | BOCHK,transfers_payments_cards,Transfers / payments / cards,446,24,0.053812,13,0.541667,2.4167,2,Google Play,bochk,BOCHK
+Google Play | BOCHK,usability_navigation_design,Usability / navigation / design,446,130,0.29148,45,0.346154,3.4231,70,Google Play,bochk,BOCHK
+Google Play | BOCHK,customer_support_service,Customer support / service,446,21,0.047085,13,0.619048,2.2381,4,Google Play,bochk,BOCHK
+Google Play | BOCHK,account_registration,Account / registration,446,21,0.047085,17,0.809524,1.6667,1,Google Play,bochk,BOCHK
+Google Play | BOCHK,balance_statements_history,Balance / statements / history,446,6,0.013453,3,0.5,2.0,1,Google Play,bochk,BOCHK
+Google Play | BOCHK,security_fraud_trust,Security / fraud / trust,446,34,0.076233,24,0.705882,2.0,7,Google Play,bochk,BOCHK
+Google Play | BOCHK,language_localization,Language / localization,446,0,0.0,0,,,0,Google Play,bochk,BOCHK
+Google Play | BOCHK,fees_rates,Fees / rates,446,7,0.015695,3,0.428571,2.5714,3,Google Play,bochk,BOCHK
+Google Play | BOCHK,feature_request,Feature request / suggestion,446,15,0.033632,11,0.733333,1.8,0,Google Play,bochk,BOCHK
+Apple App Store | SC Mobile,app_stability_performance,App stability / performance,108,28,0.259259,24,0.857143,1.5357,1,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,login_authentication_access,Login / authentication / access,108,43,0.398148,37,0.860465,1.4419,0,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,transfers_payments_cards,Transfers / payments / cards,108,31,0.287037,18,0.580645,2.3871,1,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,usability_navigation_design,Usability / navigation / design,108,23,0.212963,4,0.173913,3.8261,3,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,customer_support_service,Customer support / service,108,11,0.101852,6,0.545455,2.3636,0,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,account_registration,Account / registration,108,16,0.148148,12,0.75,1.8125,0,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,balance_statements_history,Balance / statements / history,108,1,0.009259,0,0.0,4.0,0,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,security_fraud_trust,Security / fraud / trust,108,2,0.018519,2,1.0,1.0,0,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,language_localization,Language / localization,108,4,0.037037,2,0.5,3.0,0,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,fees_rates,Fees / rates,108,3,0.027778,2,0.666667,2.3333,0,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | SC Mobile,feature_request,Feature request / suggestion,108,5,0.046296,2,0.4,2.6,0,Apple App Store,sc_mobile,SC Mobile
+Apple App Store | HSBC HK,app_stability_performance,App stability / performance,267,33,0.123596,29,0.878788,1.5455,3,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,login_authentication_access,Login / authentication / access,267,30,0.11236,25,0.833333,1.7333,0,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,transfers_payments_cards,Transfers / payments / cards,267,44,0.164794,16,0.363636,3.4318,6,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,usability_navigation_design,Usability / navigation / design,267,95,0.355805,22,0.231579,3.8947,21,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,customer_support_service,Customer support / service,267,15,0.05618,6,0.4,3.3333,1,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,account_registration,Account / registration,267,12,0.044944,8,0.666667,2.1667,0,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,balance_statements_history,Balance / statements / history,267,3,0.011236,1,0.333333,3.3333,0,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,security_fraud_trust,Security / fraud / trust,267,18,0.067416,4,0.222222,4.0,0,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,language_localization,Language / localization,267,3,0.011236,2,0.666667,2.0,0,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,fees_rates,Fees / rates,267,3,0.011236,1,0.333333,3.6667,0,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | HSBC HK,feature_request,Feature request / suggestion,267,18,0.067416,6,0.333333,3.2778,2,Apple App Store,hsbc_hk,HSBC HK
+Apple App Store | BOCHK,app_stability_performance,App stability / performance,281,38,0.135231,28,0.736842,1.8158,3,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,login_authentication_access,Login / authentication / access,281,88,0.313167,72,0.818182,1.625,4,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,transfers_payments_cards,Transfers / payments / cards,281,48,0.170819,23,0.479167,2.9583,6,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,usability_navigation_design,Usability / navigation / design,281,102,0.362989,28,0.27451,3.8039,38,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,customer_support_service,Customer support / service,281,20,0.071174,14,0.7,2.2,1,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,account_registration,Account / registration,281,23,0.081851,20,0.869565,1.5217,0,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,balance_statements_history,Balance / statements / history,281,3,0.010676,2,0.666667,2.3333,0,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,security_fraud_trust,Security / fraud / trust,281,26,0.092527,14,0.538462,2.7692,3,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,language_localization,Language / localization,281,0,0.0,0,,,0,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,fees_rates,Fees / rates,281,4,0.014235,1,0.25,4.0,0,Apple App Store,bochk,BOCHK
+Apple App Store | BOCHK,feature_request,Feature request / suggestion,281,18,0.064057,12,0.666667,2.1111,1,Apple App Store,bochk,BOCHK

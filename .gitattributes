@@ -1,0 +1,9 @@
+# Release manifests and source-evidence hashes require byte-identical files.
+# Preserve original line endings for the new releases and their replay batches.
+/v2/** -text
+/v3/** -text
+/skills/v3/** -text
+/runs/skill_v3_replay_2026-10-22/** -text
+/runs/skill_v3_september_test_2026-10-22/** -text
+/dist/app-review-feedback-v3.manifest.json -text
+/dist/app-review-feedback-v3.skill -text

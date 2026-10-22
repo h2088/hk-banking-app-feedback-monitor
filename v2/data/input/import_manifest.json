@@ -1,0 +1,270 @@
+{
+  "source_sha256": "a04bdd34eaceddb4f66b5f087689122c5f5a08015cdd0b23cff6a9adbbf4f1d7",
+  "baseline_sha256": "d6410a3e12bbd2dbcfd9bd7ef193212ab7aa1dee6ff2c669245f5ef249debeb3",
+  "evidence": {
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_01_variant1.body": {
+      "sha256": "e7a5dba86574b282dd2865718c90990f74bc7a06ede46a0596754591b66d6216",
+      "copied_path": "data/raw/imported/e7a5dba86574b282dd2865718c90990f74bc7a06ede46a0596754591b66d6216.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0001.body": {
+      "sha256": "2bc90c99eba795c6d37bf2073093d8c5bcb3b182043890fc2a706793c57bfa56",
+      "copied_path": "data/raw/imported/2bc90c99eba795c6d37bf2073093d8c5bcb3b182043890fc2a706793c57bfa56.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0001.decoded.json": {
+      "sha256": "992a08cde90b65cd504134cfc98316911717e5fba2e73c971e627814f30ca435",
+      "copied_path": "data/raw/imported/992a08cde90b65cd504134cfc98316911717e5fba2e73c971e627814f30ca435.json"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_01_variant1.body": {
+      "sha256": "3b33263021ff036bebab51c3c736757843e8529ed5f2b5d33e0c3ac516c6d764",
+      "copied_path": "data/raw/imported/3b33263021ff036bebab51c3c736757843e8529ed5f2b5d33e0c3ac516c6d764.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0001.body": {
+      "sha256": "088b256873e8e5e07d915e72f51acec1106c64ef9921386018edfdb81d20c611",
+      "copied_path": "data/raw/imported/088b256873e8e5e07d915e72f51acec1106c64ef9921386018edfdb81d20c611.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0001.decoded.json": {
+      "sha256": "2e34e5b5b1261857550a7282d51cc13f02695fe6a88b70901f882a8c1365bc67",
+      "copied_path": "data/raw/imported/2e34e5b5b1261857550a7282d51cc13f02695fe6a88b70901f882a8c1365bc67.json"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_02_variant1.body": {
+      "sha256": "a04ca2fe0ce2a2ec69ba48f3b3b745028893e97505be388f8c92bedf42a9af46",
+      "copied_path": "data/raw/imported/a04ca2fe0ce2a2ec69ba48f3b3b745028893e97505be388f8c92bedf42a9af46.body"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_03_repair083308528767_3.body": {
+      "sha256": "93377f6010f7f089a4b4743adb56564e95dc1ed89ba117855fa51e6dd9a145ce",
+      "copied_path": "data/raw/imported/93377f6010f7f089a4b4743adb56564e95dc1ed89ba117855fa51e6dd9a145ce.body"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_02_variant3.body": {
+      "sha256": "4eb885491bc0b85f68a7c2e99833da190b736fd0a622458ca9dd46a863080a90",
+      "copied_path": "data/raw/imported/4eb885491bc0b85f68a7c2e99833da190b736fd0a622458ca9dd46a863080a90.body"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_04_repair083308528767_7.body": {
+      "sha256": "66b1c6b1ac348fd1db9ebbe5d44c999a3c923b4de019dd841419966530556276",
+      "copied_path": "data/raw/imported/66b1c6b1ac348fd1db9ebbe5d44c999a3c923b4de019dd841419966530556276.body"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_05_repair083308528767_3.body": {
+      "sha256": "13f9031003442123bed734915218aa931469ca1a84ecd398a670c94fc9e7a2a3",
+      "copied_path": "data/raw/imported/13f9031003442123bed734915218aa931469ca1a84ecd398a670c94fc9e7a2a3.body"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_03_variant1.body": {
+      "sha256": "604314e441d1efba81dc93375f90833b070051751f8123c0545e12046dc984ff",
+      "copied_path": "data/raw/imported/604314e441d1efba81dc93375f90833b070051751f8123c0545e12046dc984ff.body"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_06_variant2.body": {
+      "sha256": "707437a2de469ce3c3caab4b2c3d4df4cb7f64c81a4ee97c05eb0528c71024c0",
+      "copied_path": "data/raw/imported/707437a2de469ce3c3caab4b2c3d4df4cb7f64c81a4ee97c05eb0528c71024c0.body"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_07_repair083308528767_8.body": {
+      "sha256": "280a5082812972f8be0af997df510cbd886fac7f09b66c75d2554fe843805f55",
+      "copied_path": "data/raw/imported/280a5082812972f8be0af997df510cbd886fac7f09b66c75d2554fe843805f55.body"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_08_variant1.body": {
+      "sha256": "3c315641c643d68656c709f03483e74d67b92e3a5e673e06e77ca34e363a28fc",
+      "copied_path": "data/raw/imported/3c315641c643d68656c709f03483e74d67b92e3a5e673e06e77ca34e363a28fc.body"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_09_repair083308528767_4.body": {
+      "sha256": "bc2963a676e9c46277b2faa9de14f496a64757dfea025197e161cd4488268e0d",
+      "copied_path": "data/raw/imported/bc2963a676e9c46277b2faa9de14f496a64757dfea025197e161cd4488268e0d.body"
+    },
+    "data/apple_2026-10-19/run_03/hsbc_hk/raw/page_10_variant3.body": {
+      "sha256": "751d7dd69635ed0ac37e6069dac5c0d190556adda9ce9f1dd51f8710886af166",
+      "copied_path": "data/raw/imported/751d7dd69635ed0ac37e6069dac5c0d190556adda9ce9f1dd51f8710886af166.body"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_04_variant3.body": {
+      "sha256": "16bc0398694f7cb9f2c6531112be5e333a7329c4faf5c7d44b41354009d40a2c",
+      "copied_path": "data/raw/imported/16bc0398694f7cb9f2c6531112be5e333a7329c4faf5c7d44b41354009d40a2c.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0002.body": {
+      "sha256": "99205c880f29e6e2a228228bfa7bd347d720c48784da9ab889a7a876de3f470c",
+      "copied_path": "data/raw/imported/99205c880f29e6e2a228228bfa7bd347d720c48784da9ab889a7a876de3f470c.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0002.decoded.json": {
+      "sha256": "1517f147b3df187eb41d92ab190f843d985c7162018fd49bd51b3c7e71f2c786",
+      "copied_path": "data/raw/imported/1517f147b3df187eb41d92ab190f843d985c7162018fd49bd51b3c7e71f2c786.json"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_05_variant1.body": {
+      "sha256": "63379c5e41030c001f7a23c4328b8a9759f7c78315ec18edbaa2ae4e0f33b252",
+      "copied_path": "data/raw/imported/63379c5e41030c001f7a23c4328b8a9759f7c78315ec18edbaa2ae4e0f33b252.body"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_06_variant2.body": {
+      "sha256": "0573a7c6afde7e5e43840e85e080f35cae83f4e5ac28a53357d85f5e8e4420cb",
+      "copied_path": "data/raw/imported/0573a7c6afde7e5e43840e85e080f35cae83f4e5ac28a53357d85f5e8e4420cb.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0003.body": {
+      "sha256": "47ac514ec7a4e32642360ab3687911043c059f2633da359c04e691ee7ff814e8",
+      "copied_path": "data/raw/imported/47ac514ec7a4e32642360ab3687911043c059f2633da359c04e691ee7ff814e8.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0003.decoded.json": {
+      "sha256": "43f77c2d1774851931622e23ab5220787fc68dd24881cafd6b48a2d23b0d779b",
+      "copied_path": "data/raw/imported/43f77c2d1774851931622e23ab5220787fc68dd24881cafd6b48a2d23b0d779b.json"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_07_variant1.body": {
+      "sha256": "2cc897c92cc532c4527c1fb77ff6f245b90debd1e38c42fda9df13d8f66b29e3",
+      "copied_path": "data/raw/imported/2cc897c92cc532c4527c1fb77ff6f245b90debd1e38c42fda9df13d8f66b29e3.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0002.body": {
+      "sha256": "f48038bf45aa936dac1108775ebe6a18f2de7b9a4cc550460237f91b52ae5d95",
+      "copied_path": "data/raw/imported/f48038bf45aa936dac1108775ebe6a18f2de7b9a4cc550460237f91b52ae5d95.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0002.decoded.json": {
+      "sha256": "56e78b88cd136373c1af4103e021d426ae9284aacbe35481d8eb323068f27e31",
+      "copied_path": "data/raw/imported/56e78b88cd136373c1af4103e021d426ae9284aacbe35481d8eb323068f27e31.json"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_08_variant4.body": {
+      "sha256": "e6d7550de0e9fdfefc439b81ec3d1a507070c68e3589eac0e6e39b656029aeef",
+      "copied_path": "data/raw/imported/e6d7550de0e9fdfefc439b81ec3d1a507070c68e3589eac0e6e39b656029aeef.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0004.body": {
+      "sha256": "a217d45fd51d2f2e0fa47fed0f1f9273bc57217fccbe9db6952af97845ef9f26",
+      "copied_path": "data/raw/imported/a217d45fd51d2f2e0fa47fed0f1f9273bc57217fccbe9db6952af97845ef9f26.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0004.decoded.json": {
+      "sha256": "d73cb18e793ea392553dbad84762af1fdd05a297a1b02f830d4ab108358e7b68",
+      "copied_path": "data/raw/imported/d73cb18e793ea392553dbad84762af1fdd05a297a1b02f830d4ab108358e7b68.json"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_09_repair5.body": {
+      "sha256": "bd22d0b7c3ecd2ef310e040dc27368e23b7e02c252cfc374c4eab383fa3c88f2",
+      "copied_path": "data/raw/imported/bd22d0b7c3ecd2ef310e040dc27368e23b7e02c252cfc374c4eab383fa3c88f2.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0005.body": {
+      "sha256": "150b3862c49ae74bc88aab848c52139d191a1d798f1933d1491bf0d52244b5ce",
+      "copied_path": "data/raw/imported/150b3862c49ae74bc88aab848c52139d191a1d798f1933d1491bf0d52244b5ce.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0005.decoded.json": {
+      "sha256": "7a51f0d6c9f31e07eef2925a1289b66df78774a36f557acc26f0f94f9e9e35e9",
+      "copied_path": "data/raw/imported/7a51f0d6c9f31e07eef2925a1289b66df78774a36f557acc26f0f94f9e9e35e9.json"
+    },
+    "data/apple_2026-10-19/run_03/sc_mobile/raw/page_10_variant6.body": {
+      "sha256": "e295c5e75e4109a113650dafa37e832616bdec262705fb5788b058196f011303",
+      "copied_path": "data/raw/imported/e295c5e75e4109a113650dafa37e832616bdec262705fb5788b058196f011303.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0006.body": {
+      "sha256": "76a23e5fd0dcc0da3d6d04e0aa91eed4990f68773e342170002809e89e47404a",
+      "copied_path": "data/raw/imported/76a23e5fd0dcc0da3d6d04e0aa91eed4990f68773e342170002809e89e47404a.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0006.decoded.json": {
+      "sha256": "06b90ba2b57092f5c5ff5fbea88ee9785a4fba2e9d85297efb61f5b5f90f0cea",
+      "copied_path": "data/raw/imported/06b90ba2b57092f5c5ff5fbea88ee9785a4fba2e9d85297efb61f5b5f90f0cea.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0007.body": {
+      "sha256": "9f0ff4ca3652983b30aeb79c71990cfc30fe586b6240c020812d4d60fde6fcd0",
+      "copied_path": "data/raw/imported/9f0ff4ca3652983b30aeb79c71990cfc30fe586b6240c020812d4d60fde6fcd0.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0007.decoded.json": {
+      "sha256": "bbb802a2569cfe2a061b6d75bd8b17bee04668ff7f9fa0e5ebc156fc4d9a715f",
+      "copied_path": "data/raw/imported/bbb802a2569cfe2a061b6d75bd8b17bee04668ff7f9fa0e5ebc156fc4d9a715f.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0008.body": {
+      "sha256": "0ee205b8dfe6993d02e72c14f9a4a0aaac1bac2d0b969d6b56b1948072f7488c",
+      "copied_path": "data/raw/imported/0ee205b8dfe6993d02e72c14f9a4a0aaac1bac2d0b969d6b56b1948072f7488c.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0008.decoded.json": {
+      "sha256": "4ae47e2ad655870fc4f126a113d13c1a217180788a730c3aaf29bd61373fd324",
+      "copied_path": "data/raw/imported/4ae47e2ad655870fc4f126a113d13c1a217180788a730c3aaf29bd61373fd324.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0009.body": {
+      "sha256": "cbe73f9f58cc14015ca1dade07a0da1351a1002078ad0fd61048bd64972aec32",
+      "copied_path": "data/raw/imported/cbe73f9f58cc14015ca1dade07a0da1351a1002078ad0fd61048bd64972aec32.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0009.decoded.json": {
+      "sha256": "65f27213a5a8a3add6ce526bf2906a03d1d6ab42ca115d72f4e9b5f7ceff2b72",
+      "copied_path": "data/raw/imported/65f27213a5a8a3add6ce526bf2906a03d1d6ab42ca115d72f4e9b5f7ceff2b72.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0003.body": {
+      "sha256": "12851d7704393ae0dfa8a26f6fb7219b81aa16e1ec64e341408c26af409ebcdb",
+      "copied_path": "data/raw/imported/12851d7704393ae0dfa8a26f6fb7219b81aa16e1ec64e341408c26af409ebcdb.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0003.decoded.json": {
+      "sha256": "2719d1c4ffa3d595e540acadc325e084130229e6163043d85d6d0f4dc52fba7c",
+      "copied_path": "data/raw/imported/2719d1c4ffa3d595e540acadc325e084130229e6163043d85d6d0f4dc52fba7c.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0010.body": {
+      "sha256": "69b018ad24edd1b7329d9d4208b63fb2a7fda9515968f519d43c87395a82cf6b",
+      "copied_path": "data/raw/imported/69b018ad24edd1b7329d9d4208b63fb2a7fda9515968f519d43c87395a82cf6b.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0010.decoded.json": {
+      "sha256": "82063e5345872527e24739ab6054c41c00ff13bc3c8a5a3c7b1d0c2bf67de33d",
+      "copied_path": "data/raw/imported/82063e5345872527e24739ab6054c41c00ff13bc3c8a5a3c7b1d0c2bf67de33d.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0011.body": {
+      "sha256": "b86446bc205961463fe70423a06e9b1ed3151a678b6418996de72e02ba3f83d2",
+      "copied_path": "data/raw/imported/b86446bc205961463fe70423a06e9b1ed3151a678b6418996de72e02ba3f83d2.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0011.decoded.json": {
+      "sha256": "af2fb83e4d030ee62344954696ecdd99c468fb2c58feefc1ab0d1885e1a7286f",
+      "copied_path": "data/raw/imported/af2fb83e4d030ee62344954696ecdd99c468fb2c58feefc1ab0d1885e1a7286f.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0012.body": {
+      "sha256": "bd85b67a3daeb258c121278ff55ac2833ee666772cb704b836bf88f396c1e7af",
+      "copied_path": "data/raw/imported/bd85b67a3daeb258c121278ff55ac2833ee666772cb704b836bf88f396c1e7af.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0012.decoded.json": {
+      "sha256": "f73638f7ba42efaadefca72a716edb794a4a0ef55dcdd5239f9b366c9ae98110",
+      "copied_path": "data/raw/imported/f73638f7ba42efaadefca72a716edb794a4a0ef55dcdd5239f9b366c9ae98110.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0013.body": {
+      "sha256": "d286630c9e64f9f565fcd55ad9d890e17008a2ae65e59c55ed9d297eb220bbc6",
+      "copied_path": "data/raw/imported/d286630c9e64f9f565fcd55ad9d890e17008a2ae65e59c55ed9d297eb220bbc6.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0013.decoded.json": {
+      "sha256": "8d518be9b92b9fbb8d91d59ab5a2eaab5a196aa025105a282c0de68a4fee04f2",
+      "copied_path": "data/raw/imported/8d518be9b92b9fbb8d91d59ab5a2eaab5a196aa025105a282c0de68a4fee04f2.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0004.body": {
+      "sha256": "cdf40c6f3082217df387f57bd078f60e30ea079c36ca30f4edc0ed2d39a7c091",
+      "copied_path": "data/raw/imported/cdf40c6f3082217df387f57bd078f60e30ea079c36ca30f4edc0ed2d39a7c091.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0004.decoded.json": {
+      "sha256": "74bac7ea646833fcd9115b952afedfe268814656174d5220c0f5878477ab3877",
+      "copied_path": "data/raw/imported/74bac7ea646833fcd9115b952afedfe268814656174d5220c0f5878477ab3877.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0014.body": {
+      "sha256": "cbb04f94534c5d178bd5ad984884d89514315d43030af72a5ed0a88afb89bd8f",
+      "copied_path": "data/raw/imported/cbb04f94534c5d178bd5ad984884d89514315d43030af72a5ed0a88afb89bd8f.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0014.decoded.json": {
+      "sha256": "70f795022c188f44f37834332d453ac294af06ded64fb41fd0994429aecd68ab",
+      "copied_path": "data/raw/imported/70f795022c188f44f37834332d453ac294af06ded64fb41fd0994429aecd68ab.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0005.body": {
+      "sha256": "460c32f66179e32c34d8a212a0479c0c3c81d5372d58561f42e7ffb9d21e3366",
+      "copied_path": "data/raw/imported/460c32f66179e32c34d8a212a0479c0c3c81d5372d58561f42e7ffb9d21e3366.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0005.decoded.json": {
+      "sha256": "e8d1cfc25d7f0968104f97e6b455d2e3c34688389ef554d099017ad084855486",
+      "copied_path": "data/raw/imported/e8d1cfc25d7f0968104f97e6b455d2e3c34688389ef554d099017ad084855486.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0015.body": {
+      "sha256": "69bd44027a0d5038038fa1d562c798171776257b3309059c7763bfb574551e05",
+      "copied_path": "data/raw/imported/69bd44027a0d5038038fa1d562c798171776257b3309059c7763bfb574551e05.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0015.decoded.json": {
+      "sha256": "eb76e426a209fad87c9538c107ca01d5877c15a7a777b3a2b38b1e3b323cd6df",
+      "copied_path": "data/raw/imported/eb76e426a209fad87c9538c107ca01d5877c15a7a777b3a2b38b1e3b323cd6df.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0016.body": {
+      "sha256": "19185a0c58e1e1b9b719cb19bcbe060ee6a7deaa90d9aa58dede90343d4ec613",
+      "copied_path": "data/raw/imported/19185a0c58e1e1b9b719cb19bcbe060ee6a7deaa90d9aa58dede90343d4ec613.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0016.decoded.json": {
+      "sha256": "a1e925bec95a2ae8c5e23eda3c0a1d628cc4cc958594190af6360f471d3532e1",
+      "copied_path": "data/raw/imported/a1e925bec95a2ae8c5e23eda3c0a1d628cc4cc958594190af6360f471d3532e1.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0017.body": {
+      "sha256": "13ae4e320153997dc0f33ee2d47af6344f56320c25674c78a5b707ffcb909b12",
+      "copied_path": "data/raw/imported/13ae4e320153997dc0f33ee2d47af6344f56320c25674c78a5b707ffcb909b12.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/hsbc_hk/raw/page_0017.decoded.json": {
+      "sha256": "dbcc2e63ac6816f6b73fc8df03d762a513455a829afb4354fcf855bf5326bce2",
+      "copied_path": "data/raw/imported/dbcc2e63ac6816f6b73fc8df03d762a513455a829afb4354fcf855bf5326bce2.json"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0006.body": {
+      "sha256": "299cc506f316fa09706647f91c2e65a06b048947a95d2648b1e2663abfd9df70",
+      "copied_path": "data/raw/imported/299cc506f316fa09706647f91c2e65a06b048947a95d2648b1e2663abfd9df70.body"
+    },
+    "data/google_play_2026-10-19/run_03_full_history/sc_mobile/raw/page_0006.decoded.json": {
+      "sha256": "32f191731da3ce6c24c4839a7b70cdb110ea991da2d19193b49b95e9e9a86139",
+      "copied_path": "data/raw/imported/32f191731da3ce6c24c4839a7b70cdb110ea991da2d19193b49b95e9e9a86139.json"
+    }
+  }
+}

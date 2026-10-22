@@ -1,0 +1,840 @@
+{
+  "schema_version": 2,
+  "finalized_at_utc": "2026-10-22T05:17:21.651048+00:00",
+  "report_sha256": "adc2b1afa4c1d80c8b5b8347feaaf2972f663977444d4d81cc022dacd8a1ccca",
+  "files": {
+    "assets/report.html": {
+      "sha256": "77ff3bd9c21beac7a025f3afd662aaa222c3991765577cd38308261f6b20cc8e",
+      "bytes": 20622
+    },
+    "checkpoint_A_source_feasibility.md": {
+      "sha256": "19c09e5f0b6232589291a302e78974d5eafde3c60ae1c66e4314feba6a5b2300",
+      "bytes": 1237
+    },
+    "checkpoint_B_data_collection.md": {
+      "sha256": "6b427a2efa77a027cc4ba80948ebfd521c8d555acdc65da9bae20d69b583c722",
+      "bytes": 1235
+    },
+    "checkpoint_C_data_qa.md": {
+      "sha256": "d1ab76c2903b25faedbed8720d5b331b4631a28ba5481686a3a635854ebece5e",
+      "bytes": 1210
+    },
+    "checkpoint_D_customer_feedback_analysis.md": {
+      "sha256": "4428892ee6b72578e8de6dc38c47ea6710f550f30279d86a48be1ac8d7414c74",
+      "bytes": 3792
+    },
+    "checkpoint_E_build_test.md": {
+      "sha256": "7c2a25978a159762a64ae285ef81a868ab137a9fe15f3a4fe2d1575149b1cce5",
+      "bytes": 658
+    },
+    "checkpoint_F_final_review.md": {
+      "sha256": "cdeeb200eca96d682a01fd87f047ffb4b0f41f8d060651482a7a3729d55f35b0",
+      "bytes": 1068
+    },
+    "config.json": {
+      "sha256": "a70ddd4df3d00c437166055a3dcaa1f8ed4a4a10540b4448685c074b5550c99e",
+      "bytes": 998
+    },
+    "data/analysis/benchmark_deltas.csv": {
+      "sha256": "f6c30d624ab051a554a95446d3d141b929078a0e6c8a2d20653525878e825664",
+      "bytes": 352
+    },
+    "data/analysis/benchmark_deltas.json": {
+      "sha256": "5a2b8a98c8d10d23623ddef0ec235769cc1c0428c3c6b7ea3c2951f6a0f1d0bf",
+      "bytes": 1029
+    },
+    "data/analysis/comment_labels.csv": {
+      "sha256": "b8bf9e658fe403cdf16a576e30aa690588ab0c3a514d9a10184f92b9bad9414a",
+      "bytes": 584599
+    },
+    "data/analysis/comment_labels.json": {
+      "sha256": "26702cc9c921fe9d769918fbb0dcd7e974df6ce87900baf8717fe5e657f46037",
+      "bytes": 1234743
+    },
+    "data/analysis/monthly_by_store_bank.csv": {
+      "sha256": "381ec90aff1bc4f28f388f98e3803aa8e7dea24f8683a7c44375c4646c980ce1",
+      "bytes": 5508
+    },
+    "data/analysis/monthly_by_store_bank.json": {
+      "sha256": "aeb2f8ec7d7500a282024d3e55fd4a2da92a4811db5d33d962de0322475d123f",
+      "bytes": 23454
+    },
+    "data/analysis/store_benchmarks.csv": {
+      "sha256": "ab02431f0b72558a3e8318b20a706a1171ffe311d1bb16893c720b12f487dc54",
+      "bytes": 923
+    },
+    "data/analysis/store_benchmarks.json": {
+      "sha256": "0b6d7f8c36ca709145e9887e602a62aa84d1f8d96d0bcff539696298bbaad5f7",
+      "bytes": 2977
+    },
+    "data/analysis/theme_deltas.csv": {
+      "sha256": "90a2373ea9c43e83c2d050037f628608647493dff9df1b45ffa4ecba3eab0b01",
+      "bytes": 4059
+    },
+    "data/analysis/theme_deltas.json": {
+      "sha256": "182488e2cb6530153bf88312f0398b443d6b67a5e05d1d465ebd9cdd752ecc8a",
+      "bytes": 13347
+    },
+    "data/analysis/themes_by_store_bank.csv": {
+      "sha256": "fb651b19c2fa687dba443839e4b681f9a742d156d89aa805858e4a17c1ec7e46",
+      "bytes": 8860
+    },
+    "data/analysis/themes_by_store_bank.json": {
+      "sha256": "44d4f2f77ed54c9cb5add2ce79ee4d5c9c0573ebddf58e37fbf3229587bb84a0",
+      "bytes": 28351
+    },
+    "data/analysis/validation_sample.json": {
+      "sha256": "69c63e5e5f1fdee2a80ccbe729c52d9c750adc5bd98eb75422f3a2b6d66b03b9",
+      "bytes": 18046
+    },
+    "data/bochk_collection/apple_records.json": {
+      "sha256": "12a8968b7142f03115ce132bedd040bc78a0fa6985202a582d38c40b0caacccd",
+      "bytes": 668704
+    },
+    "data/bochk_collection/apple_summary.json": {
+      "sha256": "894cf862305f2fb5f7e3cc3a21a64108717f6dcfd4620363ed9e402486f02174",
+      "bytes": 1201
+    },
+    "data/bochk_collection/collection_summary.json": {
+      "sha256": "5a233beca23cdd2c109ce98f192518e6c0fbd2bc97ca359b9d7e5cc2760aa267",
+      "bytes": 2558
+    },
+    "data/bochk_collection/data/raw/apple/bochk/boundary_page_11_attempt1.body": {
+      "sha256": "f075229560d77be2edec569af9702cb7e60d1c86e481f0a1dbdc6ef882c0690f",
+      "bytes": 67
+    },
+    "data/bochk_collection/data/raw/apple/bochk/boundary_page_11_attempt1.http.json": {
+      "sha256": "da3751e995388c631a75d9f9161d29cb305ed55a658f95ccf7b92c57c15ad95a",
+      "bytes": 499
+    },
+    "data/bochk_collection/data/raw/apple/bochk/boundary_page_11_attempt2.body": {
+      "sha256": "f075229560d77be2edec569af9702cb7e60d1c86e481f0a1dbdc6ef882c0690f",
+      "bytes": 67
+    },
+    "data/bochk_collection/data/raw/apple/bochk/boundary_page_11_attempt2.http.json": {
+      "sha256": "dcfae70a024f1741985562e055675579bef1a8798053f970d9bcc5e008773ccd",
+      "bytes": 499
+    },
+    "data/bochk_collection/data/raw/apple/bochk/boundary_page_11_attempt3.body": {
+      "sha256": "f075229560d77be2edec569af9702cb7e60d1c86e481f0a1dbdc6ef882c0690f",
+      "bytes": 67
+    },
+    "data/bochk_collection/data/raw/apple/bochk/boundary_page_11_attempt3.http.json": {
+      "sha256": "9342ed87dbba0030dfba3a7e2c5aea9ffcbed220c756e4784bbf66545c8e05b0",
+      "bytes": 499
+    },
+    "data/bochk_collection/data/raw/apple/bochk/listing_attempt1.body": {
+      "sha256": "c88f4211ce1f54f91effa4be45ef704d54bf538782924a98f4550d58d58d815e",
+      "bytes": 11531
+    },
+    "data/bochk_collection/data/raw/apple/bochk/listing_attempt1.http.json": {
+      "sha256": "c1e2a2078ffbe4e4e282d8c6f915b91da3d47aeab605dc08eff4cd2db1b8f44a",
+      "bytes": 2492
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_01_variant1_attempt1.body": {
+      "sha256": "b01fab24379030d271f80aa051b8bc5e2b5880827131e04f7ebe1aac3169da32",
+      "bytes": 36347
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_01_variant1_attempt1.http.json": {
+      "sha256": "15b2f2b25bb2e4e8a1f1531085784efb5b71f541fbf8812c33f106162d0caad5",
+      "bytes": 2634
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_02_variant1_attempt1.body": {
+      "sha256": "6f6a368bbf8d10a235a3c930e2d51871723bd3bc7a0300feb31eae295de3dabf",
+      "bytes": 37252
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_02_variant1_attempt1.http.json": {
+      "sha256": "6cc99596bffb599629d3f8af1ca364f2ef0fa79e6746548cff405840d62137ec",
+      "bytes": 2629
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_03_variant1_attempt1.body": {
+      "sha256": "9960f902d28ce7e48ade64567d744a652bf65cc3e80aa6ae1a9b7d6b9d581920",
+      "bytes": 35952
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_03_variant1_attempt1.http.json": {
+      "sha256": "a81adcb1643f44423eb202f88076eac04fcc0b03f77bb7d8de1c4c3b9b53776a",
+      "bytes": 2626
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_04_variant1_attempt1.body": {
+      "sha256": "6d00a5e4fd4c8709a4d2c3a2d916b1fafad380c52e4376acb4d950630b345f25",
+      "bytes": 36388
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_04_variant1_attempt1.http.json": {
+      "sha256": "4c0d20c7252057c180cfa4bbaef3160132f4e25a50121ab2f91175093953132a",
+      "bytes": 2634
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_05_variant1_attempt1.body": {
+      "sha256": "7bea3a00a13d9b6b686d5563eb6357d2d986a4111fe69cd69a8a8355cfd31310",
+      "bytes": 37310
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_05_variant1_attempt1.http.json": {
+      "sha256": "0468aeb8f1f0500925f9d064ebcc5ea6e0f08351da7b8ffccfb27b3152fb2878",
+      "bytes": 2626
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_06_variant1_attempt1.body": {
+      "sha256": "e97346090862d53185f6414aa25befdedfd36bbb54db148ce1c2618798e8a08e",
+      "bytes": 38379
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_06_variant1_attempt1.http.json": {
+      "sha256": "82b76a93d4ab7a8674e7bbc19ec90e0eb0a5e48ede7271812032f3e714b9fdb4",
+      "bytes": 2631
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_07_variant1_attempt1.body": {
+      "sha256": "efa21b56a0eb888a1d24d3869c243cfe83c6e5b69a71b4f85429bd64b0629519",
+      "bytes": 36428
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_07_variant1_attempt1.http.json": {
+      "sha256": "0f0f91ed5a7c4d278d43450bc29aba2a87a9ecc0aab7b74d12e68d91849030df",
+      "bytes": 2631
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_08_variant1_attempt1.body": {
+      "sha256": "d0406ff1310dc8b022dc98c8a9be8106d5a02cec547a2ec86b695e7a6868643f",
+      "bytes": 36260
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_08_variant1_attempt1.http.json": {
+      "sha256": "bc46be62ff2de5faaf959b571d755ac05027dc4ab5e9008bf90370a38cc07948",
+      "bytes": 2625
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_09_variant1_attempt1.body": {
+      "sha256": "80afbe486f8b499eb5f27b5aa596f2012ec177bc4599f7ca99222da733dab331",
+      "bytes": 36371
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_09_variant1_attempt1.http.json": {
+      "sha256": "02abccc8443be5e33c4e89570cbadad4be84cd0610fb5a2f1ddc471b7c8e11ee",
+      "bytes": 2619
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_10_variant1_attempt1.body": {
+      "sha256": "581ed8cbfbf97cda63853438db795c4ec89bbd43bd6949aec517e9111c6c518c",
+      "bytes": 36689
+    },
+    "data/bochk_collection/data/raw/apple/bochk/page_10_variant1_attempt1.http.json": {
+      "sha256": "fe36e8770c5a4a4a2d016f3900b91ba245c4feaa98d2a9f9a06f03f4845d60de",
+      "bytes": 2642
+    },
+    "data/bochk_collection/data/raw/apple/bochk/rows_partial.json": {
+      "sha256": "5266c14c624d712fa4933fcea0b39d2f183bbb9ab710aa6618cabe9c9a9d0d1f",
+      "bytes": 657704
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/listing_attempt1.body": {
+      "sha256": "f948a159cc1d889cac8ae82c532e19b4aae7906dbefb52bed3a93345d9ed4b47",
+      "bytes": 1298770
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/listing_attempt1.http.json": {
+      "sha256": "07147942fb62dd96d76d62ea09db78401caecd95584a1ce05593f668359b3fb5",
+      "bytes": 2721
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0001.decoded.json": {
+      "sha256": "1307b7aaba9e028ee3973ff4810a0b93f280d0928ab61362efa86dd15425d39f",
+      "bytes": 254910
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0001_attempt1.body": {
+      "sha256": "6356c5f83192e45ccd6da58cefcc42e59815bf5e7b7b7174708c8130866adb32",
+      "bytes": 138534
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0001_attempt1.http.json": {
+      "sha256": "8a147b173a431afdb23565514489812e690f89032571fa6510702e82eb98ea47",
+      "bytes": 2723
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0002.decoded.json": {
+      "sha256": "e7bf1ed0aacd25f515e6bc40597aaa6d7adf508216ab50b76e2cfaaf4666c1f0",
+      "bytes": 256882
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0002_attempt1.body": {
+      "sha256": "dd7ab54a3715ca305498a069e4aac2b7eb94d99cc4a50b69bf910b49151e34e9",
+      "bytes": 138688
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0002_attempt1.http.json": {
+      "sha256": "b69017905f74a09d46bacd7bfbe317147bdb6f165e2c22cc4087182ef3fbf8f8",
+      "bytes": 3017
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0003.decoded.json": {
+      "sha256": "743e7c228dc6a1ab054d8b25e5658f90b24ba22b488ad6be3bc060fdecb411ba",
+      "bytes": 272647
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0003_attempt1.body": {
+      "sha256": "2b5519bcc39599fe9eca5b8cd83b22788ecadeb40f0702627503461fda98754d",
+      "bytes": 146009
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/page_0003_attempt1.http.json": {
+      "sha256": "dc3d9883b40f8faf34c72b1e569cc165ee7ea35132a79091781af88a1eb79792",
+      "bytes": 3019
+    },
+    "data/bochk_collection/data/raw/google_play/bochk/rows_partial.json": {
+      "sha256": "08f66a980200e42a1fecdd311f2263c223fd06f02c4172754dc6d2b94c0c2c1b",
+      "bytes": 858793
+    },
+    "data/bochk_collection/google_records.json": {
+      "sha256": "a60ea053e14377f18f951007a053e19b14742f065aebb64e01b7324443a1ef12",
+      "bytes": 885193
+    },
+    "data/bochk_collection/google_summary.json": {
+      "sha256": "aa788a4a949f08f05293734e6c66a75370b7f2034ef6c4215f46ba87693898c4",
+      "bytes": 685
+    },
+    "data/bochk_collection/identity/apple_search_attempt1.body": {
+      "sha256": "c0b2d3ef2b1f07627b899504725ca105e8f76e7cfb4caca17b6d465ac9642b73",
+      "bytes": 99970
+    },
+    "data/bochk_collection/identity/apple_search_attempt1.http.json": {
+      "sha256": "6ee81df3f127abf6d5dc07a5bca8c081a679ddb3f0de10f64f5654d33a563fd6",
+      "bytes": 2618
+    },
+    "data/bochk_collection/identity/google_search_attempt1.body": {
+      "sha256": "5ebdbcaac9566983354a52f529a0de3040cf8093f0b1d0eb990f108b63db4552",
+      "bytes": 1251638
+    },
+    "data/bochk_collection/identity/google_search_attempt1.http.json": {
+      "sha256": "d16ad1176d47b3dc060bd2e1a48dd76ac64e9382ef7218da4bbbd5607c2c33a0",
+      "bytes": 2795
+    },
+    "data/bochk_collection/source_records.json": {
+      "sha256": "e9b6c70e6c58a4cf6232d6b4479b4f2e7a71817b666158e5dbcd020141fe0f16",
+      "bytes": 1553894
+    },
+    "data/input/import_manifest.json": {
+      "sha256": "a32404bf66fea42d489c21fd22a2664928e47e9d936786b39443c5c210748075",
+      "bytes": 19122
+    },
+    "data/input/v1_all_reviews.json": {
+      "sha256": "ec7e76ad221927b4e38f87cdec43ba85ceecad3a721acaf8a2bf6f90a6b0a8cc",
+      "bytes": 13145440
+    },
+    "data/input/v1_english_baseline.json": {
+      "sha256": "7dc1857798ede547cff883aaad56b2bab3602af55cfc81cb24acaddb424a1d16",
+      "bytes": 659525
+    },
+    "data/input/v1_preservation.json": {
+      "sha256": "263bab4e39509e7096f5721f5107599a7ceecf442df9aa51081d813c0fd328af",
+      "bytes": 273075
+    },
+    "data/merged/master_all_reviews.csv": {
+      "sha256": "c8360dc2f431567e8ecc330553020a191593739c541597443a4076ab2a4dfa53",
+      "bytes": 7372151
+    },
+    "data/merged/master_all_reviews.json": {
+      "sha256": "62553bd5aac99cecbc5225e47e6a2ebc0e6c16731b163991b4e2a7dff91a297f",
+      "bytes": 14854646
+    },
+    "data/merged/master_english_six_months.csv": {
+      "sha256": "a96432c7a04f9a739fdc3487bddb6a47cceec5569911038209907e73683b444d",
+      "bytes": 447253
+    },
+    "data/merged/master_english_six_months.json": {
+      "sha256": "9c70bb5bac4d7fbf533e92b22f8b9a8f460e9c06cf0429d1fbe1e84e5904c65c",
+      "bytes": 916831
+    },
+    "data/qa/bochk_language_review_queue.json": {
+      "sha256": "d079a4dbe238e477d3dfb44c5644513dbe2b4cba5b3f10c815a2f82e3d5d8a7d",
+      "bytes": 81041
+    },
+    "data/qa/coverage.csv": {
+      "sha256": "bab579edcbfb8e35d5e95d72f57fc3a31314b69f3ce19e6ee5ceca9050b15351",
+      "bytes": 1960
+    },
+    "data/qa/coverage.json": {
+      "sha256": "1198c06b3c24a01115286259eb99633b09e3f880900a53ac784a2089be994714",
+      "bytes": 4310
+    },
+    "data/qa/exclusions.csv": {
+      "sha256": "69a652f1dbfaad9789adc5104b271dad744a35795aaa90620c08447bf3f161d3",
+      "bytes": 859132
+    },
+    "data/qa/exclusions.json": {
+      "sha256": "145ca57e8be6275adcc59d6669d509bd187f0a4677c3e6ca7e30f7dcbf7c686b",
+      "bytes": 1711335
+    },
+    "data/qa/qa_summary.json": {
+      "sha256": "584506f797a6e6a0b2965fa7d2c42051d3cd84a00531012d62df47fe890d05af",
+      "bytes": 5079
+    },
+    "data/qa/repeated_text_groups.json": {
+      "sha256": "f782e863ddb35d277f02b59f5d1a2c05bf6410245d06b395e0830a0f1f31e252",
+      "bytes": 3135
+    },
+    "data/raw/imported/0573a7c6afde7e5e43840e85e080f35cae83f4e5ac28a53357d85f5e8e4420cb.body": {
+      "sha256": "0573a7c6afde7e5e43840e85e080f35cae83f4e5ac28a53357d85f5e8e4420cb",
+      "bytes": 38769
+    },
+    "data/raw/imported/06b90ba2b57092f5c5ff5fbea88ee9785a4fba2e9d85297efb61f5b5f90f0cea.json": {
+      "sha256": "06b90ba2b57092f5c5ff5fbea88ee9785a4fba2e9d85297efb61f5b5f90f0cea",
+      "bytes": 276302
+    },
+    "data/raw/imported/088b256873e8e5e07d915e72f51acec1106c64ef9921386018edfdb81d20c611.body": {
+      "sha256": "088b256873e8e5e07d915e72f51acec1106c64ef9921386018edfdb81d20c611",
+      "bytes": 149949
+    },
+    "data/raw/imported/0ee205b8dfe6993d02e72c14f9a4a0aaac1bac2d0b969d6b56b1948072f7488c.body": {
+      "sha256": "0ee205b8dfe6993d02e72c14f9a4a0aaac1bac2d0b969d6b56b1948072f7488c",
+      "bytes": 150305
+    },
+    "data/raw/imported/12851d7704393ae0dfa8a26f6fb7219b81aa16e1ec64e341408c26af409ebcdb.body": {
+      "sha256": "12851d7704393ae0dfa8a26f6fb7219b81aa16e1ec64e341408c26af409ebcdb",
+      "bytes": 217102
+    },
+    "data/raw/imported/13ae4e320153997dc0f33ee2d47af6344f56320c25674c78a5b707ffcb909b12.body": {
+      "sha256": "13ae4e320153997dc0f33ee2d47af6344f56320c25674c78a5b707ffcb909b12",
+      "bytes": 21454
+    },
+    "data/raw/imported/13f9031003442123bed734915218aa931469ca1a84ecd398a670c94fc9e7a2a3.body": {
+      "sha256": "13f9031003442123bed734915218aa931469ca1a84ecd398a670c94fc9e7a2a3",
+      "bytes": 107571
+    },
+    "data/raw/imported/150b3862c49ae74bc88aab848c52139d191a1d798f1933d1491bf0d52244b5ce.body": {
+      "sha256": "150b3862c49ae74bc88aab848c52139d191a1d798f1933d1491bf0d52244b5ce",
+      "bytes": 147137
+    },
+    "data/raw/imported/1517f147b3df187eb41d92ab190f843d985c7162018fd49bd51b3c7e71f2c786.json": {
+      "sha256": "1517f147b3df187eb41d92ab190f843d985c7162018fd49bd51b3c7e71f2c786",
+      "bytes": 294063
+    },
+    "data/raw/imported/16bc0398694f7cb9f2c6531112be5e333a7329c4faf5c7d44b41354009d40a2c.body": {
+      "sha256": "16bc0398694f7cb9f2c6531112be5e333a7329c4faf5c7d44b41354009d40a2c",
+      "bytes": 39991
+    },
+    "data/raw/imported/19185a0c58e1e1b9b719cb19bcbe060ee6a7deaa90d9aa58dede90343d4ec613.body": {
+      "sha256": "19185a0c58e1e1b9b719cb19bcbe060ee6a7deaa90d9aa58dede90343d4ec613",
+      "bytes": 172662
+    },
+    "data/raw/imported/2719d1c4ffa3d595e540acadc325e084130229e6163043d85d6d0f4dc52fba7c.json": {
+      "sha256": "2719d1c4ffa3d595e540acadc325e084130229e6163043d85d6d0f4dc52fba7c",
+      "bytes": 369592
+    },
+    "data/raw/imported/280a5082812972f8be0af997df510cbd886fac7f09b66c75d2554fe843805f55.body": {
+      "sha256": "280a5082812972f8be0af997df510cbd886fac7f09b66c75d2554fe843805f55",
+      "bytes": 39552
+    },
+    "data/raw/imported/299cc506f316fa09706647f91c2e65a06b048947a95d2648b1e2663abfd9df70.body": {
+      "sha256": "299cc506f316fa09706647f91c2e65a06b048947a95d2648b1e2663abfd9df70",
+      "bytes": 37320
+    },
+    "data/raw/imported/2bc90c99eba795c6d37bf2073093d8c5bcb3b182043890fc2a706793c57bfa56.body": {
+      "sha256": "2bc90c99eba795c6d37bf2073093d8c5bcb3b182043890fc2a706793c57bfa56",
+      "bytes": 226783
+    },
+    "data/raw/imported/2cc897c92cc532c4527c1fb77ff6f245b90debd1e38c42fda9df13d8f66b29e3.body": {
+      "sha256": "2cc897c92cc532c4527c1fb77ff6f245b90debd1e38c42fda9df13d8f66b29e3",
+      "bytes": 39859
+    },
+    "data/raw/imported/2e34e5b5b1261857550a7282d51cc13f02695fe6a88b70901f882a8c1365bc67.json": {
+      "sha256": "2e34e5b5b1261857550a7282d51cc13f02695fe6a88b70901f882a8c1365bc67",
+      "bytes": 284893
+    },
+    "data/raw/imported/32f191731da3ce6c24c4839a7b70cdb110ea991da2d19193b49b95e9e9a86139.json": {
+      "sha256": "32f191731da3ce6c24c4839a7b70cdb110ea991da2d19193b49b95e9e9a86139",
+      "bytes": 68906
+    },
+    "data/raw/imported/3b33263021ff036bebab51c3c736757843e8529ed5f2b5d33e0c3ac516c6d764.body": {
+      "sha256": "3b33263021ff036bebab51c3c736757843e8529ed5f2b5d33e0c3ac516c6d764",
+      "bytes": 39252
+    },
+    "data/raw/imported/3c315641c643d68656c709f03483e74d67b92e3a5e673e06e77ca34e363a28fc.body": {
+      "sha256": "3c315641c643d68656c709f03483e74d67b92e3a5e673e06e77ca34e363a28fc",
+      "bytes": 36970
+    },
+    "data/raw/imported/43f77c2d1774851931622e23ab5220787fc68dd24881cafd6b48a2d23b0d779b.json": {
+      "sha256": "43f77c2d1774851931622e23ab5220787fc68dd24881cafd6b48a2d23b0d779b",
+      "bytes": 284963
+    },
+    "data/raw/imported/460c32f66179e32c34d8a212a0479c0c3c81d5372d58561f42e7ffb9d21e3366.body": {
+      "sha256": "460c32f66179e32c34d8a212a0479c0c3c81d5372d58561f42e7ffb9d21e3366",
+      "bytes": 168398
+    },
+    "data/raw/imported/47ac514ec7a4e32642360ab3687911043c059f2633da359c04e691ee7ff814e8.body": {
+      "sha256": "47ac514ec7a4e32642360ab3687911043c059f2633da359c04e691ee7ff814e8",
+      "bytes": 153978
+    },
+    "data/raw/imported/4ae47e2ad655870fc4f126a113d13c1a217180788a730c3aaf29bd61373fd324.json": {
+      "sha256": "4ae47e2ad655870fc4f126a113d13c1a217180788a730c3aaf29bd61373fd324",
+      "bytes": 296707
+    },
+    "data/raw/imported/4eb885491bc0b85f68a7c2e99833da190b736fd0a622458ca9dd46a863080a90.body": {
+      "sha256": "4eb885491bc0b85f68a7c2e99833da190b736fd0a622458ca9dd46a863080a90",
+      "bytes": 39840
+    },
+    "data/raw/imported/56e78b88cd136373c1af4103e021d426ae9284aacbe35481d8eb323068f27e31.json": {
+      "sha256": "56e78b88cd136373c1af4103e021d426ae9284aacbe35481d8eb323068f27e31",
+      "bytes": 350081
+    },
+    "data/raw/imported/604314e441d1efba81dc93375f90833b070051751f8123c0545e12046dc984ff.body": {
+      "sha256": "604314e441d1efba81dc93375f90833b070051751f8123c0545e12046dc984ff",
+      "bytes": 39309
+    },
+    "data/raw/imported/63379c5e41030c001f7a23c4328b8a9759f7c78315ec18edbaa2ae4e0f33b252.body": {
+      "sha256": "63379c5e41030c001f7a23c4328b8a9759f7c78315ec18edbaa2ae4e0f33b252",
+      "bytes": 38872
+    },
+    "data/raw/imported/65f27213a5a8a3add6ce526bf2906a03d1d6ab42ca115d72f4e9b5f7ceff2b72.json": {
+      "sha256": "65f27213a5a8a3add6ce526bf2906a03d1d6ab42ca115d72f4e9b5f7ceff2b72",
+      "bytes": 289270
+    },
+    "data/raw/imported/66b1c6b1ac348fd1db9ebbe5d44c999a3c923b4de019dd841419966530556276.body": {
+      "sha256": "66b1c6b1ac348fd1db9ebbe5d44c999a3c923b4de019dd841419966530556276",
+      "bytes": 37493
+    },
+    "data/raw/imported/69b018ad24edd1b7329d9d4208b63fb2a7fda9515968f519d43c87395a82cf6b.body": {
+      "sha256": "69b018ad24edd1b7329d9d4208b63fb2a7fda9515968f519d43c87395a82cf6b",
+      "bytes": 148319
+    },
+    "data/raw/imported/69bd44027a0d5038038fa1d562c798171776257b3309059c7763bfb574551e05.body": {
+      "sha256": "69bd44027a0d5038038fa1d562c798171776257b3309059c7763bfb574551e05",
+      "bytes": 177179
+    },
+    "data/raw/imported/707437a2de469ce3c3caab4b2c3d4df4cb7f64c81a4ee97c05eb0528c71024c0.body": {
+      "sha256": "707437a2de469ce3c3caab4b2c3d4df4cb7f64c81a4ee97c05eb0528c71024c0",
+      "bytes": 37114
+    },
+    "data/raw/imported/70f795022c188f44f37834332d453ac294af06ded64fb41fd0994429aecd68ab.json": {
+      "sha256": "70f795022c188f44f37834332d453ac294af06ded64fb41fd0994429aecd68ab",
+      "bytes": 311090
+    },
+    "data/raw/imported/74bac7ea646833fcd9115b952afedfe268814656174d5220c0f5878477ab3877.json": {
+      "sha256": "74bac7ea646833fcd9115b952afedfe268814656174d5220c0f5878477ab3877",
+      "bytes": 324471
+    },
+    "data/raw/imported/751d7dd69635ed0ac37e6069dac5c0d190556adda9ce9f1dd51f8710886af166.body": {
+      "sha256": "751d7dd69635ed0ac37e6069dac5c0d190556adda9ce9f1dd51f8710886af166",
+      "bytes": 38343
+    },
+    "data/raw/imported/76a23e5fd0dcc0da3d6d04e0aa91eed4990f68773e342170002809e89e47404a.body": {
+      "sha256": "76a23e5fd0dcc0da3d6d04e0aa91eed4990f68773e342170002809e89e47404a",
+      "bytes": 143609
+    },
+    "data/raw/imported/7a51f0d6c9f31e07eef2925a1289b66df78774a36f557acc26f0f94f9e9e35e9.json": {
+      "sha256": "7a51f0d6c9f31e07eef2925a1289b66df78774a36f557acc26f0f94f9e9e35e9",
+      "bytes": 275837
+    },
+    "data/raw/imported/82063e5345872527e24739ab6054c41c00ff13bc3c8a5a3c7b1d0c2bf67de33d.json": {
+      "sha256": "82063e5345872527e24739ab6054c41c00ff13bc3c8a5a3c7b1d0c2bf67de33d",
+      "bytes": 293351
+    },
+    "data/raw/imported/8d518be9b92b9fbb8d91d59ab5a2eaab5a196aa025105a282c0de68a4fee04f2.json": {
+      "sha256": "8d518be9b92b9fbb8d91d59ab5a2eaab5a196aa025105a282c0de68a4fee04f2",
+      "bytes": 317180
+    },
+    "data/raw/imported/93377f6010f7f089a4b4743adb56564e95dc1ed89ba117855fa51e6dd9a145ce.body": {
+      "sha256": "93377f6010f7f089a4b4743adb56564e95dc1ed89ba117855fa51e6dd9a145ce",
+      "bytes": 105780
+    },
+    "data/raw/imported/99205c880f29e6e2a228228bfa7bd347d720c48784da9ab889a7a876de3f470c.body": {
+      "sha256": "99205c880f29e6e2a228228bfa7bd347d720c48784da9ab889a7a876de3f470c",
+      "bytes": 160106
+    },
+    "data/raw/imported/992a08cde90b65cd504134cfc98316911717e5fba2e73c971e627814f30ca435.json": {
+      "sha256": "992a08cde90b65cd504134cfc98316911717e5fba2e73c971e627814f30ca435",
+      "bytes": 372046
+    },
+    "data/raw/imported/9f0ff4ca3652983b30aeb79c71990cfc30fe586b6240c020812d4d60fde6fcd0.body": {
+      "sha256": "9f0ff4ca3652983b30aeb79c71990cfc30fe586b6240c020812d4d60fde6fcd0",
+      "bytes": 142594
+    },
+    "data/raw/imported/a04ca2fe0ce2a2ec69ba48f3b3b745028893e97505be388f8c92bedf42a9af46.body": {
+      "sha256": "a04ca2fe0ce2a2ec69ba48f3b3b745028893e97505be388f8c92bedf42a9af46",
+      "bytes": 36380
+    },
+    "data/raw/imported/a1e925bec95a2ae8c5e23eda3c0a1d628cc4cc958594190af6360f471d3532e1.json": {
+      "sha256": "a1e925bec95a2ae8c5e23eda3c0a1d628cc4cc958594190af6360f471d3532e1",
+      "bytes": 347222
+    },
+    "data/raw/imported/a217d45fd51d2f2e0fa47fed0f1f9273bc57217fccbe9db6952af97845ef9f26.body": {
+      "sha256": "a217d45fd51d2f2e0fa47fed0f1f9273bc57217fccbe9db6952af97845ef9f26",
+      "bytes": 148680
+    },
+    "data/raw/imported/af2fb83e4d030ee62344954696ecdd99c468fb2c58feefc1ab0d1885e1a7286f.json": {
+      "sha256": "af2fb83e4d030ee62344954696ecdd99c468fb2c58feefc1ab0d1885e1a7286f",
+      "bytes": 295412
+    },
+    "data/raw/imported/b86446bc205961463fe70423a06e9b1ed3151a678b6418996de72e02ba3f83d2.body": {
+      "sha256": "b86446bc205961463fe70423a06e9b1ed3151a678b6418996de72e02ba3f83d2",
+      "bytes": 150623
+    },
+    "data/raw/imported/bbb802a2569cfe2a061b6d75bd8b17bee04668ff7f9fa0e5ebc156fc4d9a715f.json": {
+      "sha256": "bbb802a2569cfe2a061b6d75bd8b17bee04668ff7f9fa0e5ebc156fc4d9a715f",
+      "bytes": 276571
+    },
+    "data/raw/imported/bc2963a676e9c46277b2faa9de14f496a64757dfea025197e161cd4488268e0d.body": {
+      "sha256": "bc2963a676e9c46277b2faa9de14f496a64757dfea025197e161cd4488268e0d",
+      "bytes": 108261
+    },
+    "data/raw/imported/bd22d0b7c3ecd2ef310e040dc27368e23b7e02c252cfc374c4eab383fa3c88f2.body": {
+      "sha256": "bd22d0b7c3ecd2ef310e040dc27368e23b7e02c252cfc374c4eab383fa3c88f2",
+      "bytes": 40082
+    },
+    "data/raw/imported/bd85b67a3daeb258c121278ff55ac2833ee666772cb704b836bf88f396c1e7af.body": {
+      "sha256": "bd85b67a3daeb258c121278ff55ac2833ee666772cb704b836bf88f396c1e7af",
+      "bytes": 152016
+    },
+    "data/raw/imported/cbb04f94534c5d178bd5ad984884d89514315d43030af72a5ed0a88afb89bd8f.body": {
+      "sha256": "cbb04f94534c5d178bd5ad984884d89514315d43030af72a5ed0a88afb89bd8f",
+      "bytes": 160791
+    },
+    "data/raw/imported/cbe73f9f58cc14015ca1dade07a0da1351a1002078ad0fd61048bd64972aec32.body": {
+      "sha256": "cbe73f9f58cc14015ca1dade07a0da1351a1002078ad0fd61048bd64972aec32",
+      "bytes": 148156
+    },
+    "data/raw/imported/cdf40c6f3082217df387f57bd078f60e30ea079c36ca30f4edc0ed2d39a7c091.body": {
+      "sha256": "cdf40c6f3082217df387f57bd078f60e30ea079c36ca30f4edc0ed2d39a7c091",
+      "bytes": 181472
+    },
+    "data/raw/imported/d286630c9e64f9f565fcd55ad9d890e17008a2ae65e59c55ed9d297eb220bbc6.body": {
+      "sha256": "d286630c9e64f9f565fcd55ad9d890e17008a2ae65e59c55ed9d297eb220bbc6",
+      "bytes": 168364
+    },
+    "data/raw/imported/d73cb18e793ea392553dbad84762af1fdd05a297a1b02f830d4ab108358e7b68.json": {
+      "sha256": "d73cb18e793ea392553dbad84762af1fdd05a297a1b02f830d4ab108358e7b68",
+      "bytes": 277490
+    },
+    "data/raw/imported/dbcc2e63ac6816f6b73fc8df03d762a513455a829afb4354fcf855bf5326bce2.json": {
+      "sha256": "dbcc2e63ac6816f6b73fc8df03d762a513455a829afb4354fcf855bf5326bce2",
+      "bytes": 42204
+    },
+    "data/raw/imported/e295c5e75e4109a113650dafa37e832616bdec262705fb5788b058196f011303.body": {
+      "sha256": "e295c5e75e4109a113650dafa37e832616bdec262705fb5788b058196f011303",
+      "bytes": 41310
+    },
+    "data/raw/imported/e6d7550de0e9fdfefc439b81ec3d1a507070c68e3589eac0e6e39b656029aeef.body": {
+      "sha256": "e6d7550de0e9fdfefc439b81ec3d1a507070c68e3589eac0e6e39b656029aeef",
+      "bytes": 38075
+    },
+    "data/raw/imported/e7a5dba86574b282dd2865718c90990f74bc7a06ede46a0596754591b66d6216.body": {
+      "sha256": "e7a5dba86574b282dd2865718c90990f74bc7a06ede46a0596754591b66d6216",
+      "bytes": 36542
+    },
+    "data/raw/imported/e8d1cfc25d7f0968104f97e6b455d2e3c34688389ef554d099017ad084855486.json": {
+      "sha256": "e8d1cfc25d7f0968104f97e6b455d2e3c34688389ef554d099017ad084855486",
+      "bytes": 328872
+    },
+    "data/raw/imported/eb76e426a209fad87c9538c107ca01d5877c15a7a777b3a2b38b1e3b323cd6df.json": {
+      "sha256": "eb76e426a209fad87c9538c107ca01d5877c15a7a777b3a2b38b1e3b323cd6df",
+      "bytes": 358221
+    },
+    "data/raw/imported/f48038bf45aa936dac1108775ebe6a18f2de7b9a4cc550460237f91b52ae5d95.body": {
+      "sha256": "f48038bf45aa936dac1108775ebe6a18f2de7b9a4cc550460237f91b52ae5d95",
+      "bytes": 204898
+    },
+    "data/raw/imported/f73638f7ba42efaadefca72a716edb794a4a0ef55dcdd5239f9b366c9ae98110.json": {
+      "sha256": "f73638f7ba42efaadefca72a716edb794a4a0ef55dcdd5239f9b366c9ae98110",
+      "bytes": 296277
+    },
+    "data/reviews_v2.xlsx": {
+      "sha256": "19e61a67fa4f2c3dca9a46b87c9272e9c957e09ccf90600766857cb3d741b042",
+      "bytes": 198436
+    },
+    "data/stores/apple_app_store_bochk.csv": {
+      "sha256": "59711531ec142c51720129279865b319589fd174ce022882b4040a62cdb714a0",
+      "bytes": 61600
+    },
+    "data/stores/apple_app_store_bochk.json": {
+      "sha256": "90ac460eb6e78018a80052c49f7a1e2e470b03606ccc8eb9719960c0f4b68beb",
+      "bytes": 136172
+    },
+    "data/stores/apple_app_store_english_reviews.csv": {
+      "sha256": "6ff5d92353390858a4cbb918e1de3d65462f85af10700df4cf0e4a54d46c900a",
+      "bytes": 248622
+    },
+    "data/stores/apple_app_store_english_reviews.json": {
+      "sha256": "dd6ac4d23b0c21b0622dc156c5a533b9e45e5903d58687b08abdaada2cd4bd6d",
+      "bytes": 653322
+    },
+    "data/stores/apple_app_store_hsbc_hk.csv": {
+      "sha256": "ce0b0f48d7ba33cdb4e10c2af01c0b862b03f2d832537c2cef373c7be14a7915",
+      "bytes": 126665
+    },
+    "data/stores/apple_app_store_hsbc_hk.json": {
+      "sha256": "71e9bec07c60637fb9d8cf6ef331cdd09298779ba505030cd598489c89bf88e8",
+      "bytes": 359618
+    },
+    "data/stores/apple_app_store_sc_mobile.csv": {
+      "sha256": "17aa9a9cd60bd27b48aadefc32210656c34ae2a7c00b1b3bcb0bb63aaa35a308",
+      "bytes": 61893
+    },
+    "data/stores/apple_app_store_sc_mobile.json": {
+      "sha256": "6d713616380f0410219dd23beba0f51a03a12c7b342f39a229705a5a4c066fe5",
+      "bytes": 157538
+    },
+    "data/stores/google_play_bochk.csv": {
+      "sha256": "698b0833385f1c781efc9b7138e54882f6b0b897ac854891da6d75e50f81b6cb",
+      "bytes": 46573
+    },
+    "data/stores/google_play_bochk.json": {
+      "sha256": "326e3be0b605565e8e1cbff906705f90d383e0baa38c289289e0e4552acd1e61",
+      "bytes": 109809
+    },
+    "data/stores/google_play_english_reviews.csv": {
+      "sha256": "74d2f1c624ce463a1842bf0651ffa208a13987cb78567e46176dd30e280958e3",
+      "bytes": 215143
+    },
+    "data/stores/google_play_english_reviews.json": {
+      "sha256": "843294fbe6d5ae149f9a6b432d280490567edb84d9efb55c428ad52d55747a30",
+      "bytes": 581424
+    },
+    "data/stores/google_play_hsbc_hk.csv": {
+      "sha256": "61e72e4c7b06fcfe0cbc73e98c644e3bb5efa5b349f30e564e787d4426fa58d1",
+      "bytes": 96184
+    },
+    "data/stores/google_play_hsbc_hk.json": {
+      "sha256": "4dcea009f3db044aa5eca896b0da2afe27d4b595fccb0de14b652c3b3c95c891",
+      "bytes": 292987
+    },
+    "data/stores/google_play_sc_mobile.csv": {
+      "sha256": "2e9ebd7cb10733406a07b19329c60382a658e94f1afe2dd2b2946ea711cd00f7",
+      "bytes": 73922
+    },
+    "data/stores/google_play_sc_mobile.json": {
+      "sha256": "465ed16976d93b6ec90e23af1ea448772bf25d267ea42c21eee488f4b4597296",
+      "bytes": 178634
+    },
+    "data_dictionary.md": {
+      "sha256": "65c0ceb70a38b805e37d3416ec864441f7eccf7f640ccc9dd92a6cb1ce229914",
+      "bytes": 4167
+    },
+    "engine/apple_parser.py": {
+      "sha256": "34c43a9a6d53673648e642f5c733c375bcf47d44eb6e0ce8996c6891a2be6277",
+      "bytes": 1969
+    },
+    "engine/browser_check.py": {
+      "sha256": "519bb6fc456d7aaa2ce656fef384a9ff04057dcad0146caf99e59f4f6043bf3a",
+      "bytes": 8112
+    },
+    "engine/build_report.py": {
+      "sha256": "781e95d3b763d31b63571535e3492442a1ca49eb0d1d0d2c7bbdc2e334e0f528",
+      "bytes": 11032
+    },
+    "engine/collect_reviews.py": {
+      "sha256": "990ae1ee5c0507aeb9f8b91e4b2f54f468302c954680ac7d4727de002faa1ca4",
+      "bytes": 12168
+    },
+    "engine/extract_project_resources.py": {
+      "sha256": "8f558522e8449920806d0323ec5ffb91fc0113ed060c77fcc2b71361829557ff",
+      "bytes": 4340
+    },
+    "engine/feedback_io.py": {
+      "sha256": "3135218b38abb6c92c281d9a5c06c25de608d53952f82b91e7513d990095d38e",
+      "bytes": 10067
+    },
+    "engine/package_skill.py": {
+      "sha256": "1ac8b9a4ade639e48fe9d501cf018fa86e3a4a954fb45cb013be7ea9890f8bfa",
+      "bytes": 2485
+    },
+    "engine/run_feedback.py": {
+      "sha256": "2f69fb9ba9355e38cc520403694ccbbaa7d743e4e0f3d849b1bb4f9598ce7e72",
+      "bytes": 23639
+    },
+    "engine/source_utils.py": {
+      "sha256": "ee3e0435ee49471f233acbc920d221c96614a153411b60447900ff929f6cee66",
+      "bytes": 2921
+    },
+    "engine/test_workflow.py": {
+      "sha256": "eb065e506e8023f426d30dac327efa1321d80d3e2198b4c5484a87c10292e196",
+      "bytes": 10916
+    },
+    "engine/theme_rules.py": {
+      "sha256": "2518be03fc6f4bdcdeb961e97f5ffe6248a25030299a4198b37982e579cae8bc",
+      "bytes": 13154
+    },
+    "engine/verify_report.py": {
+      "sha256": "46cccf639289fb4347850a24a8d9131c2d9bf62ea26dd25bbef3f31bc2cb3afb",
+      "bytes": 10707
+    },
+    "engine/xlsx_core.py": {
+      "sha256": "6e327efd90f55930c23a5e6213c39775dacda13aabf24f303f32713e865b0c83",
+      "bytes": 3080
+    },
+    "executive_summary.md": {
+      "sha256": "0285f5448e139b6210fad6dc395ea9f0966c5270f9ddf4cc30e7f4a713738207",
+      "bytes": 2849
+    },
+    "handover.md": {
+      "sha256": "96b10761ad1d2db5e3643be877db9c4a90a8c32f63c19d709c9fd91c6684fdd5",
+      "bytes": 1838
+    },
+    "language_overrides.json": {
+      "sha256": "4d085902774e59725960636c8b23c6c5e0628abca0b26ba8dfcad604f63273d7",
+      "bytes": 3408
+    },
+    "manual_review.json": {
+      "sha256": "37f8336f7ffaa3725405b2659c8bcacf04c0418d5b1038aa4630902a7076212d",
+      "bytes": 13593
+    },
+    "methodology.md": {
+      "sha256": "1f0c7c04eb633237ea06c778ac566fee11b11775db5ee92a930a62a3727d7764",
+      "bytes": 3469
+    },
+    "plan.md": {
+      "sha256": "f731fde746ecff573fef56bbaa6b84724e70e60b8ed1e2b22ab568e42f5adc01",
+      "bytes": 1222
+    },
+    "README.md": {
+      "sha256": "8e1247d32d93010a4380da3286aa917622e6a97685609cf6ed9fa36f8bd89e83",
+      "bytes": 1905
+    },
+    "report_customer_feedback_v2.html": {
+      "sha256": "adc2b1afa4c1d80c8b5b8347feaaf2972f663977444d4d81cc022dacd8a1ccca",
+      "bytes": 348779
+    },
+    "reproduction.md": {
+      "sha256": "3f4adb45c3584949e2a2765722ff3d0cef0eb08f1b08d46d6c7c5cf6719cb7e9",
+      "bytes": 1320
+    },
+    "requirements-collection.txt": {
+      "sha256": "a9fdc37a2062df410139072c1d370dbb0c9b6825971dbf5528c736b917cff9eb",
+      "bytes": 47
+    },
+    "review_judgments.json": {
+      "sha256": "bf5a8ea014e4829d68382e7d7af0b8bafd4c12db8c6281bfab24c64777651338",
+      "bytes": 7737
+    },
+    "screenshots/apple_app_store_overview.png": {
+      "sha256": "1d9e0901c737bd07f2e62edb6b5e6d63814e3b2d9f442eba0b1ddb64693d71b9",
+      "bytes": 113004
+    },
+    "screenshots/apple_comments.png": {
+      "sha256": "cc36c193a76d11c48f86f5f8a1c1ab3e8ff8744c3015f866a7861c89088d24a0",
+      "bytes": 81586
+    },
+    "screenshots/apple_topics.png": {
+      "sha256": "e5db8864d430b366b4f04586c5602e56a1852f5aba77bea40fcef4f20a3681c7",
+      "bytes": 96078
+    },
+    "screenshots/google_play_overview.png": {
+      "sha256": "fac5c6c2640f3df4cf7884c8c521f83a7ebbc410495c7e01e4aee82855331062",
+      "bytes": 115864
+    },
+    "screenshots/narrow_google_play.png": {
+      "sha256": "c1c57f8f65889c191042cf3899f491e4f465603da9c7927835be6d11f9eb1a3c",
+      "bytes": 70745
+    },
+    "scripts/browser_check.py": {
+      "sha256": "fe216016824569cdafd63b8389c1079de17292f45b82fc5c016b9a8780c01b46",
+      "bytes": 12444
+    },
+    "scripts/collect_bochk.py": {
+      "sha256": "cee86cfa19d739c872feb9b72e6117364e5b78d2110f9a068087e78a4b3879bd",
+      "bytes": 2953
+    },
+    "scripts/pipeline.py": {
+      "sha256": "ba1fb27019f06ec331fc3e33aac56dbc7a85ffb43da05f8d7d92ad0c86727ff9",
+      "bytes": 37915
+    },
+    "scripts/record_review.py": {
+      "sha256": "664ab383de117cf6ab86a4a18f5d038f18410e6f390472266882bd70a46bdf30",
+      "bytes": 1118
+    },
+    "scripts/v2_rules.py": {
+      "sha256": "9c2e5eca5cf523316f57dfa3ea21d12ef6672f59dbfaa0043ef43281bdd6d354",
+      "bytes": 854
+    },
+    "validation/browser_results.json": {
+      "sha256": "895f38aff2d4adcca95b8739293bbce63caabdd9e292a3a2ba1aa3dcfd77355a",
+      "bytes": 966
+    },
+    "validation/static_results.json": {
+      "sha256": "a96d5c89bbe383e311f0548db1828fc672c38e0a01062f36554bc736a0cf1e10",
+      "bytes": 1796
+    },
+    "validation/visual_inspection.json": {
+      "sha256": "ff3114879e75a39cb3e661cc1581ba0e005ceba16fc1556f0f69db06513ef78f",
+      "bytes": 2119
+    }
+  },
+  "limitations": "Manifest excludes itself; hashes establish file integrity, not representativeness or accuracy."
+}

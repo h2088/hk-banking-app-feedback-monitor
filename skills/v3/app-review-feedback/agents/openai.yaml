@@ -1,0 +1,4 @@
+interface:
+  display_name: "香港银行应用中英文评论监测"
+  short_description: "合并分析香港银行中英文评论，按应用商店分别对比多个 benchmark，生成英文报告和月度监测图"
+  default_prompt: "使用 $app-review-feedback，读取配置和已有批次，按 A–F 流程监测 SC Mobile、HSBC HK 与 BOCHK 的中英文评论。Google Play 与 Apple 分开，中英文合并，输出英文报告并保留月度横向蓝色图。"

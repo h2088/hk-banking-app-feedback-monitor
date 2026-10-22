@@ -1,0 +1,38 @@
+[
+  {
+    "platform": "Google Play",
+    "primary": "SC Mobile",
+    "benchmark": "HSBC HK",
+    "primary_n": 48,
+    "benchmark_n": 92,
+    "mean_rating_difference_sc_minus_benchmark": -1.2364,
+    "low_star_rate_difference_percentage_points": 34.9637
+  },
+  {
+    "platform": "Google Play",
+    "primary": "SC Mobile",
+    "benchmark": "BOCHK",
+    "primary_n": 48,
+    "benchmark_n": 47,
+    "mean_rating_difference_sc_minus_benchmark": -0.7061,
+    "low_star_rate_difference_percentage_points": 24.0248
+  },
+  {
+    "platform": "Apple App Store",
+    "primary": "SC Mobile",
+    "benchmark": "HSBC HK",
+    "primary_n": 50,
+    "benchmark_n": 121,
+    "mean_rating_difference_sc_minus_benchmark": -0.8536,
+    "low_star_rate_difference_percentage_points": 18.1983
+  },
+  {
+    "platform": "Apple App Store",
+    "primary": "SC Mobile",
+    "benchmark": "BOCHK",
+    "primary_n": 50,
+    "benchmark_n": 60,
+    "mean_rating_difference_sc_minus_benchmark": -0.4967,
+    "low_star_rate_difference_percentage_points": 12.0
+  }
+]

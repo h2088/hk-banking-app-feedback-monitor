@@ -1,0 +1,198 @@
+{
+  "captured_at_utc": "2026-10-22T05:53:18.843421+00:00",
+  "crawls": [
+    {
+      "app_key": "sc_mobile",
+      "platform": "Google Play",
+      "request_language": "zh-HK",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 2,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 3,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        }
+      ],
+      "duplicates": 0,
+      "started_at_utc": "2026-10-22T05:52:57.477305+00:00",
+      "listing_snapshot": "data/raw/google_play/sc_mobile/listing_attempt1.body",
+      "stop_reason": "two_pages_before_window",
+      "status": "collected",
+      "records": 600,
+      "finished_at_utc": "2026-10-22T05:53:04.261739+00:00"
+    },
+    {
+      "app_key": "hsbc_hk",
+      "platform": "Google Play",
+      "request_language": "zh-HK",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 2,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 3,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        }
+      ],
+      "duplicates": 0,
+      "started_at_utc": "2026-10-22T05:52:57.477555+00:00",
+      "listing_snapshot": "data/raw/google_play/hsbc_hk/listing_attempt1.body",
+      "stop_reason": "two_pages_before_window",
+      "status": "collected",
+      "records": 600,
+      "finished_at_utc": "2026-10-22T05:53:04.279528+00:00"
+    },
+    {
+      "app_key": "bochk",
+      "platform": "Google Play",
+      "request_language": "zh-HK",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 2,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 3,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 4,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        }
+      ],
+      "duplicates": 0,
+      "started_at_utc": "2026-10-22T05:53:04.309262+00:00",
+      "listing_snapshot": "data/raw/google_play/bochk/listing_attempt1.body",
+      "stop_reason": "two_pages_before_window",
+      "status": "collected",
+      "records": 800,
+      "finished_at_utc": "2026-10-22T05:53:12.553316+00:00"
+    },
+    {
+      "app_key": "sc_mobile",
+      "platform": "Google Play",
+      "request_language": "zh-CN",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 2,
+          "returned": 185,
+          "new_unique": 185,
+          "has_next_token": false
+        }
+      ],
+      "duplicates": 0,
+      "started_at_utc": "2026-10-22T05:53:04.313018+00:00",
+      "listing_snapshot": "data/raw/google_play/sc_mobile/listing_attempt1.body",
+      "stop_reason": "endpoint_exhausted_for_request_parameters",
+      "status": "collected",
+      "records": 385,
+      "finished_at_utc": "2026-10-22T05:53:08.699742+00:00"
+    },
+    {
+      "app_key": "hsbc_hk",
+      "platform": "Google Play",
+      "request_language": "zh-CN",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 2,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 3,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        }
+      ],
+      "duplicates": 0,
+      "started_at_utc": "2026-10-22T05:53:08.708789+00:00",
+      "listing_snapshot": "data/raw/google_play/hsbc_hk/listing_attempt1.body",
+      "stop_reason": "two_pages_before_window",
+      "status": "collected",
+      "records": 600,
+      "finished_at_utc": "2026-10-22T05:53:15.013257+00:00"
+    },
+    {
+      "app_key": "bochk",
+      "platform": "Google Play",
+      "request_language": "zh-CN",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 2,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 3,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        }
+      ],
+      "duplicates": 0,
+      "started_at_utc": "2026-10-22T05:53:12.576213+00:00",
+      "listing_snapshot": "data/raw/google_play/bochk/listing_attempt1.body",
+      "stop_reason": "two_pages_before_window",
+      "status": "collected",
+      "records": 600,
+      "finished_at_utc": "2026-10-22T05:53:18.749239+00:00"
+    }
+  ],
+  "limitations": "Two Chinese request locales in HK; responses overlap and are deduplicated by review ID. Request language does not guarantee comment language, completeness or author location. Apple all-language RSS snapshots are reused, not recollected."
+}

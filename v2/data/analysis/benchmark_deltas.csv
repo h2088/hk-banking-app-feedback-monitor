@@ -1,0 +1,5 @@
+﻿platform,primary,benchmark,primary_n,benchmark_n,mean_rating_difference_sc_minus_benchmark,low_star_rate_difference_percentage_points
+Google Play,SC Mobile,HSBC HK,48,92,-1.2364,34.9637
+Google Play,SC Mobile,BOCHK,48,47,-0.7061,24.0248
+Apple App Store,SC Mobile,HSBC HK,50,121,-0.8536,18.1983
+Apple App Store,SC Mobile,BOCHK,50,60,-0.4967,12.0

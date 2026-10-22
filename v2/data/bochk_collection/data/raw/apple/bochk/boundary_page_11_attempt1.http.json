@@ -1,0 +1,15 @@
+{
+  "requested_url": "https://itunes.apple.com/hk/rss/customerreviews/page=11/id=1534534188/sortBy=mostRecent/json",
+  "method": "GET",
+  "attempt": 1,
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9"
+  },
+  "request_body": null,
+  "started_at_utc": "2026-10-22T04:26:34.496702+00:00",
+  "error": "HTTPError: HTTP Error 400: Bad Request",
+  "status": 400,
+  "sha256": "f075229560d77be2edec569af9702cb7e60d1c86e481f0a1dbdc6ef882c0690f",
+  "bytes": 67
+}

@@ -1,0 +1,848 @@
+[
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:5f83fbbc-a93d-4d43-93df-941558309c64",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "analysis_language": "english",
+    "rating": 1,
+    "review_time_hk": "2026-10-16T09:25:03+08:00",
+    "title": null,
+    "text": "the app force closed unexpectedly after the update, can't even manage anything. please fix ASAP",
+    "rating_sentiment": "negative",
+    "themes": [
+      "app_stability_performance"
+    ],
+    "theme_labels": [
+      "App stability / performance"
+    ],
+    "fingerprint": "39eeac7c1957265eb94c436ca7ae2ac2d80486945a20f7d3ecb4a6e28b7f8c1b"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:8eb25231-7a8a-4589-a2e0-9810b1238107",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "analysis_language": "english",
+    "rating": 5,
+    "review_time_hk": "2026-10-06T20:13:22+08:00",
+    "title": null,
+    "text": "good",
+    "rating_sentiment": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "bd8408499479cbfe31126a03229165f56c09d9dda4dff8570854ac0d42b3c933"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:84f5cac4-9de6-45d4-a52c-7cc9053ca9fd",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "analysis_language": "chinese",
+    "rating": 1,
+    "review_time_hk": "2026-10-15T20:39:46+08:00",
+    "title": null,
+    "text": "最近登入時經常閃退,非常不便,幾時先會整好",
+    "rating_sentiment": "negative",
+    "themes": [
+      "app_stability_performance",
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "App stability / performance",
+      "Login / authentication / access"
+    ],
+    "fingerprint": "66e9360baca1c79f690d34ee9f952119601cb64a3dc9d5e0c6fdb0ddde734103"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:6878b88c-71a8-40a6-9c16-890ea421f2d9",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "analysis_language": "chinese",
+    "rating": 3,
+    "review_time_hk": "2026-10-06T14:51:08+08:00",
+    "title": null,
+    "text": "在這渣打手机銀行做即時轉賬，實則已轉數完成，但渣打未能顯示同步，慢很多拍。 基本都是慢，令人誤會轉賬失敗。 系統未完善，速度未能同步！",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "app_stability_performance",
+      "transfers_payments_cards"
+    ],
+    "theme_labels": [
+      "App stability / performance",
+      "Transfers / payments / cards"
+    ],
+    "fingerprint": "ea88b0b040c9b00555340de977cbaf0f9c90a6ef53dc77cf2e8b9360ecb1544e"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:20ce6dca-1243-41bd-ab1a-9dfbf815b048",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "analysis_language": "chinese",
+    "rating": 5,
+    "review_time_hk": "2026-10-09T21:09:11+08:00",
+    "title": null,
+    "text": "好用！",
+    "rating_sentiment": "positive",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "41fab0e61cb9a2013877590c93def6e5cb2e4224eb5c407c18c490291fe87027"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:5aff2125-6679-4f56-a7af-1332ebf52dc4",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "analysis_language": "mixed",
+    "rating": 1,
+    "review_time_hk": "2026-10-17T10:09:11+08:00",
+    "title": null,
+    "text": "請問已經Log in SC Mobile, 由SC Mobile click 入股票，請不要再發出Log in 的推送通知，例如\"You successfully log in\" , 最初由SC Mobile click 入股票網頁，根本沒有推送通知，後來阿茂整餅，click 入股票網頁，多了推送通知，根本就REDUNDANT, 根本沒有需要，這個通知屬於Disturbing！",
+    "rating_sentiment": "negative",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "6c0ba39f300ec45f42b7e3396d37597dbe6f05aeb61d2e78ad74e80824455e96"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:4fb05025-1f65-4a1f-8566-99af6b21a7f3",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "analysis_language": "mixed",
+    "rating": 3,
+    "review_time_hk": "2026-10-15T06:41:17+08:00",
+    "title": null,
+    "text": "個 app 間中入曬 username，password之後就閃退，會令人唔安心。見到其他 comments 都有提過呢個問題。同埋希望轉款後或開新戶口之後可以 screen cap.",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "app_stability_performance",
+      "login_authentication_access",
+      "transfers_payments_cards",
+      "account_registration",
+      "feature_request"
+    ],
+    "theme_labels": [
+      "App stability / performance",
+      "Login / authentication / access",
+      "Transfers / payments / cards",
+      "Account / registration",
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "d0a5a9cb67536669c56b8f9d0ecaa745480ade58cd0e228958d7431f01e0eb13"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:277e0a3b-bb79-4c38-81df-a23252b56ff5",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "analysis_language": "english",
+    "rating": 1,
+    "review_time_hk": "2026-10-15T02:39:51+08:00",
+    "title": null,
+    "text": "poor verification process",
+    "rating_sentiment": "negative",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "3e4a317da25ca692579773566c518b1e2a5fd998a1f1afec3a986ca9926a00df"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:09c9c1ad-9052-43be-9194-f8cfaa522ace",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "analysis_language": "english",
+    "rating": 3,
+    "review_time_hk": "2026-10-14T17:02:18+08:00",
+    "title": null,
+    "text": "For security purposes, maybe you should remove the users name at the welcoming screen. Someone could look over your shsoulder when and if you use the app in public and have a thread to pull on when doxxing you.",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "security_fraud_trust"
+    ],
+    "theme_labels": [
+      "Security / fraud / trust"
+    ],
+    "fingerprint": "252a27dec49513f3022472ca392ec2f544f0ca665b90c31d3932f726399f9a12"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:cbd4aa1d-7f2c-459d-a546-ebe90ae3a7d2",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "analysis_language": "english",
+    "rating": 5,
+    "review_time_hk": "2026-10-19T10:05:28+08:00",
+    "title": null,
+    "text": "Fast and Great",
+    "rating_sentiment": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "3864110cd0013209e16153c8f4dc6a970f4ee4a4b0a615369a5a5001468664f0"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:8c41b492-8b81-40f4-a124-bd704b8a407a",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "analysis_language": "chinese",
+    "rating": 1,
+    "review_time_hk": "2026-10-17T12:59:00+08:00",
+    "title": null,
+    "text": "不是汇丰你啥意思啊 scene无障碍有问题我认 但是啥叫GameBooster+有问题嗎啊??? 你到底知不知道啥是三星官方啊??? 我都不奢求你检查啥是官方啥是非官方了估计你们这群大白饭的也不会写 但是无视风险继续安装都没有真是被气笑了 真就宁可错杀一万也不放过一人是吧 一星是因为最低只能一星",
+    "rating_sentiment": "negative",
+    "themes": [
+      "security_fraud_trust"
+    ],
+    "theme_labels": [
+      "Security / fraud / trust"
+    ],
+    "fingerprint": "4c91ecd0e9905ecbdeda810d6db5b4442a79eeb6fa61b24cf382ebc06f9b68ad"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:1151361d-f4e8-4f74-97ee-74684127163b",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "analysis_language": "chinese",
+    "rating": 3,
+    "review_time_hk": "2026-09-28T06:18:49+08:00",
+    "title": null,
+    "text": "唔好用",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "89ad061cd5ffa60f56d76804e5083fc3d54d844bbfed286663f09fa0492a8347"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:4a1aae14-533d-4aaa-8acc-8dbd4cff0986",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "analysis_language": "chinese",
+    "rating": 5,
+    "review_time_hk": "2026-10-18T22:06:52+08:00",
+    "title": null,
+    "text": "方便快速",
+    "rating_sentiment": "positive",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "65e5a72799fbca350a3db98a3ac02f0c7cb580e268b6c3bafdc0277855166e25"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:04ccf447-8284-4b5e-bb96-2a7848c9d503",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "analysis_language": "mixed",
+    "rating": 1,
+    "review_time_hk": "2026-09-02T13:21:15+08:00",
+    "title": null,
+    "text": "新版本在小米新系统上会闪退。汇丰香港版本 3.73.5，小米系统版本 HyperOS 4.0.0.25.XPBCNXM.D00 Beta，机型小米 17ProMax",
+    "rating_sentiment": "negative",
+    "themes": [
+      "app_stability_performance"
+    ],
+    "theme_labels": [
+      "App stability / performance"
+    ],
+    "fingerprint": "55e8e23ff709072eb35054171e46ea3090109f1fb8f581302b1fe67fb576e865"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:44f15816-5447-4ea6-b518-fdf3388bf759",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "analysis_language": "mixed",
+    "rating": 3,
+    "review_time_hk": "2026-05-22T07:40:29+08:00",
+    "title": null,
+    "text": "logoff 時請減少一些 animation 以加快操作時間及 android 不能按 back button 退出 hsbc app",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "usability_navigation_design",
+      "feature_request"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design",
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "cdf6291949c1c0cb20b4c461065ef2e82de4a98a68e550754ada05c05a25f102"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:9fbe6621-ba0b-4244-820e-87add985d74e",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "analysis_language": "english",
+    "rating": 1,
+    "review_time_hk": "2026-10-18T23:11:18+08:00",
+    "title": null,
+    "text": "not user friendly",
+    "rating_sentiment": "negative",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "59b43f391993d4c7f79260e47f3a95b8b4450ea958d0fe5d226c6c6e388be69b"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:f9ca5de9-59b1-4365-8d4b-c1576bc99313",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "analysis_language": "english",
+    "rating": 3,
+    "review_time_hk": "2026-09-14T16:26:11+08:00",
+    "title": null,
+    "text": "Face recognition is poor",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "7b8b4c0e5620459ee72812ee21d8f8eb1112a15c71ae02e5fbac13f69b2e63d2"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:96f2d448-a4ca-4096-a588-430fbc621f58",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "analysis_language": "english",
+    "rating": 5,
+    "review_time_hk": "2026-10-15T17:42:40+08:00",
+    "title": null,
+    "text": "good",
+    "rating_sentiment": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "c36b92f4a4cd3520b75c300d53f5fb40df7b1dd8302422529c3edb69d14d52a5"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:f4013769-8b16-49c4-95c3-6f15072d6c9c",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "analysis_language": "chinese",
+    "rating": 1,
+    "review_time_hk": "2026-10-18T14:05:18+08:00",
+    "title": null,
+    "text": "非常差",
+    "rating_sentiment": "negative",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "04511a9fbeeb7c98743a4f726136b5bc124f6b9308bad4b984674d049d4b1e70"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:098d121c-e1d2-4d13-a78d-df50eaa79499",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "analysis_language": "chinese",
+    "rating": 3,
+    "review_time_hk": "2026-10-17T18:29:44+08:00",
+    "title": null,
+    "text": "太卡顿了",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "app_stability_performance"
+    ],
+    "theme_labels": [
+      "App stability / performance"
+    ],
+    "fingerprint": "e635cd224b5c77e516eb8a90cae29c446c0d612b376f5b6af7633d2326503901"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:3b73e606-244d-4afe-a435-c51859eaed16",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "analysis_language": "chinese",
+    "rating": 5,
+    "review_time_hk": "2026-10-19T14:45:50+08:00",
+    "title": null,
+    "text": "介面容易操作",
+    "rating_sentiment": "positive",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "d6e651fd8f4d9afe6f04a26d6f747eaf4d2450d8858c785c6da7a97997fc2d8e"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:4cc08159-e2a6-4bda-9c89-904a8643c8c0",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "analysis_language": "mixed",
+    "rating": 1,
+    "review_time_hk": "2026-08-30T23:21:50+08:00",
+    "title": null,
+    "text": "2026 仲唔肯轉用緊 user name 同 password 做login。 無言。",
+    "rating_sentiment": "negative",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "ca2b5720a8ac871412fad18d6f89dec60c4e17f24c18f98c2c60c011d526aacc"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:7c1cae5a-e06a-46a2-8fbe-610ea2af42f0",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "analysis_language": "mixed",
+    "rating": 3,
+    "review_time_hk": "2026-08-17T00:31:42+08:00",
+    "title": null,
+    "text": "新版本增加了校验，这个软件会扫描你手机里的包名，如果出现了他认为的风险软件，直接闪退报code 22，如果开启了开发者模式或者他会扫描进程中正在运行他认为不应该出现的软件，也会闪退报code 33，如果你手机解锁了bootloader（俗称BL锁）他就会闪退报code 0，尤其是一加手机解锁后tee假死，无法通过谷歌三绿，要么闪退，要么只能用流动安保编码登录，用指纹登录一定闪退",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "app_stability_performance",
+      "login_authentication_access",
+      "security_fraud_trust",
+      "feature_request"
+    ],
+    "theme_labels": [
+      "App stability / performance",
+      "Login / authentication / access",
+      "Security / fraud / trust",
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "a9ff1f13cbdf31ad7304ed77116ef10904d7c5ba5d579b03981b161152fe6256"
+  },
+  {
+    "record_key": "apple:445795688:14615873095",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "analysis_language": "english",
+    "rating": 1,
+    "review_time_hk": "2026-10-02T02:03:38+08:00",
+    "title": "Ms Chau",
+    "text": "In these recent App updates, you keep changing the layout. It makes it hard to locate. Why makes it not easy for user to use? And the fonts because very small. The app is unable to enlarge. OMG ! Why make it difficult????\n\n\nFeel like crazy. This is unable to find and unable to read. Is this updated not going for user to use??? If I want an urgent suspense of my credit card due to suspected Scam Now get no way to read and no where to find. This is really a very poor App  update  and poor design ever seen from any of Bank App",
+    "rating_sentiment": "negative",
+    "themes": [
+      "transfers_payments_cards",
+      "usability_navigation_design",
+      "security_fraud_trust"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards",
+      "Usability / navigation / design",
+      "Security / fraud / trust"
+    ],
+    "fingerprint": "e03aab09c9fcc07a66e230e0a4557bb1432d32214a94256cd2f0728a275bc0ba"
+  },
+  {
+    "record_key": "apple:445795688:14625921365",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "analysis_language": "english",
+    "rating": 3,
+    "review_time_hk": "2026-10-04T16:32:48+08:00",
+    "title": "UX in iphone 17 pro need to be improved",
+    "text": "Investment questionare ux flow do not render properly on iphone 17 pro, and it exceeded the application viewport. Users have to check the entire questionaire just to find the close questionare button.",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "47f1090cd5de0e1c2d82d1ad54560b7ef3a2db93a798235f62c87a33e8846063"
+  },
+  {
+    "record_key": "apple:445795688:14525319418",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "analysis_language": "english",
+    "rating": 5,
+    "review_time_hk": "2026-09-08T21:39:55+08:00",
+    "title": "Easy",
+    "text": "Easy to make",
+    "rating_sentiment": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "b8f2cbed818e32651209409b32231236a2ab910599d16a073311c5f0b33eed08"
+  },
+  {
+    "record_key": "apple:445795688:14661795361",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "analysis_language": "chinese",
+    "rating": 1,
+    "review_time_hk": "2026-10-13T21:53:43+08:00",
+    "title": "垃圾app",
+    "text": "忘記密碼要用碌條款，但係又會彈app 有病",
+    "rating_sentiment": "negative",
+    "themes": [
+      "app_stability_performance",
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "App stability / performance",
+      "Login / authentication / access"
+    ],
+    "fingerprint": "00c894999db50114187f8017eaa46c0c0048b1ea111c0528831ff77af8993ed1"
+  },
+  {
+    "record_key": "apple:445795688:14525509706",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "analysis_language": "chinese",
+    "rating": 3,
+    "review_time_hk": "2026-09-08T22:35:22+08:00",
+    "title": "太多圖像經常需要等待",
+    "text": "需要減低圖像及動畫，減少等待時間，登入需時太長",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "app_stability_performance",
+      "login_authentication_access",
+      "feature_request"
+    ],
+    "theme_labels": [
+      "App stability / performance",
+      "Login / authentication / access",
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "623f103ca79de70ecc086203982e0887d09c49d73fdb92e74f73ba171ee227e9"
+  },
+  {
+    "record_key": "apple:445795688:14617373235",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "analysis_language": "chinese",
+    "rating": 5,
+    "review_time_hk": "2026-10-02T11:37:15+08:00",
+    "title": "版面容易操作",
+    "text": "版面選擇容易處理",
+    "rating_sentiment": "positive",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "8729767e8fe1ede751a81fd08d3e7c44040eae7161c79d35ed5f2c47021367dd"
+  },
+  {
+    "record_key": "apple:445795688:14669812472",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "analysis_language": "mixed",
+    "rating": 1,
+    "review_time_hk": "2026-10-15T22:48:31+08:00",
+    "title": "垃圾marketing",
+    "text": "垃圾marketing，搞個乜鬼刮刮抽獎，寧願你比一蚊我，甚至同我講多謝惠顧，都唔好俾啲垃圾我。乜鬼嘢仲要俾錢購買三個月KKBOX會員？\n\n邊個搞㗎呢個campaign？返去炒咗佢啦。而家就係比一星你哋。",
+    "rating_sentiment": "negative",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "910bab48c1204d3630245511af1f6f2c26821deb1578bbade46fc049f9800860"
+  },
+  {
+    "record_key": "apple:1164066737:14640444470",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "analysis_language": "english",
+    "rating": 1,
+    "review_time_hk": "2026-10-08T10:46:51+08:00",
+    "title": "Counterintuitive",
+    "text": "It always says “there is an error” without specifying what the error is. Very annoying",
+    "rating_sentiment": "negative",
+    "themes": [
+      "app_stability_performance"
+    ],
+    "theme_labels": [
+      "App stability / performance"
+    ],
+    "fingerprint": "ce4b8bdd0437320ad61f17cb6398f6e1b0ef2d7e62589877584442bf19707a24"
+  },
+  {
+    "record_key": "apple:1164066737:14456416671",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "analysis_language": "english",
+    "rating": 3,
+    "review_time_hk": "2026-08-22T06:10:12+08:00",
+    "title": "Combine",
+    "text": "I strongly suggest that the financial services should be combined in a single app ie mobile banking, Reward +, PayMe, investment as they consume a lot of storage in the mobile phone.",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "feature_request"
+    ],
+    "theme_labels": [
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "df2c4b4bb2eb3604913067f08619ac197e0f4d5cadac1e5415db541e3180cdf6"
+  },
+  {
+    "record_key": "apple:1164066737:14647781158",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "analysis_language": "english",
+    "rating": 5,
+    "review_time_hk": "2026-10-10T08:21:26+08:00",
+    "title": "Nice",
+    "text": "Good",
+    "rating_sentiment": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "2950260e402e90d6731adbdc59132873935b7d2a6da15bedaa242005425b0302"
+  },
+  {
+    "record_key": "apple:1164066737:14663966016",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "analysis_language": "chinese",
+    "rating": 1,
+    "review_time_hk": "2026-10-14T10:21:48+08:00",
+    "title": "入唔到",
+    "text": "開app一直loading，然後彈未能提供服務，完全用唔到，幾粒鐘都係咁",
+    "rating_sentiment": "negative",
+    "themes": [
+      "app_stability_performance"
+    ],
+    "theme_labels": [
+      "App stability / performance"
+    ],
+    "fingerprint": "b38b01eab411696421dc298597d073c8839affa32c6424d89ec7205ab3d3f061"
+  },
+  {
+    "record_key": "apple:1164066737:14603508132",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "analysis_language": "chinese",
+    "rating": 3,
+    "review_time_hk": "2026-09-28T22:06:07+08:00",
+    "title": "汇丰APP应该重构，重新设计",
+    "text": "都2026年了，app功能复杂，难用，就连最基础的每笔交易明细都没有，每次登录app都要弹一下转数快页面。这么大的银行，app功能仿佛还活在上世纪一样，一点都不与时俱进，不说你的app追赶众安银行，起码要做到大象银行的简介好用吧，希望能重视起来，对HSBC APP进行重新设计，追赶国际化银行app的脚步。",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "login_authentication_access",
+      "transfers_payments_cards",
+      "usability_navigation_design",
+      "balance_statements_history",
+      "feature_request"
+    ],
+    "theme_labels": [
+      "Login / authentication / access",
+      "Transfers / payments / cards",
+      "Usability / navigation / design",
+      "Balance / statements / history",
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "6d2ca43fa5240379bf098dca8200b997a08d2eaf530be1cfe4acc4f764092606"
+  },
+  {
+    "record_key": "apple:1164066737:14676340217",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "analysis_language": "chinese",
+    "rating": 5,
+    "review_time_hk": "2026-10-17T14:33:05+08:00",
+    "title": "使用感受",
+    "text": "很好，对内地人友好",
+    "rating_sentiment": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "102bcada7a47b626bf319ccc9d88a39004df3611e5a95a43ea802ee86921f112"
+  },
+  {
+    "record_key": "apple:1164066737:14335024688",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "analysis_language": "mixed",
+    "rating": 1,
+    "review_time_hk": "2026-07-23T00:32:29+08:00",
+    "title": "Well +步行數唔update",
+    "text": "Wait long long time to update",
+    "rating_sentiment": "negative",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "52d4eb953f0dd3efa35afb34482383077bc16d173ed79c7072561f69a11d6685"
+  },
+  {
+    "record_key": "apple:1164066737:14088471336",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "analysis_language": "mixed",
+    "rating": 5,
+    "review_time_hk": "2026-05-21T15:59:50+08:00",
+    "title": "匯豐使用情況",
+    "text": "I like this application very much. I hope it can maintain this state without being affected by the policy and serve us.",
+    "rating_sentiment": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "64d49c4e0f55c9b77b3042352e486912df9eac77fe03923e21e71f8ecb0e5e84"
+  },
+  {
+    "record_key": "apple:1534534188:14654093186",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "english",
+    "rating": 1,
+    "review_time_hk": "2026-10-11T22:45:03+08:00",
+    "title": "Ida",
+    "text": "Always failed to scan HKID after multiple trial. My phome model is phone 16 pro.",
+    "rating_sentiment": "negative",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "695cd68d202a0cfdba145f4932053a58cf63b5a1f9b54a6e6b63059ad80f495d"
+  },
+  {
+    "record_key": "apple:1534534188:14618954294",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "english",
+    "rating": 3,
+    "review_time_hk": "2026-10-02T21:53:29+08:00",
+    "title": "Suggest improvement",
+    "text": "Can consider for one click for credit card payment",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "transfers_payments_cards",
+      "feature_request"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards",
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "34439f28aa79a87289b0923f80d5915faaac82458b320c8613201eafe4567a68"
+  },
+  {
+    "record_key": "apple:1534534188:14685675311",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "english",
+    "rating": 5,
+    "review_time_hk": "2026-10-19T22:24:46+08:00",
+    "title": "First time term deposit",
+    "text": "Seems easy",
+    "rating_sentiment": "positive",
+    "themes": [
+      "transfers_payments_cards"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards"
+    ],
+    "fingerprint": "4f0620a4764d4e3de36036118ca23b83fb7d57a264b089a8b23af8a7b99f8c7f"
+  },
+  {
+    "record_key": "apple:1534534188:14683518255",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "chinese",
+    "rating": 1,
+    "review_time_hk": "2026-10-19T07:55:36+08:00",
+    "title": "換了手機後重新設定生物認證俾任何一間銀行都難",
+    "text": "影完身份證後，做人面識別時總是說不通過其他四間銀行也沒那麼麻煩。最可怕的是舊的手機也登入不了……",
+    "rating_sentiment": "negative",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "6b05ae651dfcbb0a9ab8eef1611b7531344fe0561049461120ef347f8aefec05"
+  },
+  {
+    "record_key": "apple:1534534188:14660747000",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "chinese",
+    "rating": 3,
+    "review_time_hk": "2026-10-13T15:28:50+08:00",
+    "title": "好多不明做法",
+    "text": "好多不明做法",
+    "rating_sentiment": "neutral",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "57692f343e3eaace74bd213357fb8119b41031feabba41fa605653ed66a968a6"
+  },
+  {
+    "record_key": "apple:1534534188:14684794985",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "chinese",
+    "rating": 5,
+    "review_time_hk": "2026-10-19T17:28:58+08:00",
+    "title": "轉帳快",
+    "text": "轉帳好快",
+    "rating_sentiment": "positive",
+    "themes": [
+      "transfers_payments_cards"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards"
+    ],
+    "fingerprint": "07633779dacda5204c4fda248556ca53ad87d787fa071e1505a133282e3815a2"
+  },
+  {
+    "record_key": "apple:1534534188:14609285560",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "mixed",
+    "rating": 1,
+    "review_time_hk": "2026-09-30T09:54:24+08:00",
+    "title": "垃圾app",
+    "text": "自動Upgrade app ， FaceID 被人移除。 重新登記又一直登記唔到， 之後lock 埋帳號。 要去分行處理",
+    "rating_sentiment": "negative",
+    "themes": [
+      "login_authentication_access",
+      "customer_support_service",
+      "account_registration"
+    ],
+    "theme_labels": [
+      "Login / authentication / access",
+      "Customer support / service",
+      "Account / registration"
+    ],
+    "fingerprint": "6354fa4b4a3fd98276ce252ed2896a437edbcdcdaf782594e19feb557b336e4b"
+  },
+  {
+    "record_key": "apple:1534534188:14184040125",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "mixed",
+    "rating": 3,
+    "review_time_hk": "2026-06-15T10:29:49+08:00",
+    "title": "有bug",
+    "text": "儲存畫面後用Whatsapp傳岀會hang 機",
+    "rating_sentiment": "neutral",
+    "themes": [
+      "app_stability_performance"
+    ],
+    "theme_labels": [
+      "App stability / performance"
+    ],
+    "fingerprint": "0e1fd9147444fc78661bca67b52a3ed9a9c99d4c819dfa50f2fd9ec2e850a969"
+  },
+  {
+    "record_key": "apple:1534534188:14361820760",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "analysis_language": "mixed",
+    "rating": 5,
+    "review_time_hk": "2026-07-29T17:53:43+08:00",
+    "title": "老顧客",
+    "text": "Easy to use ，very good 。",
+    "rating_sentiment": "positive",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "68a0d417c04caaf36616211c36bb9401e56f5e1bcc46b4aeb5228d598f249215"
+  }
+]

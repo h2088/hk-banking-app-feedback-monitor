@@ -1,0 +1,19 @@
+{
+  "source_sha256": "d4637ba4942a29b707eb2b458047f3b0a7dc34926c0d0854b719bf25adc98394",
+  "config_sha256": "cd83cbcf7e24742c1aa99024f600bfc4fd1c7a02c052228d97d98f2d5d81a50e",
+  "observations": 9963,
+  "unique_records": 9963,
+  "included_records": 1682,
+  "duplicate_observations": 0,
+  "capture_variants": 0,
+  "files": {
+    "data/merged/capture_variants.csv": "a381af05e127ff286c8b2c65b613aadce0f7251d0af934c8fac8fc68b34fa912",
+    "data/merged/capture_variants.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "data/merged/exclusions.csv": "9be951427b47d5b625e326398a15b728d7de65eec9b026d4daa492af9654e85c",
+    "data/merged/exclusions.json": "789a36531b729c4f5fec3dd49009a0803653a4bee78ab9bb13a2b3d566fc1de1",
+    "data/merged/master_all_reviews.csv": "2acd03c4472d979b92db50acf057c7b07c5399887aab2823f1bdf267c0d3faf7",
+    "data/merged/master_all_reviews.json": "e40936d41c2295f86f254e2d45379b557244a2a118c4d2c0326358e08f46188d",
+    "data/merged/master_bilingual_six_months.csv": "bd0c8bebc110af3e5ac0dca047dfe8329c310433721d7c326d430640a05680d9",
+    "data/merged/master_bilingual_six_months.json": "86182624436c7ab4bd7372a07a7f24fed105070c9c8b14477073197b21c8dc81"
+  }
+}

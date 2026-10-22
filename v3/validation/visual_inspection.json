@@ -1,0 +1,25 @@
+{
+  "status": "reviewed",
+  "reviewer": "Codex agent",
+  "reviewed_at_utc": "2026-10-22T07:15:48+00:00",
+  "report_sha256": "df2249e3a255e162d045e2417844dad6f45ee838bc006622685a1b9fee9fa348",
+  "screenshots": {
+    "screenshots/google_play_combined.png": "0686a8f0f86effc5e77932ccc0eff829f56a822661f78152900043247da69ded",
+    "screenshots/apple_combined.png": "a4452f4ade66cfd1faaf9b734c75213fdcab8083cd71927cb661aa3738b0d8a3",
+    "screenshots/google_monthly_feedback.png": "886b39f98a4db77e44aef1beff4c65d9d7c0349bb4f22d9af5979bbfee35e89b",
+    "screenshots/apple_monthly_feedback.png": "935880321bd3b2cb65d862c6adf3fb6796cbde3f16c15d42b6c4b835c3480e2d",
+    "screenshots/combined_comments.png": "a2455b896719c4c3b353a07e8761bed6b73529a2b2dcc33d5e549ebf10e96545",
+    "screenshots/narrow_google_play.png": "bb4195372bac703ec720350c02568d66610817c3a51fbeeab6867065ec4af635",
+    "screenshots/narrow_monthly_feedback.png": "8999ffa7fa88ad8e6a9e6a3b05e49477850f7397a678c858879779abd4a4bbf7"
+  },
+  "judgments": [
+    "Viewed Google overview: only the App store selector remains. Three cards show combined counts 202/378/446 and low-star shares 73.8%/45.2%/51.1%. Both benchmark panels are readable; language composition and badges are absent.",
+    "Viewed Apple overview: combined counts 108/267/281 and shares 63.0%/38.2%/48.8% are readable; store-specific comparison gaps are 24.8 and 14.2 pp. English interface and three-bank layout remain consistent.",
+    "Viewed Google monthly chart: all seven month rows visible. V1-style horizontal blue volume bars, totals 53/183/181/161/167/177/104, and three bank count/share columns align. April and October are explicitly partial.",
+    "Viewed Apple monthly chart: seven rows visible, total volumes 46/101/111/102/121/107/68. Blue bars scale to 121, and counts/shares differ correctly from Google. Bank details remain legible beside the bars.",
+    "Viewed combined comment browser: 656 matching Apple comments with English 'First time term deposit / Seems easy' followed by Chinese '轉帳快 / 轉帳好快', ordered by descending source time. Source words and English rating/topic tags render clearly without language badges.",
+    "Viewed narrow Google overview: title wraps and cards stack within the viewport, with the store control accessible and combined metrics readable. Browser measures innerWidth and scrollWidth as 570 px.",
+    "Viewed narrow monthly chart: blue bars and totals remain visible, with all three banks' count/share details wrapping beneath each bar. No horizontal overflow at measured 570 px. The screenshot shows upper rows and scroll continuation; browser assertions verify all seven rows."
+  ],
+  "scope": "Actual inspection of seven newly rendered viewport screenshots for this revised HTML. This is agent inspection, not independent human acceptance or cross-device certification. Source reading judgments are reused only because original rows, labels and sample hashes are unchanged."
+}

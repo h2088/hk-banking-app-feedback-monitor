@@ -1,0 +1,23 @@
+{
+  "reviewer": "Codex agent",
+  "reviewed_at_utc": "2026-10-22T06:24:00+00:00",
+  "method": "Actually read all 40 initially excluded window records. The following 15 exact source-body phrases have clear English meaning; route those exact bodies to English without changing original detector status or source text. Shared ok/emoji, other languages, gibberish and uncertain fragments remain excluded.",
+  "decisions": [
+    {"exact_body":"app error","analysis_language":"english","reason":"English app failure phrase."},
+    {"exact_body":"good payment method","analysis_language":"english","reason":"English evaluative phrase with a payment noun."},
+    {"exact_body":"best hong kong bank ever","analysis_language":"english","reason":"English superlative bank evaluation."},
+    {"exact_body":"using wrong name","analysis_language":"english","reason":"English description of a name problem."},
+    {"exact_body":"Unable to locate successfully","analysis_language":"english","reason":"English inability statement."},
+    {"exact_body":"cannot login","analysis_language":"english","reason":"English login failure phrase."},
+    {"exact_body":"good Bank","analysis_language":"english","reason":"English adjective/noun praise."},
+    {"exact_body":"fantastic","analysis_language":"english","reason":"Recognizable English evaluative word; no journey inferred."},
+    {"exact_body":",, stupid","analysis_language":"english","reason":"Recognizable English criticism despite punctuation."},
+    {"exact_body":"well done.","analysis_language":"english","reason":"English evaluative idiom."},
+    {"exact_body":"So far, so good.","analysis_language":"english","reason":"English evaluative idiom."},
+    {"exact_body":"Very convenience","analysis_language":"english","reason":"Imperfect but clear English evaluation; original grammar preserved."},
+    {"exact_body":"poor","analysis_language":"english","reason":"English evaluative word; no journey inferred."},
+    {"exact_body":"NO good","analysis_language":"english","reason":"English negative evaluation; capitalization preserved."},
+    {"exact_body":"good system","analysis_language":"english","reason":"English adjective/noun evaluation."}
+  ],
+  "limitations": "Contextual agent language judgments, not independent human annotations. Exact phrases apply consistently to matching source bodies, including older evidence outside the window. No blanket classification of ok or emoji as English."
+}

@@ -1,0 +1,32 @@
+{
+  "app_key": "hsbc_hk",
+  "platform": "Google Play",
+  "request_language": "zh-CN",
+  "pages": [
+    {
+      "page": 1,
+      "returned": 200,
+      "new_unique": 200,
+      "has_next_token": true
+    },
+    {
+      "page": 2,
+      "returned": 200,
+      "new_unique": 200,
+      "has_next_token": true
+    },
+    {
+      "page": 3,
+      "returned": 200,
+      "new_unique": 200,
+      "has_next_token": true
+    }
+  ],
+  "duplicates": 0,
+  "started_at_utc": "2026-10-22T05:53:08.708789+00:00",
+  "listing_snapshot": "data/raw/google_play/hsbc_hk/listing_attempt1.body",
+  "stop_reason": "two_pages_before_window",
+  "status": "collected",
+  "records": 600,
+  "finished_at_utc": "2026-10-22T05:53:15.013257+00:00"
+}

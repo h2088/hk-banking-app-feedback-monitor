@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "window": [
+    "2026-09-01",
+    "2026-09-30"
+  ],
+  "included_records": 284,
+  "independently_selected_from_saved_sources": true,
+  "calendar_months": 1,
+  "partial_month": false,
+  "reading_status": "pending",
+  "finalized": false,
+  "reason": "Analysis-only window regression; no new sample reading or full report acceptance claimed."
+}

@@ -1,0 +1,267 @@
+{
+  "status": "pending",
+  "reviewer": null,
+  "reviewed_at": null,
+  "sample_sha256": "b762d27dfc15fd95e9e367d4ae87db1a0c4a14a34db1cf08b7d0caf0c0c3d077",
+  "judgements": [
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:386912f6-16ac-450e-bea1-2f5b625a7be7",
+      "fingerprint": "83668f77aebdf098b6cd1b1d6979a14ae21d3b94dca10fde9c2fec5fbbca6234",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:2742140c-bb8e-4eef-a4dd-1af6544ed6a1",
+      "fingerprint": "72e1cf83e06f9189ffa47d16a0b9b930b7826f3eb5012a31fabdbe507b1e9da4",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:ff4d1195-2578-4d24-a58c-a9611e928eed",
+      "fingerprint": "2abdd5cc76c9fbca7a622a5148c7028c27d4bab9deabb6b53a40ce293b52c44a",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:9b28a0a6-a723-4347-bbd3-6ceb6e7cf95f",
+      "fingerprint": "26d0b211ad788b0309870e5eba2fb62be7d74ab4a8bab6dfa83d6ebc5d66fb1c",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:fbaed2a3-883e-4977-a53c-b9328da300c2",
+      "fingerprint": "a2c0c7d3d2f058694a52977e41c5a573ca008ef720372d7a8870db7f843bbc8d",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:3bfa169e-c20c-4a48-b781-a7c059f78968",
+      "fingerprint": "e046f07babef7a4dfb7097ff8a7d57d9a63c31b4564b1f3c81283c5e2ca77285",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:1340303f-03d1-44c2-b8bb-5010eb434241",
+      "fingerprint": "164591766fd59a0c33b3c2724eda73567c57c2b2a73f12bd6415756b98128f8d",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:9ce48cc7-ef85-449a-a4a3-6e24ab1f18f4",
+      "fingerprint": "f7313ee532c1363cd7f2824fcc9a505b15ea874bfa6ee9e2c01b65b8be212429",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:a4672eab-b4a9-46dd-8f7a-14608845b0e5",
+      "fingerprint": "e5713fe694a4b6f16761b2a86d70e2b121aea97cfac6f005b112d1bba5b15866",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:1151361d-f4e8-4f74-97ee-74684127163b",
+      "fingerprint": "89ad061cd5ffa60f56d76804e5083fc3d54d844bbfed286663f09fa0492a8347",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:391630c9-ad17-4651-8673-bfe59bed7a7e",
+      "fingerprint": "fcca1f21abeebba35d831c5c86e90fd06a82f922c858c4dbe5c52c6036adf334",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:04ccf447-8284-4b5e-bb96-2a7848c9d503",
+      "fingerprint": "55e8e23ff709072eb35054171e46ea3090109f1fb8f581302b1fe67fb576e865",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:7307f5e3-72bd-41bf-9252-4f194dde3c13",
+      "fingerprint": "8e4e51ecc9d60183975027d06a9c4f641d0ed567cd7f101a34d59cde800dca08",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:f9ca5de9-59b1-4365-8d4b-c1576bc99313",
+      "fingerprint": "7b8b4c0e5620459ee72812ee21d8f8eb1112a15c71ae02e5fbac13f69b2e63d2",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:1813f214-a76d-47b6-802a-ae7b45a32bbb",
+      "fingerprint": "c3ba788992da71ea339e02b50c44d2c91e9bf8038ca46e3eb379e59ce86d3238",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:350f8cfd-2ad3-4f9d-b237-e06fa43276fd",
+      "fingerprint": "de8e4868a48d773f8d270bfe60b5e2f9455359be92dbd9c9a2e62733963265ae",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:d6a42ae1-cdee-4636-bd63-19fb3f6d392f",
+      "fingerprint": "51bb8a8c7435cc861f0f0290809600fd7c5d0fc9dafcfaabd4ebef1397adf62f",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:88bcbc13-4352-4d9c-981b-37c3c30e4815",
+      "fingerprint": "66d4a0c7201c3bd329a2b6156aeb7578809cae0efafb5e3609b241830690a88c",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:445795688:14583319925",
+      "fingerprint": "3ca47e32e7fd29c37c019cca84ccbaf2b6e2bf4e2de7dcf153d8fd3882c64010",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:445795688:14599487415",
+      "fingerprint": "7db9bfb92e15166cd1b5809ca6db5264b009b7c76cfe795ad0b73435cf53901f",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:445795688:14525319418",
+      "fingerprint": "b8f2cbed818e32651209409b32231236a2ab910599d16a073311c5f0b33eed08",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:445795688:14609835578",
+      "fingerprint": "d66858532463ded78e4521260a1399dcda54317a986292159cadc9d5455359ac",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:445795688:14525509706",
+      "fingerprint": "623f103ca79de70ecc086203982e0887d09c49d73fdb92e74f73ba171ee227e9",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:445795688:14606863249",
+      "fingerprint": "d0a12991c9841419020a10f5356d158184d4afc1054774d42ccadf90463ea91d",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:445795688:14600012724",
+      "fingerprint": "6e72556d1f82c92d68e23d84875826138b3f623aca8a0adf293a28edc7b47495",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1164066737:14576360169",
+      "fingerprint": "8670acfbccfa390194d74efc2aa35b2be793609c8dec11b5fea91e8f6849b74a",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1164066737:14597531420",
+      "fingerprint": "8dd4295881e43ee86ea9403677cf128de1eba2a40776a4d0c11012bee5f0f025",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1164066737:14579860976",
+      "fingerprint": "7080747bd2af478df262ffde683a1ab77497317fb4bf58a4d73e31a7a2abaa66",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1164066737:14603508132",
+      "fingerprint": "6d2ca43fa5240379bf098dca8200b997a08d2eaf530be1cfe4acc4f764092606",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1164066737:14611388687",
+      "fingerprint": "aca703864dc34f38002d45eb8206d4afa0f536ffbef3debee847b8248c006dc3",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1534534188:14596484673",
+      "fingerprint": "cc6d379ec775f0d43b26bef0c6726ae7398778c8c7fcd2fd48cccfa6b350e951",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1534534188:14533584113",
+      "fingerprint": "e8aae4eced04529386d5b86dde4dc7b744f8bd8a0e143ffb805b59ad9390cda1",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1534534188:14609270509",
+      "fingerprint": "380c1d7b373d5f9d95e07bff04f284e1bb39505677245eaf1a73774c9d22d354",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1534534188:14598085644",
+      "fingerprint": "ea9d7fc2e716d85f88e1c65d70675e26aa4f541d019047d452889d22b9af7efb",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1534534188:14553335366",
+      "fingerprint": "e5ef300af5a3fc9881fb98ea5519263db765d6be281feb3c5b1f47101d805664",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1534534188:14607368383",
+      "fingerprint": "7674c1bbdd52096412a940b57adef9ed3b4e802b426916dc96b56ecfba71b26c",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    },
+    {
+      "record_key": "apple:1534534188:14609285560",
+      "fingerprint": "6354fa4b4a3fd98276ce252ed2896a437edbcdcdaf782594e19feb557b336e4b",
+      "rating_assessment": null,
+      "theme_assessment": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "app_key": "sc_mobile",
+  "platform": "Google Play",
+  "request_language": "zh-CN",
+  "pages": [
+    {
+      "page": 1,
+      "returned": 200,
+      "new_unique": 200,
+      "has_next_token": true
+    },
+    {
+      "page": 2,
+      "returned": 185,
+      "new_unique": 185,
+      "has_next_token": false
+    }
+  ],
+  "duplicates": 0,
+  "started_at_utc": "2026-10-22T05:53:04.313018+00:00",
+  "listing_snapshot": "data/raw/google_play/sc_mobile/listing_attempt1.body",
+  "stop_reason": "endpoint_exhausted_for_request_parameters",
+  "status": "collected",
+  "records": 385,
+  "finished_at_utc": "2026-10-22T05:53:08.699742+00:00"
+}

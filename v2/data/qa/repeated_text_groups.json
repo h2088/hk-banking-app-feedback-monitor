@@ -1,0 +1,95 @@
+[
+  {
+    "normalized_text": "good service",
+    "record_keys": [
+      "apple:1534534188:14683558799",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:7bfe734b-de7c-4d93-b5e0-436a41e5a3f9"
+    ],
+    "count": 2
+  },
+  {
+    "normalized_text": "excellent",
+    "record_keys": [
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:43f6e32b-3b67-4025-86f4-998408f9f83d",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:0276cc2c-4143-448c-a250-14f6e6090a8d"
+    ],
+    "count": 2
+  },
+  {
+    "normalized_text": "good",
+    "record_keys": [
+      "apple:1164066737:14647781158",
+      "apple:1534534188:14609270509",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:9ce48cc7-ef85-449a-a4a3-6e24ab1f18f4",
+      "google_play:com.bochk.app.aos:86fefff5-2c64-4d23-b8dc-45bdef5eac27",
+      "google_play:com.bochk.app.aos:ffb0febb-5e45-4613-8fae-471e956c0038",
+      "apple:1534534188:14445333364",
+      "apple:1164066737:14367529133",
+      "google_play:com.scb.breezebanking.hk:d552543e-b23e-464c-b675-33fcf28ebe4e",
+      "apple:1534534188:14314468907",
+      "apple:1534534188:14301649580",
+      "google_play:com.bochk.app.aos:928f1137-44c9-4eba-b817-1d7616753e16",
+      "apple:1164066737:14274256356",
+      "google_play:com.bochk.app.aos:3ae05c1a-0ab3-4e43-94bd-5d6cdb548618",
+      "apple:1534534188:14252425786",
+      "apple:1164066737:14236817823",
+      "apple:1164066737:14229103398",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:27976e63-36af-4386-8322-d5d9aed489f8",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:6e375a89-43b0-4ed9-a9da-ed5f30a40351",
+      "apple:445795688:14062332571",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:b2b91bd2-74f0-43f7-a6c1-99053a190368",
+      "apple:1164066737:14011376791"
+    ],
+    "count": 21
+  },
+  {
+    "normalized_text": "very good",
+    "record_keys": [
+      "google_play:com.bochk.app.aos:112df803-a757-4aca-8cab-30d30de4de69",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:b2a93a09-029e-409b-808b-42f81eb23616"
+    ],
+    "count": 2
+  },
+  {
+    "normalized_text": "nice",
+    "record_keys": [
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:8cf6e0d3-5d36-413a-a12b-f194b1752d30",
+      "apple:1164066737:14393454717"
+    ],
+    "count": 2
+  },
+  {
+    "normalized_text": "easy to use",
+    "record_keys": [
+      "apple:1164066737:14481430856",
+      "google_play:com.bochk.app.aos:591a0aa6-88d2-4f74-bece-c09d7d4c7c54",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:68386c97-237c-42b2-b0cf-086c5c1192a9",
+      "apple:1534534188:14033206052"
+    ],
+    "count": 4
+  },
+  {
+    "normalized_text": "bad",
+    "record_keys": [
+      "apple:445795688:14374629340",
+      "apple:1534534188:14077690821"
+    ],
+    "count": 2
+  },
+  {
+    "normalized_text": "great apps",
+    "record_keys": [
+      "apple:1164066737:14304260630",
+      "google_play:hk.com.hsbc.hsbchkmobilebanking:6f9b66af-00a4-42ab-880e-208f5956324a"
+    ],
+    "count": 2
+  },
+  {
+    "normalized_text": "easy",
+    "record_keys": [
+      "google_play:com.bochk.app.aos:aa595b55-d654-47ff-9383-3381dbe03683",
+      "apple:1164066737:14009345457"
+    ],
+    "count": 2
+  }
+]

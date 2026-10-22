@@ -1,0 +1,21 @@
+{
+ "status":"reviewed",
+ "reviewer":"Codex agent",
+ "reviewed_at":"2026-10-22",
+ "report_sha256":"adc2b1afa4c1d80c8b5b8347feaaf2972f663977444d4d81cc022dacd8a1ccca",
+ "screenshots":{
+  "screenshots/google_play_overview.png":"fac5c6c2640f3df4cf7884c8c521f83a7ebbc410495c7e01e4aee82855331062",
+  "screenshots/apple_app_store_overview.png":"1d9e0901c737bd07f2e62edb6b5e6d63814e3b2d9f442eba0b1ddb64693d71b9",
+  "screenshots/apple_comments.png":"cc36c193a76d11c48f86f5f8a1c1ab3e8ff8744c3015f866a7861c89088d24a0",
+  "screenshots/apple_topics.png":"e5db8864d430b366b4f04586c5602e56a1852f5aba77bea40fcef4f20a3681c7",
+  "screenshots/narrow_google_play.png":"c1c57f8f65889c191042cf3899f491e4f465603da9c7927835be6d11f9eb1a3c"
+ },
+ "observations":[
+  "Actually viewed both store overview images: three clearly labelled bank cards, the selected store, separate sample counts, low-star shares and both benchmark gaps are readable and consistent with the data.",
+  "Actually viewed the BOCHK Apple comment browser: filters, exact title/body separation, full Hong Kong timestamps, source links and newest-first ordering are readable. A critical title with a four-star rating is correctly retained as positive by rating rather than rewritten.",
+  "Actually viewed the Apple topic table: all three bank columns are aligned; counts and bank/store denominators are shown with mention shares and separate low-star counts. Remaining table rows are accessible by scrolling.",
+  "Actually viewed the final narrow Google Play screenshot: the header wraps, the selector and cards fit, and cards stack vertically without clipped metrics. The 600-pixel capture uses a measured 570-CSS-pixel viewport on this Windows display; document scroll width is 555, so there is no horizontal overflow.",
+  "An earlier 430-pixel Edge capture was clipped by its minimum layout viewport and was replaced as a generated diagnostic. The final screenshot hashes above match the completed browser results."
+ ],
+ "limitations":"Agent visual inspection of the saved views; not a claim to test every browser, phone, viewport or independent accessibility compliance."
+}

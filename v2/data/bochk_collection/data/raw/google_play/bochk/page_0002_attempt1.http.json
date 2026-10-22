@@ -1,0 +1,41 @@
+{
+  "requested_url": "https://play.google.com/_/PlayStoreUi/data/batchexecute?hl=en&gl=hk",
+  "method": "POST",
+  "attempt": 1,
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"
+  },
+  "request_body": "f.req=%5B%5B%5B%22oCPfdb%22%2C%22%5Bnull%2C%5B2%2C2%2C%5B200%2Cnull%2C%5C%22CsoBIsEBAV8d1P0vec_Bvlc9jeHylmpKhGfEnW6TMnl_3MzlxpcEjJVH-88kbhO8yPVJEfRkr2b1BTNCB3271GLcO6NV7j5ayL3L3KhfgOXhLZWsJXrMVdLcw58yxe0NXiD_CC8PvUKZMWeF9ond-VGRkruNIt_2ii1Z2uek3D0CU07LCQe-rBjct6SwDmbMxQ8o70gfK5lofjZbvwPbUPTLdS8BP4ltDFNf06Kfoc8EODWP0F2C6Hyj0-dcuX5Mlhx7y72U7yjhoObWBg%5C%22%5D%2Cnull%2C%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%5D%5D%2C%5B%5C%22com.bochk.app.aos%5C%22%2C7%5D%5D%22%2Cnull%2C%22generic%22%5D%5D%5D%0A",
+  "started_at_utc": "2026-10-22T04:26:13.379269+00:00",
+  "status": 200,
+  "final_url": "https://play.google.com/_/PlayStoreUi/data/batchexecute?hl=en&gl=hk",
+  "response_headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+    "Pragma": "no-cache",
+    "Expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+    "Date": "Thu, 22 Oct 2026 04:26:13 GMT",
+    "Content-Disposition": "attachment; filename=\"response.bin\"; filename*=UTF-8''response.bin",
+    "X-Content-Type-Options": "nosniff",
+    "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Cross-Origin-Resource-Policy": "same-site",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "Permissions-Policy": "ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*",
+    "Accept-CH": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+    "Content-Security-Policy": "require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport",
+    "Server": "ESF",
+    "X-XSS-Protection": "0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Set-Cookie": "NID=CuQBCAESlgEBOxGDSP-uzNwxPkpqvOd6YBTQCaJv94R5koCaPMi-jYhVyKU-sm9JkBMMokBCJjsoZdzVEgBu-ibyrbAazr5e1pvA9oGUNkopKtjuFsWgi6V48V53U2yiC8XwKsXNNAcimxekulvgkKlF2BotWTGgu4E7AfduY6LzLrR1OvtJ5n4MGkTuym9R2GQBoWiMlDyrun97SqUoATJFAdKsB8_hX1vUhtQr3klv5QRw4nI26826I2MhUKXruFnD0s4G7ET85fMOweb6a9pdJmDMLus2iYLmMtKi3VjJe0eyknEE; expires=Fri, 23-Apr-2027 04:26:13 GMT; path=/; domain=.google.com; HttpOnly",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "Accept-Ranges": "none",
+    "Vary": "Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  },
+  "bytes": 138688,
+  "sha256": "dd7ab54a3715ca305498a069e4aac2b7eb94d99cc4a50b69bf910b49151e34e9"
+}

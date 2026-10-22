@@ -1,0 +1,212 @@
+{
+  "status": "reviewed",
+  "reviewer": "Codex agent",
+  "reviewed_at_utc": "2026-10-22T04:50:45.682189+00:00",
+  "scope": "Actually read latest comment in each observed bank/store/rating stratum; targeted limitations recorded, not an independent human accuracy study.",
+  "sample_sha256": "69c63e5e5f1fdee2a80ccbe729c52d9c750adc5bd98eb75422f3a2b6d66b03b9",
+  "reviews": [
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:5f83fbbc-a93d-4d43-93df-941558309c64",
+      "fingerprint": "39eeac7c1957265eb94c436ca7ae2ac2d80486945a20f7d3ecb4a6e28b7f8c1b",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The writer reports force closing after an update and inability to manage the app. One star and a stability mention fit; the update is a reported trigger, not a proven cause."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:0b5e720f-575c-4136-a614-57eb04811435",
+      "fingerprint": "0b2fd2e9df70c69e4bc3587d99a2f1e887d7d245ada1aae8d5be744e1db08c28",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "The complaint is a messy layout and difficulty finding functions. Usability fits. Helpful triggers customer support although no support interaction is described; the support tag is a keyword false positive."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:417b305e-250d-485f-81fc-a85da5b38738",
+      "fingerprint": "354e6de1c978b36581dfe81f3f23b3bc7e6b744e8962ac1b74ee6acf08acb4d0",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The writer requests visibility of a typed password. Access and feature-request tags fit. Four stars are a positive rating proxy; the request itself is not unqualified praise."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:2742140c-bb8e-4eef-a4dd-1af6544ed6a1",
+      "fingerprint": "72e1cf83e06f9189ffa47d16a0b9b930b7826f3eb5012a31fabdbe507b1e9da4",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Easy to use thanks is explicit positive usability feedback and agrees with five stars. The text supplies no specific journey or defect."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:277e0a3b-bb79-4c38-81df-a23252b56ff5",
+      "fingerprint": "3e4a317da25ca692579773566c518b1e2a5fd998a1f1afec3a986ca9926a00df",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Poor verification process is a clear negative authentication comment consistent with one star, but gives no step or error details."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:7d2a0e75-4a63-4d53-aebe-b993fa8ac61b",
+      "fingerprint": "f33762e8922f93278f27c5fa6ee5c30fe8e75ec8a26bd495dc6355876385e18b",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "The writer dislikes complexity and FX advertising. Usability fits; fees/rates is triggered by FX and ads but is not evidence of a fee or exchange-rate complaint."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:09c9c1ad-9052-43be-9194-f8cfaa522ace",
+      "fingerprint": "252a27dec49513f3022472ca392ec2f544f0ca665b90c31d3932f726399f9a12",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "The review suggests hiding the welcome-screen name for privacy. Security fits. The narrow feature-request patterns miss should remove; three stars stay neutral by the stated rating convention."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:fc616416-2dc7-443a-bb70-546be042c22b",
+      "fingerprint": "2835e00a83b03a33060a422d39f43d52b5b31225dc8f2a1ca47b23ac31e9e231",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "The body calls screenshot restrictions frustrating while the rating is four stars. Retain the positive star proxy and negative text signal separately. Feature request fits the screenshot wording."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:6ac3aa37-f227-4bb0-afea-669f596562d8",
+      "fingerprint": "e2821026adf4a23be67d16669971bad4546c025c21a642ba392c214aa9ae848e",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Best services, systems and app is positive and agrees with five stars. The singular service pattern misses services, leaving no theme. This is a coverage limitation, not no service feedback."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:9fbe6621-ba0b-4244-820e-87add985d74e",
+      "fingerprint": "59b43f391993d4c7f79260e47f3a95b8b4450ea958d0fe5d226c6c6e388be69b",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Not user friendly is negative usability feedback consistent with one star. The text lexicon outputs mixed because its simple negation rule misses user between not and friendly; it is not reliable sentiment inference."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:f5c91b2f-0710-4aa5-853b-dca1225d6e91",
+      "fingerprint": "874885f5e955dddb1678fffce1cba2de9bda73409c59fce8dd13d3758437d3eb",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "The user cannot upload a document and keeps restarting. The explicit user-experience tag fits. The rules do not separately identify the upload journey or prove an account-opening failure."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:f9ca5de9-59b1-4365-8d4b-c1576bc99313",
+      "fingerprint": "7b8b4c0e5620459ee72812ee21d8f8eb1112a15c71ae02e5fbac13f69b2e63d2",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "Face recognition is poor is negative text with a three-star neutral proxy. The explicit V2 face-recognition addition correctly places it in authentication; the discrepancy remains visible."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:ffb0febb-5e45-4613-8fae-471e956c0038",
+      "fingerprint": "72fc95af90272f267fff07bde2c6d0821168b69d9385b916a2e9ac94dcb8ab90",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "Good agrees with four stars but provides no banking journey or topic. Leave themes empty rather than infer a service or performance compliment."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:112df803-a757-4aca-8cab-30d30de4de69",
+      "fingerprint": "08e880abf05e77b06ec749b2bd441fd3ec06f3bc5d59eec84827f7f2d33bc284",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "Very good agrees with five stars. This short praise has insufficient evidence for a specific issue or business theme."
+    },
+    {
+      "record_key": "apple:445795688:14615873095",
+      "fingerprint": "e03aab09c9fcc07a66e230e0a4557bb1432d32214a94256cd2f0728a275bc0ba",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The body reports changing layout, tiny fonts and difficulty locating a credit-card suspension action during suspected fraud. Usability, cards and security all fit one-star negative feedback; no fraud event is verified."
+    },
+    {
+      "record_key": "apple:445795688:14657144927",
+      "fingerprint": "0f4c07de04a247a2590a79cba7b5bdf95448b3407eb282f852b748fc43ab8b84",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The transfer page reportedly will not load. Title and body jointly support stability and transfers, consistent with two stars. The author's speculation about blocking withdrawals is not established fact."
+    },
+    {
+      "record_key": "apple:445795688:14625921365",
+      "fingerprint": "47f1090cd5de0e1c2d82d1ad54560b7ef3a2db93a798235f62c87a33e8846063",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "The writer reports a questionnaire extending beyond the iPhone viewport and difficulty finding close. Usability fits. The text is critical despite a neutral three-star rating."
+    },
+    {
+      "record_key": "apple:445795688:14645236876",
+      "fingerprint": "4431ce52f4a7fe3c66da8af1b632dd87e604f14073606c67e0cbf411d2d9e230",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Easy to use and user-friendly are positive interface feedback consistent with four stars. The Apple title usefully supplies the exact easy-to-use keyword."
+    },
+    {
+      "record_key": "apple:445795688:14525319418",
+      "fingerprint": "b8f2cbed818e32651209409b32231236a2ab910599d16a073311c5f0b33eed08",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "Easy to make and the title Easy are positive but vague. Five stars fit; no specific banking action should be inferred from this short text."
+    },
+    {
+      "record_key": "apple:1164066737:14640444470",
+      "fingerprint": "ce4b8bdd0437320ad61f17cb6398f6e1b0ef2d7e62589877584442bf19707a24",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The writer complains about an unspecified error message. One star and the error-based stability tag fit, while the actual technical root cause remains unknown."
+    },
+    {
+      "record_key": "apple:1164066737:14571599325",
+      "fingerprint": "90091fa9b744a9abd08fa78bd26c6d1f06678c21fda29566c2b17b0e5880eadc",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Pls stop and too frequent ID or email checking express negative friction consistent with two stars. The narrow V2 checking phrase captures the access/verification topic."
+    },
+    {
+      "record_key": "apple:1164066737:14456416671",
+      "fingerprint": "df2c4b4bb2eb3604913067f08619ac197e0f4d5cadac1e5415db541e3180cdf6",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The writer proposes combining banking, rewards, PayMe and investment apps to reduce storage use. The V2 suggest/combine patterns capture a feature request. Three stars are neutral by rating, not approval of the current design."
+    },
+    {
+      "record_key": "apple:1164066737:14468476554",
+      "fingerprint": "ce93825e6f4e0613d8a0ebecc35eea11b58ac82b590c1ebb3c29290b22d53829",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "limitation_noted",
+      "notes": "The title and body report inability to buy stock with unclear guidance, despite four stars. The existing eleven themes lack an investment-trading category and leave this unclassified; it is still a real comment to review."
+    },
+    {
+      "record_key": "apple:1164066737:14647781158",
+      "fingerprint": "2950260e402e90d6731adbdc59132873935b7d2a6da15bedaa242005425b0302",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "Nice and Good are consistent five-star praise. They do not support a specific banking-topic tag."
+    },
+    {
+      "record_key": "apple:1534534188:14654093186",
+      "fingerprint": "695cd68d202a0cfdba145f4932053a58cf63b5a1f9b54a6e6b63059ad80f495d",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The user reports repeated failure to scan HKID and provides a phone model. One star fits; the V2 HKID-scan phrase places this in identity/access. It does not establish the precise onboarding step or device cause."
+    },
+    {
+      "record_key": "apple:1534534188:14022758263",
+      "fingerprint": "89492c429862559f7edc69340a4145c1a53c5935cfe46f4a62d86eb530035a29",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The review reports inability to bind or use a withdrawal card with Apple Pay after an iOS upgrade. Cards/payments fits two-star negative feedback; the OS change is a reported context, not proven causation."
+    },
+    {
+      "record_key": "apple:1534534188:14618954294",
+      "fingerprint": "34439f28aa79a87289b0923f80d5915faaac82458b320c8613201eafe4567a68",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "The title suggests improvement and the body asks for one-click card payment. Transfers/cards and the explicit V2 suggest/consider feature-request tag fit. Three stars are neutral by the rating convention."
+    },
+    {
+      "record_key": "apple:1534534188:14673502959",
+      "fingerprint": "a3e895a8701488368ca782f6020338546e05e9b73b32356af743e37fe31c7bb0",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "The body is only V, but the title reports a missing balance during transfer. Transfer and balance tags depend on the preserved title and are justified. Four stars remain positive by rating despite the critical title."
+    },
+    {
+      "record_key": "apple:1534534188:14685675311",
+      "fingerprint": "4f0620a4764d4e3de36036118ca23b83fb7d57a264b089a8b23af8a7b99f8c7f",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Seems easy and first time term deposit are positive and agree with five stars. The broad transfers/payments/cards bucket matches deposit; this is not a payment failure or complaint."
+    }
+  ]
+}

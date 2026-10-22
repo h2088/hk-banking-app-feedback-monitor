@@ -1,0 +1,70 @@
+{
+  "checked_at_utc": "2026-10-22T04:50:47.022635+00:00",
+  "passed": true,
+  "report_sha256": "adc2b1afa4c1d80c8b5b8347feaaf2972f663977444d4d81cc022dacd8a1ccca",
+  "checks": [
+    {
+      "name": "Stable newest-first ordering and unique source IDs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "All English IDs, times, date bounds and raw paths valid",
+      "passed": true,
+      "detail": 418
+    },
+    {
+      "name": "All 311 V1 English source contents preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Every included review agrees with its raw HTTP ID, text, rating and timestamp",
+      "passed": true,
+      "detail": 418
+    },
+    {
+      "name": "Six bank/store denominators independently recomputed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "All 66 theme rates use correct store/bank denominator",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "42 monthly groups include zero-count states and partial-month flags",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "CSV retains JSON row order and exact source text",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Typed Excel has separate store sheets and no formula cells",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Actual agent reading notes bound to all stratified sample fingerprints",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "V1 files remain unchanged",
+      "passed": true,
+      "detail": {
+        "files_checked": 1811,
+        "changed": []
+      }
+    },
+    {
+      "name": "Self-contained English report; no remote assets or private reply fields",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

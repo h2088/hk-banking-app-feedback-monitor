@@ -1,0 +1,344 @@
+{
+  "status": "reviewed",
+  "reviewer": "Codex agent",
+  "reviewed_at": "2026-10-22T06:31:45.988864+00:00",
+  "sample_sha256": "b24618b21a504f77baf0658fc2ec5403b0e00af8cfcaffff76a3cddaf3f1f87e",
+  "judgements": [
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:5f83fbbc-a93d-4d43-93df-941558309c64",
+      "fingerprint": "39eeac7c1957265eb94c436ca7ae2ac2d80486945a20f7d3ecb4a6e28b7f8c1b",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: forced closure after update directly supports stability. One star agrees with negative wording; no business journey is named."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:8eb25231-7a8a-4589-a2e0-9810b1238107",
+      "fingerprint": "bd8408499479cbfe31126a03229165f56c09d9dda4dff8570854ac0d42b3c933",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "English: 'good' supports the five-star proxy but gives no business topic. Correctly retained and unclassified."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:84f5cac4-9de6-45d4-a52c-7cc9053ca9fd",
+      "fingerprint": "66e9360baca1c79f690d34ee9f952119601cb64a3dc9d5e0c6fdb0ddde734103",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Cantonese/Traditional Chinese: repeated crashes at login support stability and authentication. One star is consistent with frustration."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:6878b88c-71a8-40a6-9c16-890ea421f2d9",
+      "fingerprint": "ea88b0b040c9b00555340de977cbaf0f9c90a6ef53dc77cf2e8b9360ecb1544e",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "Chinese: transfer completes but display synchronization is slow; performance and transfers are both relevant. Three stars remains neutral by rating despite critical text."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:20ce6dca-1243-41bd-ab1a-9dfbf815b048",
+      "fingerprint": "41fab0e61cb9a2013877590c93def6e5cb2e4224eb5c407c18c490291fe87027",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Chinese: '好用' praises usability. Five-star positive; the topic is a positive mention, not a complaint."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:5aff2125-6679-4f56-a7af-1332ebf52dc4",
+      "fingerprint": "6c0ba39f300ec45f42b7e3396d37597dbe6f05aeb61d2e78ad74e80824455e96",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Mixed Cantonese/English: redundant login push notifications while opening stocks. Login label is relevant; no notification-specific or investment topic exists."
+    },
+    {
+      "record_key": "google_play:com.scb.breezebanking.hk:4fb05025-1f65-4a1f-8566-99af6b21a7f3",
+      "fingerprint": "d0a5a9cb67536669c56b8f9d0ecaa745480ade58cd0e228958d7431f01e0eb13",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "Mixed Cantonese/English: crashes after username/password entry, plus request for screen captures after transfers/account opening. Five topics are supported. Three-star neutral proxy masks critical text."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:277e0a3b-bb79-4c38-81df-a23252b56ff5",
+      "fingerprint": "3e4a317da25ca692579773566c518b1e2a5fd998a1f1afec3a986ca9926a00df",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: poor verification process directly matches authentication. One star agrees; source text does not identify the exact failure stage."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:09c9c1ad-9052-43be-9194-f8cfaa522ace",
+      "fingerprint": "252a27dec49513f3022472ca392ec2f544f0ca665b90c31d3932f726399f9a12",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "limitation_noted",
+      "notes": "English: worries about visible user name and doxxing support security/privacy. Three stars is neutral by proxy; a suggested change is not captured by the limited suggestion patterns."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:cbd4aa1d-7f2c-459d-a546-ebe90ae3a7d2",
+      "fingerprint": "3864110cd0013209e16153c8f4dc6a970f4ee4a4b0a615369a5a5001468664f0",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "English: 'Fast and Great' is positive and five-star, but does not specify a journey. Unclassified is reasonable; fast is not a performance-problem assertion."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:8c41b492-8b81-40f4-a124-bd704b8a407a",
+      "fingerprint": "4c91ecd0e9905ecbdeda810d6db5b4442a79eeb6fa61b24cf382ebc06f9b68ad",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Simplified/Cantonese Chinese: objects to Samsung utility/accessibility risk blocking. Security risk terms are relevant; exact installation/access policy failure is not confirmed."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:1151361d-f4e8-4f74-97ee-74684127163b",
+      "fingerprint": "89ad061cd5ffa60f56d76804e5083fc3d54d844bbfed286663f09fa0492a8347",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "Cantonese: '唔好用' is negative usability wording. Three-star neutral rating differs from the text; the proxy is intentionally retained."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:4a1aae14-533d-4aaa-8acc-8dbd4cff0986",
+      "fingerprint": "65e5a72799fbca350a3db98a3ac02f0c7cb580e268b6c3bafdc0277855166e25",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Chinese: convenience and speed praise supports usability. Five-star positive; no concrete complaint or defect is stated."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:04ccf447-8284-4b5e-bb96-2a7848c9d503",
+      "fingerprint": "55e8e23ff709072eb35054171e46ea3090109f1fb8f581302b1fe67fb576e865",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Chinese crash report includes HyperOS, Beta and device/version tokens, triggering mixed. Stability fits, but technical identifiers do not prove substantive bilingual prose."
+    },
+    {
+      "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:44f15816-5447-4ea6-b518-fdf3388bf759",
+      "fingerprint": "cdf6291949c1c0cb20b4c461065ef2e82de4a98a68e550754ada05c05a25f102",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Mixed Cantonese/English: asks for fewer logoff animations and back-button exit. Usability and explicit request fit; three stars stays neutral by rating."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:9fbe6621-ba0b-4244-820e-87add985d74e",
+      "fingerprint": "59b43f391993d4c7f79260e47f3a95b8b4450ea958d0fe5d226c6c6e388be69b",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: 'not user friendly' is a usability criticism. One star is consistent; no specific journey is stated."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:f9ca5de9-59b1-4365-8d4b-c1576bc99313",
+      "fingerprint": "7b8b4c0e5620459ee72812ee21d8f8eb1112a15c71ae02e5fbac13f69b2e63d2",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "English: poor face recognition supports authentication. Three-star neutral rating is more favorable than the critical wording."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:96f2d448-a4ca-4096-a588-430fbc621f58",
+      "fingerprint": "c36b92f4a4cd3520b75c300d53f5fb40df7b1dd8302422529c3edb69d14d52a5",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "English: 'good' gives no concrete journey. Five-star positive and unclassified topic are appropriate for triage."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:f4013769-8b16-49c4-95c3-6f15072d6c9c",
+      "fingerprint": "04511a9fbeeb7c98743a4f726136b5bc124f6b9308bad4b984674d049d4b1e70",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "Chinese: '非常差' expresses broad dissatisfaction. One-star negative fits; no topic should be invented."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:098d121c-e1d2-4d13-a78d-df50eaa79499",
+      "fingerprint": "e635cd224b5c77e516eb8a90cae29c446c0d612b376f5b6af7633d2326503901",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "Chinese: '太卡顿了' directly reports lag. Stability fits while the source three-star rating remains neutral."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:3b73e606-244d-4afe-a435-c51859eaed16",
+      "fingerprint": "d6e651fd8f4d9afe6f04a26d6f747eaf4d2450d8858c785c6da7a97997fc2d8e",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Chinese: easy interface operation is usability praise. Five-star positive, not a reported defect."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:4cc08159-e2a6-4bda-9c89-904a8643c8c0",
+      "fingerprint": "ca2b5720a8ac871412fad18d6f89dec60c4e17f24c18f98c2c60c011d526aacc",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Mixed Cantonese/English: criticizes username/password login design. Authentication fits; a desired alternative is implied rather than explicitly matched as a feature request."
+    },
+    {
+      "record_key": "google_play:com.bochk.app.aos:7c1cae5a-e06a-46a2-8fbe-610ea2af42f0",
+      "fingerprint": "a9ff1f13cbdf31ad7304ed77116ef10904d7c5ba5d579b03981b161152fe6256",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "limitation_noted",
+      "notes": "Mixed Chinese/English: details risk checks, crashes and fingerprint/login behavior. Stability, authentication and risk mentions fit. Feature-request is an overmatch from '不应该出现'; this is descriptive, not a requested feature."
+    },
+    {
+      "record_key": "apple:445795688:14615873095",
+      "fingerprint": "e03aab09c9fcc07a66e230e0a4557bb1432d32214a94256cd2f0728a275bc0ba",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: small fonts and changing layout obstruct urgent card suspension amid suspected scam. Design, cards and security are supported; one-star negative agrees."
+    },
+    {
+      "record_key": "apple:445795688:14625921365",
+      "fingerprint": "47f1090cd5de0e1c2d82d1ad54560b7ef3a2db93a798235f62c87a33e8846063",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "English: questionnaire exceeds viewport on iPhone and close button is hard to find. Usability fits. Three-star neutral is a rating proxy, not a statement of satisfaction."
+    },
+    {
+      "record_key": "apple:445795688:14525319418",
+      "fingerprint": "b8f2cbed818e32651209409b32231236a2ab910599d16a073311c5f0b33eed08",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "English: title 'Easy' and body 'Easy to make' are positive but underspecified. Five-star and unclassified are retained without assuming a journey."
+    },
+    {
+      "record_key": "apple:445795688:14661795361",
+      "fingerprint": "00c894999db50114187f8017eaa46c0c0048b1ea111c0528831ff77af8993ed1",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Cantonese/Traditional Chinese: password recovery terms screen causes app to exit. Authentication and stability fit after adding the '彈app' expression."
+    },
+    {
+      "record_key": "apple:445795688:14525509706",
+      "fingerprint": "623f103ca79de70ecc086203982e0887d09c49d73fdb92e74f73ba171ee227e9",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "Traditional Chinese: asks for reduced graphics/animation and waiting at login. Performance, authentication and feature-request fit; three-star neutral retains source rating."
+    },
+    {
+      "record_key": "apple:445795688:14617373235",
+      "fingerprint": "8729767e8fe1ede751a81fd08d3e7c44040eae7161c79d35ed5f2c47021367dd",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Traditional Chinese: easy layout and selection are usability praise. Five stars matches positive wording."
+    },
+    {
+      "record_key": "apple:445795688:14669812472",
+      "fingerprint": "910bab48c1204d3630245511af1f6f2c26821deb1578bbade46fc049f9800860",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Mixed Cantonese/English: angry about scratch-card marketing and a paid membership offer. One star agrees; taxonomy has no marketing topic, so unclassified is an acknowledged coverage gap."
+    },
+    {
+      "record_key": "apple:1164066737:14640444470",
+      "fingerprint": "ce4b8bdd0437320ad61f17cb6398f6e1b0ef2d7e62589877584442bf19707a24",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: recurring unspecified error message fits stability/error screening. One star agrees, but exact error and root cause are unknown."
+    },
+    {
+      "record_key": "apple:1164066737:14456416671",
+      "fingerprint": "df2c4b4bb2eb3604913067f08619ac197e0f4d5cadac1e5415db541e3180cdf6",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: explicitly suggests consolidating financial apps to save storage. Feature request fits; the text does not report an actual payment failure."
+    },
+    {
+      "record_key": "apple:1164066737:14647781158",
+      "fingerprint": "2950260e402e90d6731adbdc59132873935b7d2a6da15bedaa242005425b0302",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "English: Nice/Good is generic praise. Five stars aligns; no journey topic can be justified."
+    },
+    {
+      "record_key": "apple:1164066737:14663966016",
+      "fingerprint": "b38b01eab411696421dc298597d073c8839affa32c6424d89ec7205ab3d3f061",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Cantonese with 'loading': app loads continuously then service unavailable. Stability fits. Generic online service wording is not customer support; rule avoids that false support match."
+    },
+    {
+      "record_key": "apple:1164066737:14603508132",
+      "fingerprint": "6d2ca43fa5240379bf098dca8200b997a08d2eaf530be1cfe4acc4f764092606",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "Simplified Chinese: redesign request, login/FPS popup, missing transaction details and complex navigation support all five assigned themes. Three-star neutral masks clear criticisms."
+    },
+    {
+      "record_key": "apple:1164066737:14676340217",
+      "fingerprint": "102bcada7a47b626bf319ccc9d88a39004df3611e5a95a43ea802ee86921f112",
+      "rating_assessment": "plausible",
+      "theme_assessment": "insufficient_text",
+      "notes": "Chinese: says experience is good and friendly to mainland users. Five stars fits, but no specific app journey is identified."
+    },
+    {
+      "record_key": "apple:1164066737:14335024688",
+      "fingerprint": "52d4eb953f0dd3efa35afb34482383077bc16d173ed79c7072561f69a11d6685",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Mixed title/body: step count does not update and waits a long time. One-star dissatisfaction is clear. Current performance patterns miss this phrasing, so unclassified is a known false negative."
+    },
+    {
+      "record_key": "apple:1164066737:14088471336",
+      "fingerprint": "64d49c4e0f55c9b77b3042352e486912df9eac77fe03923e21e71f8ecb0e5e84",
+      "rating_assessment": "plausible",
+      "theme_assessment": "limitation_noted",
+      "notes": "Chinese title with English body praises the app and hopes policy does not affect service. Mixed routing is reasonable. Five stars fits; generic maintenance hope is not detected as a feature request."
+    },
+    {
+      "record_key": "apple:1534534188:14654093186",
+      "fingerprint": "695cd68d202a0cfdba145f4932053a58cf63b5a1f9b54a6e6b63059ad80f495d",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: repeated HKID scanning failure on a stated phone model supports authentication. One star fits; no device compatibility cause is confirmed."
+    },
+    {
+      "record_key": "apple:1534534188:14618954294",
+      "fingerprint": "34439f28aa79a87289b0923f80d5915faaac82458b320c8613201eafe4567a68",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: title suggests improvement and body requests one-click credit-card payment. Payment/cards and feature request are supported; three-star neutral is retained."
+    },
+    {
+      "record_key": "apple:1534534188:14685675311",
+      "fingerprint": "4f0620a4764d4e3de36036118ca23b83fb7d57a264b089a8b23af8a7b99f8c7f",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "English: title identifies first term deposit and body says easy. Deposit/payment theme is a mention, not a failure; five-star positive fits."
+    },
+    {
+      "record_key": "apple:1534534188:14683518255",
+      "fingerprint": "6b05ae651dfcbb0a9ab8eef1611b7531344fe0561049461120ef347f8aefec05",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Traditional Chinese: identity/photo and face recognition fail after device change; old phone also cannot log in. Authentication fits; source text alone cannot establish cause."
+    },
+    {
+      "record_key": "apple:1534534188:14660747000",
+      "fingerprint": "57692f343e3eaace74bd213357fb8119b41031feabba41fa605653ed66a968a6",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "insufficient_text",
+      "notes": "Cantonese: title and body repeat vague dissatisfaction with unclear practices. Three-star neutral is retained; no specific journey can be responsibly assigned."
+    },
+    {
+      "record_key": "apple:1534534188:14684794985",
+      "fingerprint": "07633779dacda5204c4fda248556ca53ad87d787fa071e1505a133282e3815a2",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Traditional Chinese: fast transfer is positive transfer feedback. Five stars agrees; this is not a transfer complaint."
+    },
+    {
+      "record_key": "apple:1534534188:14609285560",
+      "fingerprint": "6354fa4b4a3fd98276ce252ed2896a437edbcdcdaf782594e19feb557b336e4b",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Mixed Cantonese/English: FaceID removed after upgrade, registration failure, locked account and branch visit. Authentication, support and registration all fit; one star agrees."
+    },
+    {
+      "record_key": "apple:1534534188:14184040125",
+      "fingerprint": "0e1fd9147444fc78661bca67b52a3ed9a9c99d4c819dfa50f2fd9ec2e850a969",
+      "rating_assessment": "disagreement_noted",
+      "theme_assessment": "plausible",
+      "notes": "Mixed Cantonese/English: app hangs when sharing a saved screen through WhatsApp. Stability fits after matching Latin terms adjacent to Han; three-star neutral remains a proxy."
+    },
+    {
+      "record_key": "apple:1534534188:14361820760",
+      "fingerprint": "68a0d417c04caaf36616211c36bb9401e56f5e1bcc46b4aeb5228d598f249215",
+      "rating_assessment": "plausible",
+      "theme_assessment": "plausible",
+      "notes": "Chinese title with English body: easy to use and very good. Mixed routing and usability praise fit; five stars agrees."
+    }
+  ],
+  "method": "Exact reproduction: reused prior actual source-bound reading notes after identical sample, originals, rating and topic labels were checked. No new reading or independent human labeling claimed.",
+  "reused_review_provenance": {
+    "original_file": "D:\\7-HK Banking App Feedback Monitor\\v3\\manual_review.json",
+    "original_sha256": "4168333cfb285adfe3b16b244c2b0f164db75636d7c9fdfb11523c16b154262a",
+    "original_sample_sha256": "b24618b21a504f77baf0658fc2ec5403b0e00af8cfcaffff76a3cddaf3f1f87e",
+    "reused_at_utc": "2026-10-22T08:05:17.845357+00:00"
+  }
+}

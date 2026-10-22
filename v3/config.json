@@ -1,0 +1,54 @@
+{
+  "schema_version": 3,
+  "country": "HK",
+  "timezone": "Asia/Hong_Kong",
+  "language": "english_and_chinese",
+  "platform_split": true,
+  "since": "2026-04-19",
+  "as_of": "2026-10-19",
+  "google_max_pages": 100,
+  "apple_max_pages": 10,
+  "all_history": false,
+  "pause_seconds": 1,
+  "apps": [
+    {
+      "key": "sc_mobile",
+      "name": "SC Mobile Hong Kong",
+      "bank": "Standard Chartered",
+      "role": "primary",
+      "google_id": "com.scb.breezebanking.hk",
+      "google_language": "en-US",
+      "apple_id": "445795688",
+      "apple_slug": "sc-mobile-hong-kong",
+      "apple_language": "en-GB"
+    },
+    {
+      "key": "hsbc_hk",
+      "name": "HSBC HK Mobile Banking",
+      "bank": "HSBC",
+      "role": "benchmark",
+      "google_id": "hk.com.hsbc.hsbchkmobilebanking",
+      "google_language": "en",
+      "apple_id": "1164066737",
+      "apple_slug": "hsbc-hk-mobile-banking",
+      "apple_language": "en-US"
+    },
+    {
+      "key": "bochk",
+      "name": "BOCHK",
+      "bank": "Bank of China (Hong Kong)",
+      "role": "benchmark",
+      "google_id": "com.bochk.app.aos",
+      "google_language": "en",
+      "apple_id": "1534534188",
+      "apple_slug": "bochk",
+      "apple_language": "en-US"
+    }
+  ],
+  "chinese_google_request_languages": [
+    "zh-HK",
+    "zh-CN"
+  ],
+  "analysis_population": "english_and_chinese_combined",
+  "report_revision": "combined_feedback_monthly_chart"
+}

@@ -1,0 +1,105 @@
+{
+  "captured_at_utc": "2026-10-22T04:26:43.758688+00:00",
+  "crawls": [
+    {
+      "app_key": "bochk",
+      "platform": "Google Play",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 2,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        },
+        {
+          "page": 3,
+          "returned": 200,
+          "new_unique": 200,
+          "has_next_token": true
+        }
+      ],
+      "duplicates": 0,
+      "started_at_utc": "2026-10-22T04:26:07.321764+00:00",
+      "listing_snapshot": "data/raw/google_play/bochk/listing_attempt1.body",
+      "stop_reason": "two_pages_before_window",
+      "status": "collected",
+      "records": 600,
+      "finished_at_utc": "2026-10-22T04:26:22.577765+00:00"
+    },
+    {
+      "app_key": "bochk",
+      "platform": "Apple App Store",
+      "pages": [
+        {
+          "page": 1,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 2,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 3,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 4,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 5,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 6,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 7,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 8,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 9,
+          "returned": 50,
+          "new_unique": 50
+        },
+        {
+          "page": 10,
+          "returned": 50,
+          "new_unique": 50
+        }
+      ],
+      "duplicates": 0,
+      "started_at_utc": "2026-10-22T04:26:07.323820+00:00",
+      "listing_snapshot": "data/raw/apple/bochk/listing_attempt1.body",
+      "stop_reason": "configured_feed_page_limit_not_all_time_completeness",
+      "status": "partial_failure",
+      "records": 500,
+      "error": "HTTPError: HTTP Error 400: Bad Request",
+      "finished_at_utc": "2026-10-22T04:26:43.507493+00:00"
+    }
+  ],
+  "historical_window": [
+    "2026-04-19",
+    "2026-10-19"
+  ],
+  "limitations": "New BOCHK capture filtered to historical dates; not a reconstruction of the October 19 feed. Public feeds are bounded samples."
+}

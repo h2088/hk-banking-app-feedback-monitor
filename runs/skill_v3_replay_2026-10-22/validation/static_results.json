@@ -1,0 +1,76 @@
+{
+  "passed": true,
+  "checked_at_utc": "2026-10-22T08:10:22.505985+00:00",
+  "report_sha256": "c0f73f52e9655e2e0dc9ff14a51b0bcb3031bddfda4c154f5e00623575a254b3",
+  "raw_verified_reviews": 1682,
+  "checks": [
+    {
+      "name": "Exact build hashes",
+      "passed": true
+    },
+    {
+      "name": "Imported raw hashes",
+      "passed": true
+    },
+    {
+      "name": "Unique IDs and newest-first order",
+      "passed": true
+    },
+    {
+      "name": "Every embedded original matches input and exact raw HTTP",
+      "passed": true
+    },
+    {
+      "name": "Embedded groups equals saved analysis",
+      "passed": true
+    },
+    {
+      "name": "Embedded themes equals saved analysis",
+      "passed": true
+    },
+    {
+      "name": "Embedded monthly equals saved analysis",
+      "passed": true
+    },
+    {
+      "name": "Embedded monthly_totals equals saved analysis",
+      "passed": true
+    },
+    {
+      "name": "Embedded deltas equals saved analysis",
+      "passed": true
+    },
+    {
+      "name": "Bank/store metrics independently recomputed",
+      "passed": true
+    },
+    {
+      "name": "Overlapping topic denominators",
+      "passed": true
+    },
+    {
+      "name": "Dynamic months include empty/partial buckets",
+      "passed": true
+    },
+    {
+      "name": "All within-store benchmark differences",
+      "passed": true
+    },
+    {
+      "name": "CSV Unicode originals and order",
+      "passed": true
+    },
+    {
+      "name": "Typed workbook counts and separate stores",
+      "passed": true
+    },
+    {
+      "name": "Actual source-bound reading judgments",
+      "passed": true
+    },
+    {
+      "name": "English combined offline report and monthly chart",
+      "passed": true
+    }
+  ]
+}

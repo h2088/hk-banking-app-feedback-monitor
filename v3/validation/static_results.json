@@ -1,0 +1,82 @@
+{
+  "passed": true,
+  "checked_at_utc": "2026-10-22T07:13:54.223468+00:00",
+  "report_sha256": "df2249e3a255e162d045e2417844dad6f45ee838bc006622685a1b9fee9fa348",
+  "checks": [
+    {
+      "name": "Unique IDs and stable newest-first ordering",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Date, ID, source paths and supported languages",
+      "passed": true,
+      "detail": 1682
+    },
+    {
+      "name": "All 418 V2 English reviews preserved exactly",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Every included original title/body/rating/time matches saved raw HTTP evidence",
+      "passed": true,
+      "detail": 1682
+    },
+    {
+      "name": "Six bank/store metric groups combine all included English and Chinese comments",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "66 theme rows use combined bank/store denominators",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "42 bank/store/month groups use combined comments and retain partial-month markers",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "14 monthly chart rows independently match volume, three-bank counts and low-star shares",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Four combined within-store benchmark differences recomputed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "CSV exact Unicode source text and ordering",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Typed Excel with separate store sheets and no executable formulas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unchanged source-bound reading sample retains actual agent judgments",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "V1 and V2 remain unchanged",
+      "passed": true,
+      "detail": 2020
+    },
+    {
+      "name": "English interface, unified population, restored monthly chart and no remote/name/reply payload",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Revision preserves original input, raw evidence, comments, labels and reading sample",
+      "passed": true,
+      "detail": 198
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "revised_at_utc": "2026-10-22T06:58:52.043578+00:00",
+  "reason": "Combine English and Chinese in one result; retain V1 monthly chart with separate stores and BOCHK",
+  "previous_delivery_archive": "runs/v3_before_combined_2026-10-22.zip",
+  "archive_sha256": "f02aacd81932f0479fb1d8caa41a128371315c96d16d6234e6515ea6cd4e01af",
+  "previous_report_sha256": "5b09db96b4403b9daf54c17043b3be00a0565abd3c24f7e2251f3ba46df6532d",
+  "protected_files": 198,
+  "collection": "Saved V3 capture reused; no new network collection"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "app": "SC Mobile",
+    "included_bilingual": 39,
+    "earliest_included_hk": "2026-09-01T13:17:27+08:00",
+    "latest_included_hk": "2026-09-30T21:27:18+08:00",
+    "first_capture_utc": "2026-10-19T07:49:26.398704+00:00",
+    "last_capture_utc": "2026-10-22T05:53:05.605444+00:00"
+  },
+  {
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "app": "HSBC HK",
+    "included_bilingual": 65,
+    "earliest_included_hk": "2026-09-01T09:56:57+08:00",
+    "latest_included_hk": "2026-09-29T21:20:27+08:00",
+    "first_capture_utc": "2026-10-19T07:49:50.862414+00:00",
+    "last_capture_utc": "2026-10-22T05:53:09.875865+00:00"
+  },
+  {
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "app": "BOCHK",
+    "included_bilingual": 73,
+    "earliest_included_hk": "2026-09-01T12:16:08+08:00",
+    "latest_included_hk": "2026-09-30T23:44:19+08:00",
+    "first_capture_utc": "2026-10-22T04:26:08.635386+00:00",
+    "last_capture_utc": "2026-10-22T05:53:13.781249+00:00"
+  },
+  {
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "app": "SC Mobile",
+    "included_bilingual": 18,
+    "earliest_included_hk": "2026-09-08T21:39:55+08:00",
+    "latest_included_hk": "2026-09-30T14:01:58+08:00",
+    "first_capture_utc": "2026-10-19T08:29:31.364850+00:00",
+    "last_capture_utc": "2026-10-19T08:29:31.364850+00:00"
+  },
+  {
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "app": "HSBC HK",
+    "included_bilingual": 45,
+    "earliest_included_hk": "2026-09-01T20:46:30+08:00",
+    "latest_included_hk": "2026-09-30T23:28:15+08:00",
+    "first_capture_utc": "2026-10-19T08:29:41.601340+00:00",
+    "last_capture_utc": "2026-10-19T08:29:42.958921+00:00"
+  },
+  {
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "app": "BOCHK",
+    "included_bilingual": 44,
+    "earliest_included_hk": "2026-09-01T10:22:53+08:00",
+    "latest_included_hk": "2026-09-30T09:54:24+08:00",
+    "first_capture_utc": "2026-10-22T04:26:07.896503+00:00",
+    "last_capture_utc": "2026-10-22T04:26:12.348642+00:00"
+  }
+]

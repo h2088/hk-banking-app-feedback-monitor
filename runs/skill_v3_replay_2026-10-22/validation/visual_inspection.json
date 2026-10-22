@@ -1,0 +1,22 @@
+{
+  "status": "reviewed",
+  "reviewer": "Codex agent",
+  "reviewed_at_utc": "2026-10-22T08:06:59+00:00",
+  "report_sha256": "c0f73f52e9655e2e0dc9ff14a51b0bcb3031bddfda4c154f5e00623575a254b3",
+  "screenshots": {
+    "screenshots/google_play_combined.png": "d874bcb6f5ade611f264a6b3f39e339d6492263d8056bb0a6a93d8b3e9a4e93b",
+    "screenshots/apple_combined.png": "dd6f548decf4dd853ceb7b04c314a297c9370c45ede6b04c70ce14d1fbbbfda0",
+    "screenshots/google_monthly_feedback.png": "ab680a4d2a0c5f90524ac3827189e03850c932323af676a09482b000c7845731",
+    "screenshots/apple_monthly_feedback.png": "bafc5923828c4877e0b5edf5b91d9aa634ca5b6eb93296f7c66c0c5cd640d2bd",
+    "screenshots/combined_comments.png": "69bedb5ffd8fa256b8807959fc5bb0be945bddbbf0f42832218b5c97fb58a802",
+    "screenshots/narrow_google_play.png": "a296a5c697e5f14bc1f3e87690fa0a1fe4c15e0cbe83d79a08c67397d5b7c9e9",
+    "screenshots/narrow_monthly_feedback.png": "c6dc8b40962608aeb381c3147e44f25ad3a4652237245168adc5e13a09241b19"
+  },
+  "judgments": [
+    "Actually opened and inspected all seven saved PNGs. Both desktop overviews show the selected store and all three banks, with consistent denominators and within-store benchmark gaps.",
+    "Both desktop monthly screenshots retain the V1 horizontal blue bars. Google monthly volumes are 53,183,181,161,167,177,104; Apple 46,101,111,102,121,107,68. Bank counts and low-star shares are readable; April and October are marked partial.",
+    "The Apple comment screenshot shows English and Chinese source comments together in time order, with original titles and no language selector or badges. It shows 656 matching Apple comments.",
+    "Narrow overview stacks the cards and wraps the header. Narrow monthly view keeps blue bars, totals and the three bank annotations readable without page-wide horizontal overflow. Lower content continues by normal vertical scrolling.",
+    "Screenshots focused on monthly/comments intentionally hide other sections in temporary test copies. The delivered HTML itself is unchanged. This is agent visual inspection, not independent human acceptance."
+  ]
+}

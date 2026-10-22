@@ -1,0 +1,41 @@
+{
+  "requested_url": "https://play.google.com/store/apps/details?id=com.bochk.app.aos&hl=en&gl=HK",
+  "method": "GET",
+  "attempt": 1,
+  "request_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9"
+  },
+  "request_body": null,
+  "started_at_utc": "2026-10-22T04:26:07.350805+00:00",
+  "status": 200,
+  "final_url": "https://play.google.com/store/apps/details?id=com.bochk.app.aos&hl=en&gl=HK",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "x-ua-compatible": "IE=edge",
+    "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+    "Pragma": "no-cache",
+    "Expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+    "Date": "Thu, 22 Oct 2026 04:26:07 GMT",
+    "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "Accept-CH": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+    "Cross-Origin-Resource-Policy": "same-site",
+    "Content-Security-Policy": "require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport",
+    "Permissions-Policy": "ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*",
+    "reporting-endpoints": "default=\"/_/PlayStoreUi/web-reports?context=eJzjWsGoxSXF4KchxdB68xzrVCAuWXSetQWIu4B4FhAbKlxidQTiIokrrE1A_KnqBqtQ9Q3WVcfus24A4lmMD1gXALG_6kPWUCBOb3zImgXE6QsesuYCsdfyh6y-QLx11UPWHUCsv-shqykQf9r7kPUbELMce8jKBcReVx6yBgDx7BcPWecB8bdiXza2El82lrf-bP-6Y9mEuDnuL3h2jU1gxaP5FkrySfmF8QU5iZWlmcWpRWWpRfFGBkZmhgaGlnqGhvEFBgChz1xJ\"",
+    "Server": "ESF",
+    "X-XSS-Protection": "0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Set-Cookie": "NID=CuQBCAESlgEBOxGDSBphKB5l7CRTLcYmAT61wfpNvh04c2T6hE1FbWwydTJbpmalcUfnbKEMmCwawWZEBNDrVF7B7G5LuE_vh02RFWaEgldqqynBR1M6iZbJqXUCfURu2-qNxyH4rJeWElzAlqx5OivQXsQgxvg6sFixc2lwYaTGfqjyPuyPz_tVNFWELz5kL1jxiue58T0qMBfbpV4oATJFAdKsB88dopyeO9VTcnIHuxLDcqg0zYgcVxR01wqt8A2My4HHxhpIXZfLuxJcuzaFI5-rzQCsgW3gYERHqk-RfYYM7cAH; expires=Fri, 23-Apr-2027 04:26:07 GMT; path=/; domain=.google.com; HttpOnly",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "Accept-Ranges": "none",
+    "Vary": "Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  },
+  "bytes": 1298770,
+  "sha256": "f948a159cc1d889cac8ae82c532e19b4aae7906dbefb52bed3a93345d9ed4b47"
+}

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "assertions": 386,
+  "synthetic_only": true,
+  "scenarios": [
+    "Renamed two-bank configuration",
+    "Different one-calendar-month window",
+    "Empty Google store and null rates",
+    "Negative benchmark gap",
+    "Literal source markup and formula-looking text"
+  ],
+  "source_records": 4,
+  "screenshots_generated": 7,
+  "independent_customer_delivery": false
+}

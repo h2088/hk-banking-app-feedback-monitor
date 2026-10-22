@@ -1,0 +1,36 @@
+{
+  "release": "combined-bilingual-v3",
+  "configuration_schema": 2,
+  "updated_on": "2026-10-22",
+  "base": "Preserved app-review-feedback V1 Skill; original parser/theme/cell extractions are documented in resource_provenance.json",
+  "extensions": [
+    {
+      "source": "v3/scripts/v2_rules.py",
+      "source_sha256": "9c2e5eca5cf523316f57dfa3ea21d12ef6672f59dbfaa0043ef43281bdd6d354",
+      "output": "scripts/v2_rules.py",
+      "change": "Retained English identity-verification and suggestion extensions"
+    },
+    {
+      "source": "v3/scripts/bilingual_rules.py",
+      "source_sha256": "141034061b01ad783f5ff5fc267386cef5d06007ce9266854b7f13b89091ef51",
+      "output": "scripts/bilingual_rules.py",
+      "change": "Retained bilingual topics; removed global historical short-phrase language overrides; added explicit source-bound imported/override decisions and empty-body exclusion"
+    },
+    {
+      "source": "v3/assets/report.html",
+      "source_sha256": "8644271077cceb654a80ef140bdcdd4b5b72d010c5285b58d1e8b761b093c4ac",
+      "output": "assets/report.html",
+      "change": "Parameterized dates, banks, sample counts, capture limits and monthly buckets; retained corrected combined-language store split and V1 horizontal monthly bars"
+    },
+    {
+      "source": "v3/scripts/browser_check.py",
+      "source_sha256": "8f7a20b94ceb0b6cc65e5f9afca004b2c050a0d58434796adccfc2f13d7d921f",
+      "output": "scripts/browser_check.py",
+      "change": "Parameterized batch path, banks, benchmark signs, counts and months; verified empty store and renamed two-bank configuration"
+    }
+  ],
+  "rewritten": ["SKILL.md", "agents/openai.yaml", "references/workflow.md", "references/execution.md", "references/methods.md", "references/validation.md", "scripts/run_feedback.py", "scripts/build_report.py", "scripts/verify_report.py", "scripts/test_workflow.py"],
+  "adapted": ["assets/apps.json", "scripts/feedback_io.py", "scripts/collect_reviews.py"],
+  "removed_obsolete_resources": ["assets/report.css", "assets/report.js", "scripts/extract_project_resources.py"],
+  "data_boundary": "Package includes methods, code, default app identities and templates. No customer comments, raw responses, user identities, run outputs, private reading notes or virtual environment."
+}

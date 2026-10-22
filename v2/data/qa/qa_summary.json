@@ -1,0 +1,139 @@
+{
+  "prepared_at_utc": "2026-10-22T04:50:45.558553+00:00",
+  "window_start_inclusive_hk": "2026-04-19T00:00:00+08:00",
+  "window_end_exclusive_hk": "2026-10-20T00:00:00+08:00",
+  "all_fetched_records": 6378,
+  "window_all_languages": 865,
+  "english_window_records": 418,
+  "baseline_records_preserved": 311,
+  "bochk_english_added": 107,
+  "repeated_text_groups": 9,
+  "repeated_text_records": 39,
+  "short_comment_title_plus_body_count": 116,
+  "unclassified_count": 147,
+  "validation_sample_count": 29,
+  "coverage": [
+    {
+      "platform": "Google Play",
+      "app_key": "sc_mobile",
+      "app": "SC Mobile",
+      "fetched_all_dates_languages": 1051,
+      "within_window_all_languages": 53,
+      "english_in_window": 48,
+      "window_language_status_counts": {
+        "english": 48,
+        "non_english": 2,
+        "mixed": 3
+      },
+      "earliest_fetched_hk": "2013-09-06T20:50:05+08:00",
+      "latest_fetched_hk": "2026-10-16T09:25:03+08:00",
+      "earliest_english_in_window_hk": "2026-04-20T11:00:21+08:00",
+      "latest_english_in_window_hk": "2026-10-16T09:25:03+08:00",
+      "collected_at_utc_min": "2026-10-19T07:49:26.398704+00:00",
+      "collected_at_utc_max": "2026-10-19T07:49:50.745511+00:00",
+      "reached_before_window": true
+    },
+    {
+      "platform": "Google Play",
+      "app_key": "hsbc_hk",
+      "app": "HSBC HK",
+      "fetched_all_dates_languages": 3227,
+      "within_window_all_languages": 99,
+      "english_in_window": 92,
+      "window_language_status_counts": {
+        "english": 92,
+        "non_english": 1,
+        "uncertain": 5,
+        "mixed": 1
+      },
+      "earliest_fetched_hk": "2016-10-26T17:30:49+08:00",
+      "latest_fetched_hk": "2026-10-15T02:39:51+08:00",
+      "earliest_english_in_window_hk": "2026-04-22T13:00:09+08:00",
+      "latest_english_in_window_hk": "2026-10-15T02:39:51+08:00",
+      "collected_at_utc_min": "2026-10-19T07:49:50.862414+00:00",
+      "collected_at_utc_max": "2026-10-19T07:51:04.888740+00:00",
+      "reached_before_window": true
+    },
+    {
+      "platform": "Google Play",
+      "app_key": "bochk",
+      "app": "BOCHK",
+      "fetched_all_dates_languages": 600,
+      "within_window_all_languages": 56,
+      "english_in_window": 47,
+      "window_language_status_counts": {
+        "english": 47,
+        "non_english": 8,
+        "mixed": 1
+      },
+      "earliest_fetched_hk": "2021-04-10T16:45:31+08:00",
+      "latest_fetched_hk": "2026-10-18T23:11:18+08:00",
+      "earliest_english_in_window_hk": "2026-04-19T22:20:29+08:00",
+      "latest_english_in_window_hk": "2026-10-18T23:11:18+08:00",
+      "collected_at_utc_min": "2026-10-22T04:26:08.635386+00:00",
+      "collected_at_utc_max": "2026-10-22T04:26:18.456719+00:00",
+      "reached_before_window": true
+    },
+    {
+      "platform": "Apple App Store",
+      "app_key": "sc_mobile",
+      "app": "SC Mobile",
+      "fetched_all_dates_languages": 500,
+      "within_window_all_languages": 108,
+      "english_in_window": 50,
+      "window_language_status_counts": {
+        "mixed": 20,
+        "non_english": 38,
+        "english": 50
+      },
+      "earliest_fetched_hk": "2023-09-12T12:58:37+08:00",
+      "latest_fetched_hk": "2026-10-15T22:48:31+08:00",
+      "earliest_english_in_window_hk": "2026-04-22T16:37:54+08:00",
+      "latest_english_in_window_hk": "2026-10-12T17:46:39+08:00",
+      "collected_at_utc_min": "2026-10-19T08:29:31.364850+00:00",
+      "collected_at_utc_max": "2026-10-19T08:32:06.735522+00:00",
+      "reached_before_window": true
+    },
+    {
+      "platform": "Apple App Store",
+      "app_key": "hsbc_hk",
+      "app": "HSBC HK",
+      "fetched_all_dates_languages": 500,
+      "within_window_all_languages": 268,
+      "english_in_window": 121,
+      "window_language_status_counts": {
+        "non_english": 130,
+        "english": 121,
+        "mixed": 16,
+        "uncertain": 1
+      },
+      "earliest_fetched_hk": "2026-03-14T20:07:02+08:00",
+      "latest_fetched_hk": "2026-10-17T14:33:05+08:00",
+      "earliest_english_in_window_hk": "2026-04-21T13:27:45+08:00",
+      "latest_english_in_window_hk": "2026-10-10T08:21:26+08:00",
+      "collected_at_utc_min": "2026-10-19T08:29:41.601340+00:00",
+      "collected_at_utc_max": "2026-10-19T08:33:54.125284+00:00",
+      "reached_before_window": true
+    },
+    {
+      "platform": "Apple App Store",
+      "app_key": "bochk",
+      "app": "BOCHK",
+      "fetched_all_dates_languages": 500,
+      "within_window_all_languages": 281,
+      "english_in_window": 60,
+      "window_language_status_counts": {
+        "english": 60,
+        "non_english": 186,
+        "mixed": 35
+      },
+      "earliest_fetched_hk": "2025-11-05T08:39:27+08:00",
+      "latest_fetched_hk": "2026-10-19T22:24:46+08:00",
+      "earliest_english_in_window_hk": "2026-04-20T01:35:40+08:00",
+      "latest_english_in_window_hk": "2026-10-19T22:24:46+08:00",
+      "collected_at_utc_min": "2026-10-22T04:26:07.896503+00:00",
+      "collected_at_utc_max": "2026-10-22T04:26:31.991626+00:00",
+      "reached_before_window": true
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+[
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:5f83fbbc-a93d-4d43-93df-941558309c64",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "rating": 1,
+    "review_time_hk": "2026-10-16T09:25:03+08:00",
+    "title": null,
+    "text": "the app force closed unexpectedly after the update, can't even manage anything. please fix ASAP",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "app_stability_performance"
+    ],
+    "theme_labels": [
+      "App stability / performance"
+    ],
+    "fingerprint": "39eeac7c1957265eb94c436ca7ae2ac2d80486945a20f7d3ecb4a6e28b7f8c1b"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:0b5e720f-575c-4136-a614-57eb04811435",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "rating": 2,
+    "review_time_hk": "2026-09-16T12:09:16+08:00",
+    "title": null,
+    "text": "apps layout is so messy, not easy to find a simple function key, too much investment information and repeatedly everywhere, much helpful if its separate into few areas for banking, investment and others",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "usability_navigation_design",
+      "customer_support_service"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design",
+      "Customer support / service"
+    ],
+    "fingerprint": "0b2fd2e9df70c69e4bc3587d99a2f1e887d7d245ada1aae8d5be744e1db08c28"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:417b305e-250d-485f-81fc-a85da5b38738",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "rating": 4,
+    "review_time_hk": "2026-06-20T14:09:32+08:00",
+    "title": null,
+    "text": "I would like to watch the password what I type",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "unknown",
+    "themes": [
+      "login_authentication_access",
+      "feature_request"
+    ],
+    "theme_labels": [
+      "Login / authentication / access",
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "354e6de1c978b36581dfe81f3f23b3bc7e6b744e8962ac1b74ee6acf08acb4d0"
+  },
+  {
+    "record_key": "google_play:com.scb.breezebanking.hk:2742140c-bb8e-4eef-a4dd-1af6544ed6a1",
+    "platform": "Google Play",
+    "app_key": "sc_mobile",
+    "rating": 5,
+    "review_time_hk": "2026-09-27T21:50:51+08:00",
+    "title": null,
+    "text": "easy to use thanks",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "positive",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "72e1cf83e06f9189ffa47d16a0b9b930b7826f3eb5012a31fabdbe507b1e9da4"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:277e0a3b-bb79-4c38-81df-a23252b56ff5",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "rating": 1,
+    "review_time_hk": "2026-10-15T02:39:51+08:00",
+    "title": null,
+    "text": "poor verification process",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "3e4a317da25ca692579773566c518b1e2a5fd998a1f1afec3a986ca9926a00df"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:7d2a0e75-4a63-4d53-aebe-b993fa8ac61b",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "rating": 2,
+    "review_time_hk": "2026-10-02T12:54:17+08:00",
+    "title": null,
+    "text": "complicated app, annoying fx ads",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "usability_navigation_design",
+      "fees_rates"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design",
+      "Fees / rates"
+    ],
+    "fingerprint": "f33762e8922f93278f27c5fa6ee5c30fe8e75ec8a26bd495dc6355876385e18b"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:09c9c1ad-9052-43be-9194-f8cfaa522ace",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "rating": 3,
+    "review_time_hk": "2026-10-14T17:02:18+08:00",
+    "title": null,
+    "text": "For security purposes, maybe you should remove the users name at the welcoming screen. Someone could look over your shsoulder when and if you use the app in public and have a thread to pull on when doxxing you.",
+    "rating_sentiment": "neutral",
+    "text_sentiment_rule": "unknown",
+    "themes": [
+      "security_fraud_trust"
+    ],
+    "theme_labels": [
+      "Security / fraud / trust"
+    ],
+    "fingerprint": "252a27dec49513f3022472ca392ec2f544f0ca665b90c31d3932f726399f9a12"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:fc616416-2dc7-443a-bb70-546be042c22b",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "rating": 4,
+    "review_time_hk": "2026-10-08T15:19:05+08:00",
+    "title": null,
+    "text": "cannot do scree shot is very frustrating.",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "feature_request"
+    ],
+    "theme_labels": [
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "2835e00a83b03a33060a422d39f43d52b5b31225dc8f2a1ca47b23ac31e9e231"
+  },
+  {
+    "record_key": "google_play:hk.com.hsbc.hsbchkmobilebanking:6ac3aa37-f227-4bb0-afea-669f596562d8",
+    "platform": "Google Play",
+    "app_key": "hsbc_hk",
+    "rating": 5,
+    "review_time_hk": "2026-10-10T22:58:06+08:00",
+    "title": null,
+    "text": "Both services, systems and app are the best.",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "e2821026adf4a23be67d16669971bad4546c025c21a642ba392c214aa9ae848e"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:9fbe6621-ba0b-4244-820e-87add985d74e",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "rating": 1,
+    "review_time_hk": "2026-10-18T23:11:18+08:00",
+    "title": null,
+    "text": "not user friendly",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "mixed_or_neutral",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "59b43f391993d4c7f79260e47f3a95b8b4450ea958d0fe5d226c6c6e388be69b"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:f5c91b2f-0710-4aa5-853b-dca1225d6e91",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "rating": 2,
+    "review_time_hk": "2026-09-28T17:09:16+08:00",
+    "title": null,
+    "text": "unable to upload document. starting over and over again. such a poor user experience. quite disappointed.",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "874885f5e955dddb1678fffce1cba2de9bda73409c59fce8dd13d3758437d3eb"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:f9ca5de9-59b1-4365-8d4b-c1576bc99313",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "rating": 3,
+    "review_time_hk": "2026-09-14T16:26:11+08:00",
+    "title": null,
+    "text": "Face recognition is poor",
+    "rating_sentiment": "neutral",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "7b8b4c0e5620459ee72812ee21d8f8eb1112a15c71ae02e5fbac13f69b2e63d2"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:ffb0febb-5e45-4613-8fae-471e956c0038",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "rating": 4,
+    "review_time_hk": "2026-09-04T16:03:05+08:00",
+    "title": null,
+    "text": "good",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "72fc95af90272f267fff07bde2c6d0821168b69d9385b916a2e9ac94dcb8ab90"
+  },
+  {
+    "record_key": "google_play:com.bochk.app.aos:112df803-a757-4aca-8cab-30d30de4de69",
+    "platform": "Google Play",
+    "app_key": "bochk",
+    "rating": 5,
+    "review_time_hk": "2026-10-05T13:58:14+08:00",
+    "title": null,
+    "text": "very good",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "08e880abf05e77b06ec749b2bd441fd3ec06f3bc5d59eec84827f7f2d33bc284"
+  },
+  {
+    "record_key": "apple:445795688:14615873095",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "rating": 1,
+    "review_time_hk": "2026-10-02T02:03:38+08:00",
+    "title": "Ms Chau",
+    "text": "In these recent App updates, you keep changing the layout. It makes it hard to locate. Why makes it not easy for user to use? And the fonts because very small. The app is unable to enlarge. OMG ! Why make it difficult????\n\n\nFeel like crazy. This is unable to find and unable to read. Is this updated not going for user to use??? If I want an urgent suspense of my credit card due to suspected Scam Now get no way to read and no where to find. This is really a very poor App  update  and poor design ever seen from any of Bank App",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "transfers_payments_cards",
+      "usability_navigation_design",
+      "security_fraud_trust"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards",
+      "Usability / navigation / design",
+      "Security / fraud / trust"
+    ],
+    "fingerprint": "e03aab09c9fcc07a66e230e0a4557bb1432d32214a94256cd2f0728a275bc0ba"
+  },
+  {
+    "record_key": "apple:445795688:14657144927",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "rating": 2,
+    "review_time_hk": "2026-10-12T17:46:39+08:00",
+    "title": "Just won’t load",
+    "text": "When I try to go to the transfer money page it just won’t load…is this a new way to prevent people transferring out money?",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "app_stability_performance",
+      "transfers_payments_cards"
+    ],
+    "theme_labels": [
+      "App stability / performance",
+      "Transfers / payments / cards"
+    ],
+    "fingerprint": "0f4c07de04a247a2590a79cba7b5bdf95448b3407eb282f852b748fc43ab8b84"
+  },
+  {
+    "record_key": "apple:445795688:14625921365",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "rating": 3,
+    "review_time_hk": "2026-10-04T16:32:48+08:00",
+    "title": "UX in iphone 17 pro need to be improved",
+    "text": "Investment questionare ux flow do not render properly on iphone 17 pro, and it exceeded the application viewport. Users have to check the entire questionaire just to find the close questionare button.",
+    "rating_sentiment": "neutral",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "47f1090cd5de0e1c2d82d1ad54560b7ef3a2db93a798235f62c87a33e8846063"
+  },
+  {
+    "record_key": "apple:445795688:14645236876",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "rating": 4,
+    "review_time_hk": "2026-10-09T18:02:38+08:00",
+    "title": "easy to use",
+    "text": "user-friendly bank app",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "positive",
+    "themes": [
+      "usability_navigation_design"
+    ],
+    "theme_labels": [
+      "Usability / navigation / design"
+    ],
+    "fingerprint": "4431ce52f4a7fe3c66da8af1b632dd87e604f14073606c67e0cbf411d2d9e230"
+  },
+  {
+    "record_key": "apple:445795688:14525319418",
+    "platform": "Apple App Store",
+    "app_key": "sc_mobile",
+    "rating": 5,
+    "review_time_hk": "2026-09-08T21:39:55+08:00",
+    "title": "Easy",
+    "text": "Easy to make",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "b8f2cbed818e32651209409b32231236a2ab910599d16a073311c5f0b33eed08"
+  },
+  {
+    "record_key": "apple:1164066737:14640444470",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "rating": 1,
+    "review_time_hk": "2026-10-08T10:46:51+08:00",
+    "title": "Counterintuitive",
+    "text": "It always says “there is an error” without specifying what the error is. Very annoying",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "app_stability_performance"
+    ],
+    "theme_labels": [
+      "App stability / performance"
+    ],
+    "fingerprint": "ce4b8bdd0437320ad61f17cb6398f6e1b0ef2d7e62589877584442bf19707a24"
+  },
+  {
+    "record_key": "apple:1164066737:14571599325",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "rating": 2,
+    "review_time_hk": "2026-09-20T17:34:45+08:00",
+    "title": "Pls stop",
+    "text": "Too frequent ID  or email checking .",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "unknown",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "90091fa9b744a9abd08fa78bd26c6d1f06678c21fda29566c2b17b0e5880eadc"
+  },
+  {
+    "record_key": "apple:1164066737:14456416671",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "rating": 3,
+    "review_time_hk": "2026-08-22T06:10:12+08:00",
+    "title": "Combine",
+    "text": "I strongly suggest that the financial services should be combined in a single app ie mobile banking, Reward +, PayMe, investment as they consume a lot of storage in the mobile phone.",
+    "rating_sentiment": "neutral",
+    "text_sentiment_rule": "unknown",
+    "themes": [
+      "feature_request"
+    ],
+    "theme_labels": [
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "df2c4b4bb2eb3604913067f08619ac197e0f4d5cadac1e5415db541e3180cdf6"
+  },
+  {
+    "record_key": "apple:1164066737:14468476554",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "rating": 4,
+    "review_time_hk": "2026-08-25T09:10:03+08:00",
+    "title": "Unable to buy stock",
+    "text": "Don’t know why can’t buy stock. No clear guidance",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "negative",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "ce93825e6f4e0613d8a0ebecc35eea11b58ac82b590c1ebb3c29290b22d53829"
+  },
+  {
+    "record_key": "apple:1164066737:14647781158",
+    "platform": "Apple App Store",
+    "app_key": "hsbc_hk",
+    "rating": 5,
+    "review_time_hk": "2026-10-10T08:21:26+08:00",
+    "title": "Nice",
+    "text": "Good",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "positive",
+    "themes": [],
+    "theme_labels": [],
+    "fingerprint": "2950260e402e90d6731adbdc59132873935b7d2a6da15bedaa242005425b0302"
+  },
+  {
+    "record_key": "apple:1534534188:14654093186",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "rating": 1,
+    "review_time_hk": "2026-10-11T22:45:03+08:00",
+    "title": "Ida",
+    "text": "Always failed to scan HKID after multiple trial. My phome model is phone 16 pro.",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "login_authentication_access"
+    ],
+    "theme_labels": [
+      "Login / authentication / access"
+    ],
+    "fingerprint": "695cd68d202a0cfdba145f4932053a58cf63b5a1f9b54a6e6b63059ad80f495d"
+  },
+  {
+    "record_key": "apple:1534534188:14022758263",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "rating": 2,
+    "review_time_hk": "2026-05-03T14:41:46+08:00",
+    "title": "The withdrawal card can‘t bind Apple Pay.",
+    "text": "After the mobile phone is upgraded to iOS26.3, the deduction card cannot be added, and the withdrawal card cannot be paid with Apple Pay. After I tried to unbind it, the withdrawal card could not be tied.",
+    "rating_sentiment": "negative",
+    "text_sentiment_rule": "negative",
+    "themes": [
+      "transfers_payments_cards"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards"
+    ],
+    "fingerprint": "89492c429862559f7edc69340a4145c1a53c5935cfe46f4a62d86eb530035a29"
+  },
+  {
+    "record_key": "apple:1534534188:14618954294",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "rating": 3,
+    "review_time_hk": "2026-10-02T21:53:29+08:00",
+    "title": "Suggest improvement",
+    "text": "Can consider for one click for credit card payment",
+    "rating_sentiment": "neutral",
+    "text_sentiment_rule": "unknown",
+    "themes": [
+      "transfers_payments_cards",
+      "feature_request"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards",
+      "Feature request / suggestion"
+    ],
+    "fingerprint": "34439f28aa79a87289b0923f80d5915faaac82458b320c8613201eafe4567a68"
+  },
+  {
+    "record_key": "apple:1534534188:14673502959",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "rating": 4,
+    "review_time_hk": "2026-10-16T21:44:38+08:00",
+    "title": "During transfer step. Didn’t show the balance",
+    "text": "V",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "unknown",
+    "themes": [
+      "transfers_payments_cards",
+      "balance_statements_history"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards",
+      "Balance / statements / history"
+    ],
+    "fingerprint": "a3e895a8701488368ca782f6020338546e05e9b73b32356af743e37fe31c7bb0"
+  },
+  {
+    "record_key": "apple:1534534188:14685675311",
+    "platform": "Apple App Store",
+    "app_key": "bochk",
+    "rating": 5,
+    "review_time_hk": "2026-10-19T22:24:46+08:00",
+    "title": "First time term deposit",
+    "text": "Seems easy",
+    "rating_sentiment": "positive",
+    "text_sentiment_rule": "positive",
+    "themes": [
+      "transfers_payments_cards"
+    ],
+    "theme_labels": [
+      "Transfers / payments / cards"
+    ],
+    "fingerprint": "4f0620a4764d4e3de36036118ca23b83fb7d57a264b089a8b23af8a7b99f8c7f"
+  }
+]
